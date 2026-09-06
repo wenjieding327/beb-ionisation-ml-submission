@@ -1,0 +1,50 @@
+﻿feature,relative_importance,feature_group
+n_Cl,0.12332296209486182,Molecular composition
+n_F,0.09821621850066155,Molecular composition
+n_O,0.06368601618787696,Molecular composition
+halogen_atoms,0.04081188434036085,Molecular composition
+beb_shape_peak,0.036470098446976816,BEB curve-shape descriptors
+log_beb^2,0.028980576287799122,Interaction terms
+beb_shape_peak_energy,0.02852283341670687,BEB curve-shape descriptors
+heavy_atom_fraction,0.027855724772926756,Molecular composition
+inv_sqrt_energy,0.027803167598648714,Collision energy
+log_beb*total_atoms,0.027530070823552404,Interaction terms
+log_energy_from_peak,0.026835096120922122,BEB curve-shape descriptors
+n_C,0.026449214980811504,Molecular composition
+log_energy^2,0.026233210204898588,Interaction terms
+total_atoms,0.026127250426189016,Molecular composition
+log_energy,0.026015030433973726,Collision energy
+total_electrons,0.0250496375239027,Molecular composition
+log_energy*total_atoms,0.02421300315883782,Interaction terms
+energy_over_beb_peak,0.02357071540520085,BEB curve-shape descriptors
+n_S,0.0234597083980054,Molecular composition
+total_electrons^2,0.02302877039319348,Interaction terms
+beb_has_multi_point_shape,0.020842564328622772,BEB curve-shape descriptors
+n_H,0.02033661289943985,Molecular composition
+log_beb*heavy_atoms,0.018798311171865454,Interaction terms
+heavy_atoms^2,0.018185279513663652,Interaction terms
+beb_normalized,0.017660524335943693,BEB curve-shape descriptors
+log_beb,0.017222426874240533,BEB magnitude
+log_beb*log_energy,0.01684292161766875,Interaction terms
+n_N,0.01622583948146132,Molecular composition
+total_atoms^2,0.015016275706081435,Interaction terms
+log_energy*heavy_atoms,0.014283351456791838,Interaction terms
+heavy_atoms*total_electrons,0.013453920600212879,Interaction terms
+total_atoms*heavy_atoms,0.01261925497510151,Interaction terms
+n_Si,0.010865055393360528,Molecular composition
+heavy_atoms,0.00909547679129918,Molecular composition
+beb_log_curvature,0.006931111842605819,BEB curve-shape descriptors
+beb_log_slope,0.00622806448911149,BEB curve-shape descriptors
+n_Br,0.0028412495974679754,Molecular composition
+energy_missing,0.001725453461635268,Collision energy
+shape_at_missing_energy,0.001709048403099375,BEB curve-shape descriptors
+n_Ti,0.0015821255833760384,Molecular composition
+n_Ge,0.0012105395902634328,Molecular composition
+n_P,0.0006993680251015295,Molecular composition
+n_Ga,0.0006581423260604252,Molecular composition
+n_B,0.0003511618304604532,Molecular composition
+n_I,0.0002906353291964421,Molecular composition
+n_Al,0.000144094859561221,Molecular composition
+n_Mg,0.0,Molecular composition
+n_W,0.0,Molecular composition
+n_As,0.0,Molecular composition

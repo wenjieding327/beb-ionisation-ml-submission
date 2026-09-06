@@ -1,0 +1,289 @@
+{
+  "curve_primary_result": {
+    "raw_primary_molecule_macro_NMAE": 0.15328374881705498,
+    "ml_primary_molecule_macro_NMAE": 0.12176776138788466,
+    "absolute_improvement_percentage_points": 3.1515987429170336,
+    "relative_reduction_percent": 20.560553661030845,
+    "improvement_percentage_points_95_CI": [
+      1.2703101547792335,
+      4.957643508044055
+    ],
+    "probability_improved": 0.99935,
+    "resamples": 20000,
+    "molecules": 80
+  },
+  "ablation": [
+    {
+      "method": "raw_beb",
+      "all_evidence_primary_macro_NMAE": 0.19996272278670713,
+      "all_evidence_R2": 0.9084786510849906,
+      "curve_primary_macro_NMAE": 0.15328374881705498,
+      "curve_R2": 0.9248084366218727
+    },
+    {
+      "method": "constant_scale",
+      "all_evidence_primary_macro_NMAE": 0.2107663133098707,
+      "all_evidence_R2": 0.9160325204550361,
+      "curve_primary_macro_NMAE": 0.1599645546703467,
+      "curve_R2": 0.9296071171686069
+    },
+    {
+      "method": "direct_log_prediction",
+      "all_evidence_primary_macro_NMAE": 0.14542830283401623,
+      "all_evidence_R2": 0.9565598310745589,
+      "curve_primary_macro_NMAE": 0.1307272774930947,
+      "curve_R2": 0.9604119026522929
+    },
+    {
+      "method": "residual_energy_beb_only",
+      "all_evidence_primary_macro_NMAE": 0.17802740646585663,
+      "all_evidence_R2": 0.9411635656752729,
+      "curve_primary_macro_NMAE": 0.14699555227688108,
+      "curve_R2": 0.953288936440192
+    },
+    {
+      "method": "residual_no_molecular_composition",
+      "all_evidence_primary_macro_NMAE": 0.17754178581142557,
+      "all_evidence_R2": 0.9465558772390781,
+      "curve_primary_macro_NMAE": 0.13939755962215067,
+      "curve_R2": 0.9568077910800298
+    },
+    {
+      "method": "residual_no_beb_shape",
+      "all_evidence_primary_macro_NMAE": 0.12528861451643092,
+      "all_evidence_R2": 0.9650502786353429,
+      "curve_primary_macro_NMAE": 0.12024094050940089,
+      "curve_R2": 0.9669721266462301
+    },
+    {
+      "method": "pooled_no_task_routing",
+      "all_evidence_primary_macro_NMAE": 0.12165769593464222,
+      "all_evidence_R2": 0.9687048774025067,
+      "curve_primary_macro_NMAE": 0.11214243090831184,
+      "curve_R2": 0.9721218666970538
+    },
+    {
+      "method": "full_routed_residual",
+      "all_evidence_primary_macro_NMAE": 0.12488668941351276,
+      "all_evidence_R2": 0.96470802967687,
+      "curve_primary_macro_NMAE": 0.12176776138788466,
+      "curve_R2": 0.9665885140607335
+    }
+  ],
+  "ablation_paired_bootstrap": [
+    {
+      "scope": "curve",
+      "comparison": "routed residual versus direct log prediction",
+      "molecules": 80,
+      "baseline_primary_macro_NMAE": 0.1307272774930947,
+      "candidate_primary_macro_NMAE": 0.12176776138788466,
+      "baseline_minus_candidate_percentage_points": 0.8959516105210046,
+      "difference_95_CI_low": -0.027693732336283736,
+      "difference_95_CI_high": 1.8833243684728938,
+      "positive_resamples": 19436,
+      "resamples": 20000
+    },
+    {
+      "scope": "curve",
+      "comparison": "no-shape residual versus full routed residual",
+      "molecules": 80,
+      "baseline_primary_macro_NMAE": 0.12176776138788466,
+      "candidate_primary_macro_NMAE": 0.12024094050940089,
+      "baseline_minus_candidate_percentage_points": 0.15268208784837567,
+      "difference_95_CI_low": -0.2655653279933843,
+      "difference_95_CI_high": 0.58764251904469,
+      "positive_resamples": 15163,
+      "resamples": 20000
+    },
+    {
+      "scope": "curve",
+      "comparison": "pooled residual versus full routed residual",
+      "molecules": 80,
+      "baseline_primary_macro_NMAE": 0.12176776138788466,
+      "candidate_primary_macro_NMAE": 0.11214243090831184,
+      "baseline_minus_candidate_percentage_points": 0.9625330479572798,
+      "difference_95_CI_low": -0.3146950151574281,
+      "difference_95_CI_high": 2.38506790751572,
+      "positive_resamples": 18511,
+      "resamples": 20000
+    },
+    {
+      "scope": "all evidence",
+      "comparison": "pooled residual versus full routed residual",
+      "molecules": 194,
+      "baseline_primary_macro_NMAE": 0.12488668941351276,
+      "candidate_primary_macro_NMAE": 0.12165769593464222,
+      "baseline_minus_candidate_percentage_points": 0.3228993478870539,
+      "difference_95_CI_low": -0.5310884406888102,
+      "difference_95_CI_high": 1.2072174699302358,
+      "positive_resamples": 15215,
+      "resamples": 20000
+    }
+  ],
+  "leave_one_source_batch_out": [
+    {
+      "held_out_batch": "NIST curated curve batch",
+      "molecules": 30,
+      "rows": 1502,
+      "raw_primary_macro_NMAE": 0.14337893927909612,
+      "ml_primary_macro_NMAE": 0.17735918734478495,
+      "improvement_percentage_points": -3.398024806568883,
+      "inner_selected_NMAE": 0.10749721254427966,
+      "selected_config": "{\"kind\": \"extra\", \"max_depth\": 16, \"max_features\": 1.0, \"min_samples_leaf\": 5}",
+      "selected_weights": "{\"tree\": 1.0, \"ridge\": 0.0, \"global\": 0.0, \"raw\": 0.0}"
+    },
+    {
+      "held_out_batch": "Hudson ester family",
+      "molecules": 15,
+      "rows": 825,
+      "raw_primary_macro_NMAE": 0.1897703552056819,
+      "ml_primary_macro_NMAE": 0.18822815652710256,
+      "improvement_percentage_points": 0.15421986785793262,
+      "inner_selected_NMAE": 0.14167353922358628,
+      "selected_config": "{\"kind\": \"extra\", \"max_depth\": 16, \"max_features\": 1.0, \"min_samples_leaf\": 5}",
+      "selected_weights": "{\"tree\": 0.25, \"ridge\": 0.25, \"global\": 0.0, \"raw\": 0.5}"
+    },
+    {
+      "held_out_batch": "QEC priority batch",
+      "molecules": 13,
+      "rows": 715,
+      "raw_primary_macro_NMAE": 0.08446673699525722,
+      "ml_primary_macro_NMAE": 0.10480308332408626,
+      "improvement_percentage_points": -2.033634632882904,
+      "inner_selected_NMAE": 0.13779688133093182,
+      "selected_config": "{\"kind\": \"extra\", \"max_depth\": null, \"max_features\": 0.65, \"min_samples_leaf\": 2}",
+      "selected_weights": "{\"tree\": 0.5, \"ridge\": 0.5, \"global\": 0.0, \"raw\": 0.0}"
+    },
+    {
+      "held_out_batch": "NIST graph-digitised batch",
+      "molecules": 9,
+      "rows": 254,
+      "raw_primary_macro_NMAE": 0.13683263140162782,
+      "ml_primary_macro_NMAE": 0.1595584418917377,
+      "improvement_percentage_points": -2.2725810490109883,
+      "inner_selected_NMAE": 0.13113825275594349,
+      "selected_config": "{\"kind\": \"extra\", \"max_depth\": null, \"max_features\": 0.65, \"min_samples_leaf\": 2}",
+      "selected_weights": "{\"tree\": 0.25, \"ridge\": 0.5, \"global\": 0.0, \"raw\": 0.25}"
+    },
+    {
+      "held_out_batch": "Expanded measured batch",
+      "molecules": 6,
+      "rows": 210,
+      "raw_primary_macro_NMAE": 0.25709559998688564,
+      "ml_primary_macro_NMAE": 0.2525298144221831,
+      "improvement_percentage_points": 0.45657855647025514,
+      "inner_selected_NMAE": 0.11580274565343161,
+      "selected_config": "{\"kind\": \"extra\", \"max_depth\": 16, \"max_features\": 1.0, \"min_samples_leaf\": 5}",
+      "selected_weights": "{\"tree\": 0.75, \"ridge\": 0.25, \"global\": 0.0, \"raw\": 0.0}"
+    },
+    {
+      "held_out_batch": "Heavy-ECP figure batch",
+      "molecules": 3,
+      "rows": 49,
+      "raw_primary_macro_NMAE": 0.2234221242378933,
+      "ml_primary_macro_NMAE": 0.1997651510075119,
+      "improvement_percentage_points": 2.365697323038138,
+      "inner_selected_NMAE": 0.12315347870125848,
+      "selected_config": "{\"kind\": \"extra\", \"max_depth\": 16, \"max_features\": 1.0, \"min_samples_leaf\": 5}",
+      "selected_weights": "{\"tree\": 0.75, \"ridge\": 0.25, \"global\": 0.0, \"raw\": 0.0}"
+    },
+    {
+      "held_out_batch": "SiClx figure batch",
+      "molecules": 3,
+      "rows": 90,
+      "raw_primary_macro_NMAE": 0.16461227416189816,
+      "ml_primary_macro_NMAE": 0.21930142892131407,
+      "improvement_percentage_points": -5.468915475941591,
+      "inner_selected_NMAE": 0.11527388894526418,
+      "selected_config": "{\"kind\": \"extra\", \"max_depth\": 16, \"max_features\": 1.0, \"min_samples_leaf\": 5}",
+      "selected_weights": "{\"tree\": 0.75, \"ridge\": 0.25, \"global\": 0.0, \"raw\": 0.0}"
+    }
+  ],
+  "source_batch_summary": {
+    "curve_molecules_total": 80,
+    "curve_molecules_in_stress_test": 79,
+    "curve_molecules_excluded_from_stress_test": 1,
+    "exclusion_rule": "Source-ingestion batches require at least three curve-bearing identities.",
+    "excluded_identities": [
+      {
+        "identity_key": "2-butanol",
+        "molecule_name": "sec-Butanol",
+        "formula": "C4H10O",
+        "held_out_batch": "Other/single source",
+        "source_locator": "C:\\Users\\DWJ\\Documents\\网络\\outputs\\no_qec_priority_2026_07_31\\agent_2butanol_hudson2003_strict_numeric_pairs.csv"
+      }
+    ],
+    "weighted_raw_primary_macro_NMAE": 0.15422989322951638,
+    "weighted_ml_primary_macro_NMAE": 0.17360813487099272,
+    "weighted_improvement_percentage_points": -1.9378241641476335
+  },
+  "numerical_sensitivity": [
+    {
+      "setting": "default refit",
+      "curve_primary_macro_NMAE": 0.12176776138788466,
+      "change_vs_frozen_headline_percentage_points": 0.0,
+      "policy": "{}"
+    },
+    {
+      "setting": "clip 0.5-2.0",
+      "curve_primary_macro_NMAE": 0.12232644466969733,
+      "change_vs_frozen_headline_percentage_points": 0.05586832818126747,
+      "policy": "{\"clip_high\": 2.0, \"clip_low\": 0.5}"
+    },
+    {
+      "setting": "equal region weights 1.0/1.0",
+      "curve_primary_macro_NMAE": 0.12136537483883365,
+      "change_vs_frozen_headline_percentage_points": -0.04023865490510037,
+      "policy": "{\"primary_weight\": 1.0, \"secondary_weight\": 1.0}"
+    },
+    {
+      "setting": "moderate region weights 1.5/1.0",
+      "curve_primary_macro_NMAE": 0.12186040344822824,
+      "change_vs_frozen_headline_percentage_points": 0.009264206034358125,
+      "policy": "{\"primary_weight\": 1.5, \"secondary_weight\": 1.0}"
+    },
+    {
+      "setting": "missing uncertainty 8%",
+      "curve_primary_macro_NMAE": 0.12263948479176541,
+      "change_vs_frozen_headline_percentage_points": 0.08717234038807531,
+      "policy": "{\"missing_uncertainty\": 0.08}"
+    },
+    {
+      "setting": "missing uncertainty 20%",
+      "curve_primary_macro_NMAE": 0.12097707602591204,
+      "change_vs_frozen_headline_percentage_points": -0.07906853619726179,
+      "policy": "{\"missing_uncertainty\": 0.2}"
+    }
+  ],
+  "feature_group_importance": [
+    {
+      "feature_group": "Molecular composition",
+      "relative_importance": 0.5123513049736708
+    },
+    {
+      "feature_group": "Interaction terms",
+      "relative_importance": 0.23010085480748332
+    },
+    {
+      "feature_group": "BEB curve-shape descriptors",
+      "relative_importance": 0.18388539532494055
+    },
+    {
+      "feature_group": "Collision energy",
+      "relative_importance": 0.055420549173491804
+    },
+    {
+      "feature_group": "BEB magnitude",
+      "relative_importance": 0.018241895720413587
+    }
+  ],
+  "runtime": {
+    "elapsed_seconds": 133.05778389999978,
+    "python": "3.12.13",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+    "logical_cpu_count": 24,
+    "random_seed_ranges": "410000-500000; bootstrap seed 20260802"
+  },
+  "interpretation_note": "The three evidence heads are trained independently. Fixed/sparse and peak identities do not add training rows to the 80-molecule curve head. Leave-one-source-batch-out tests use curve data only and cover 79 of 80 curve-bearing identities because the standalone 2-butanol source contains fewer than three identities. The seven groups are mutually exclusive source-ingestion batches rather than seven independent papers. The Hudson ester holdout jointly changes source and family, so those two effects cannot be separated."
+}

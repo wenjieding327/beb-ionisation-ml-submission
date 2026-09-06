@@ -1,0 +1,2 @@
+# Preserve frozen release bytes on every operating system for SHA-256 verification.
+* -text

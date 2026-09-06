@@ -1,0 +1,146 @@
+[
+  {
+    "identity_key": "butyl-acetate",
+    "fields": {
+      "training_source_files": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv | ${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\ready100_fixed_energy_with_existing_beb_no_qec.csv",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified.",
+      "page_figure_or_extraction_note": "source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "butyl-formate",
+    "fields": {
+      "training_source_files": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv | ${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\ready100_fixed_energy_with_existing_beb_no_qec.csv",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified.",
+      "page_figure_or_extraction_note": "source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "ethyl-acetate",
+    "fields": {
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation.",
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 2 | full_curve_source_page=physical PDF p3; journal p44 | source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | experiment_source_figure=2 | experiment_source_page=44 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "ethyl-formate",
+    "fields": {
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation.",
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 1 | full_curve_source_page=physical PDF p2; journal p43 | source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | experiment_source_figure=1 | experiment_source_page=43 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "isobutyl-acetate",
+    "fields": {
+      "training_source_files": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv | ${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\ready100_fixed_energy_with_existing_beb_no_qec.csv",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified.",
+      "page_figure_or_extraction_note": "source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "isobutyl-formate",
+    "fields": {
+      "training_source_files": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv | ${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\ready100_fixed_energy_with_existing_beb_no_qec.csv",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified.",
+      "page_figure_or_extraction_note": "source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "isopropyl-acetate",
+    "fields": {
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation.",
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 2 | full_curve_source_page=physical PDF p3; journal p44 | source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | experiment_source_figure=2 | experiment_source_page=44 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "isopropyl-formate",
+    "fields": {
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation.",
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 1 | full_curve_source_page=physical PDF p2; journal p43 | source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | experiment_source_figure=1 | experiment_source_page=43 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "methyl-acetate",
+    "fields": {
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation.",
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 2 | full_curve_source_page=physical PDF p3; journal p44 | source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | experiment_source_figure=2 | experiment_source_page=44 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "methyl-formate",
+    "fields": {
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation.",
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 1 | full_curve_source_page=physical PDF p2; journal p43 | source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | experiment_source_figure=1 | experiment_source_page=43 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "ozone",
+    "fields": {
+      "original_experimental_citation_or_database_record": "source_reference=K. A. Newson, S. M. Lee, S. D. Price and N. J. Mason, Int. J. Mass Spec. Ion Processes 148 , 203 (1995). | source_reference=M. W. Siegel, Int. J. Mass Spectrom. Ion Phys. 44 , 19 (1982). | original_nist_experiment_reference=K. A. Newson, S. M. Lee, S. D. Price and N. J. Mason, Int. J. Mass Spec. Ion Processes 148, 203 (1995). | original_nist_experiment_reference=M. W. Siegel, Int. J. Mass Spectrom. Ion Phys. 44, 19 (1982).",
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_3",
+      "source_completeness_status": "Retained ozone labels: 10 original Newson et al. (1995) points (exp_1) and 9 Siegel (1982) points (exp_3). Thirteen renormalised copies (exp_2) of Newson are excluded. Differences between original studies are source disagreement, not automatically digitisation errors.",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Retained ozone labels: 10 original Newson et al. (1995) points (exp_1) and 9 Siegel (1982) points (exp_3). Thirteen renormalised copies (exp_2) of Newson are excluded. Differences between original studies are source disagreement, not automatically digitisation errors. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "pentyl-formate",
+    "fields": {
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation.",
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 1 | full_curve_source_page=physical PDF p2; journal p43 | source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | experiment_source_figure=1 | experiment_source_page=43 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "propyl-acetate",
+    "fields": {
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation.",
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 2 | full_curve_source_page=physical PDF p3; journal p44 | source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | experiment_source_figure=2 | experiment_source_page=44 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "propyl-formate",
+    "fields": {
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation.",
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 1 | full_curve_source_page=physical PDF p2; journal p43 | source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | experiment_source_figure=1 | experiment_source_page=43 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "sec-butyl-acetate",
+    "fields": {
+      "training_source_files": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv | ${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\ready100_fixed_energy_with_existing_beb_no_qec.csv",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified.",
+      "page_figure_or_extraction_note": "source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "tert-butyl-acetate",
+    "fields": {
+      "training_source_files": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv | ${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\ready100_fixed_energy_with_existing_beb_no_qec.csv",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified.",
+      "page_figure_or_extraction_note": "source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  },
+  {
+    "identity_key": "water",
+    "fields": {
+      "original_experimental_citation_or_database_record": "source_reference=H. C. Straub, B. G. Lindsay, K. A. Smith, and R. F. Stebbings, J. Chem. Phys. 108 , 109 (1998). | source_reference=J. Schutten, F. J. de Heer, H. R. Moustafa, A. J. H. Boerboom and J. Kistenmaker, J. Chem. Phys. 44 , 3924 (1966). | source_reference=M. A. Bolorizadeh and M. E. Rudd, Phys. Rev. A 33 , 882 (1985). | source_reference=M. V. V. S. Rao, I. Iga and S. K. Srivastava, J. Geophys. Res. 100 , 26421 (1995). | source_reference=N. Lj. Duric, I. M. Cadez, and M. V. Kurepa, Int. J. Mass. Spectrom. Ion Processes 83 , R7 (1988). | original_nist_experiment_reference=N. Lj. Duric, I. M. Cadez, and M. V. Kurepa, Int. J. Mass. Spectrom. Ion Processes 83, R7 (1988). | original_nist_experiment_reference=J. Schutten, F. J. de Heer, H. R. Moustafa, A. J. H. Boerboom and J. Kistenmaker, J. Chem. Phys. 44, 3924 (1966). | original_nist_experiment_reference=M. A. Bolorizadeh and M. E. Rudd, Phys. Rev. A 33, 882 (1985). | original_nist_experiment_reference=M. V. V. S. Rao, I. Iga and S. K. Srivastava, J. Geophys. Res. 100, 26421 (1995). | original_nist_experiment_reference=H. C. Straub, B. G. Lindsay, K. A. Smith, and R. F. Stebbings, J. Chem. Phys. 108, 109 (1998). | source_title=Predicting Total Electron-Ionization Cross Sections and GC-MS Calibration Factors Using Machine Learning",
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | dataset_id=exp_3 | dataset_id=exp_4 | dataset_id=exp_6 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7",
+      "source_completeness_status": "Retained water curve labels use experimental NIST series exp_1, exp_2, exp_3, exp_4 and exp_6. Seven exp_5 theory labels are excluded. The original database and author/journal/page provenance are available; not every original paper was independently checked in full text.",
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Retained water curve labels use experimental NIST series exp_1, exp_2, exp_3, exp_4 and exp_6. Seven exp_5 theory labels are excluded. The original database and author/journal/page provenance are available; not every original paper was independently checked in full text. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence."
+    }
+  }
+]

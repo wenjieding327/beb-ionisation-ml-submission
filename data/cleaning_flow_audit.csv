@@ -1,0 +1,5 @@
+﻿stage,attempted_rows,removed_missing_exp_or_beb,removed_experimental_sigma_le_0_02_A2,removed_beb_sigma_le_0_02_A2,removed_ratio_outside_0_04_to_25,duplicates_collapsed,removed_energy_gt_300_eV,retained_rows,audit_scope,removed_by_source_audit
+Legacy 131-identity reconstruction,3102,22,8,1,0,4,429,2638,Exact read-only reconstruction of the legacy loaders,0
+Expanded 194-identity increment,not historically logged,not historically logged,not historically logged,not historically logged,not historically logged,not historically logged,not historically logged,1245,Accepted incremental rows recorded in summary.json; pre-guard counts were not written by the historical run,0
+Legacy r2 frozen release,n/a,n/a,n/a,n/a,n/a,n/a,n/a,3883,"2,638 legacy plus 1,245 accepted incremental rows",0
+2026-09-06 source evidence corrections,3883,n/a,n/a,n/a,n/a,n/a,n/a,3533,7 water theoretical labels + 330 ambiguous ester curve labels + 13 duplicate renormalised ozone labels quarantined; 15 independent ester peak energies set missing and uncertainties corrected to5%; all194 identities retained,350

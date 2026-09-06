@@ -1,0 +1,16 @@
+﻿cv_fold,task_family,rows,molecules
+0,curve,680,15
+0,fixed_sparse,30,30
+0,peak,12,12
+1,curve,609,14
+1,fixed_sparse,31,29
+1,peak,14,14
+2,curve,620,14
+2,fixed_sparse,32,30
+2,peak,15,15
+3,curve,677,15
+3,fixed_sparse,29,28
+3,peak,15,15
+4,curve,730,16
+4,fixed_sparse,27,26
+4,peak,12,12

@@ -1,0 +1,1190 @@
+{
+  "physical_molecules": 194,
+  "observations": 3883,
+  "curve_molecules": 80,
+  "validation": "Nested five-fold physical-identity-disjoint cross-validation; aliases merged before folds",
+  "raw_metrics": {
+    "primary_molecule_macro_NMAE": 0.19996272278670713,
+    "all_molecule_macro_NMAE": 0.19373816561306512,
+    "primary_point_weighted_NMAE": 0.16127878699055112,
+    "all_point_weighted_NMAE": 0.13576001453141276,
+    "median_absolute_percentage_error": 0.11028005012729553,
+    "RMSE_A2": 1.7142241204472555,
+    "R2": 0.9084786510849906
+  },
+  "constant_scale_metrics": {
+    "primary_molecule_macro_NMAE": 0.2107663133098707,
+    "all_molecule_macro_NMAE": 0.20122289832517706,
+    "primary_point_weighted_NMAE": 0.16645692417924907,
+    "all_point_weighted_NMAE": 0.12892147979610927,
+    "median_absolute_percentage_error": 0.10567230563518383,
+    "RMSE_A2": 1.6419576596890677,
+    "R2": 0.9160325204550361
+  },
+  "expanded_ml_metrics": {
+    "primary_molecule_macro_NMAE": 0.12488668941351276,
+    "all_molecule_macro_NMAE": 0.12167662532691094,
+    "primary_point_weighted_NMAE": 0.10063294563358194,
+    "all_point_weighted_NMAE": 0.0806457554042729,
+    "median_absolute_percentage_error": 0.06535550379858364,
+    "RMSE_A2": 1.064496770267211,
+    "R2": 0.96470802967687
+  },
+  "relative_reduction_vs_raw_percent": 37.54501455417528,
+  "absolute_reduction_vs_raw_percentage_points": 7.507603337319437,
+  "bootstrap_vs_raw": {
+    "improvement_percentage_points_95_CI": [
+      5.238476355430045,
+      9.871818528552588
+    ],
+    "probability_improved": 1.0
+  },
+  "bootstrap_vs_constant": {
+    "improvement_percentage_points_95_CI": [
+      6.0401919162248285,
+      11.305312991359608
+    ],
+    "probability_improved": 1.0
+  },
+  "per_task": {
+    "curve": {
+      "molecules": 80,
+      "rows": 3666,
+      "raw": {
+        "primary_molecule_macro_NMAE": 0.15328374881705498,
+        "all_molecule_macro_NMAE": 0.1373853641741099,
+        "primary_point_weighted_NMAE": 0.1543438011285709,
+        "all_point_weighted_NMAE": 0.13044542465437953,
+        "median_absolute_percentage_error": 0.10921048303754971,
+        "RMSE_A2": 1.5064546472294886,
+        "R2": 0.9248084366218727
+      },
+      "constant": {
+        "primary_molecule_macro_NMAE": 0.1599645546703467,
+        "all_molecule_macro_NMAE": 0.13531905298652802,
+        "primary_point_weighted_NMAE": 0.16115334819038837,
+        "all_point_weighted_NMAE": 0.12305526121644332,
+        "median_absolute_percentage_error": 0.10390500599777167,
+        "RMSE_A2": 1.457591677227561,
+        "R2": 0.9296071171686069
+      },
+      "ml": {
+        "primary_molecule_macro_NMAE": 0.12176776138788466,
+        "all_molecule_macro_NMAE": 0.11363453632148146,
+        "primary_point_weighted_NMAE": 0.1044503322815676,
+        "all_point_weighted_NMAE": 0.08016802366165167,
+        "median_absolute_percentage_error": 0.06579779769721894,
+        "RMSE_A2": 1.0041981097467954,
+        "R2": 0.9665885140607335
+      }
+    },
+    "fixed_sparse": {
+      "molecules": 143,
+      "rows": 149,
+      "raw": {
+        "primary_molecule_macro_NMAE": 0.2163804741622642,
+        "all_molecule_macro_NMAE": 0.2163804741622642,
+        "primary_point_weighted_NMAE": 0.20499469263006864,
+        "all_point_weighted_NMAE": 0.20499469263006864,
+        "median_absolute_percentage_error": 0.17303838235390484,
+        "RMSE_A2": 3.897281934820872,
+        "R2": 0.6518040944781391
+      },
+      "constant": {
+        "primary_molecule_macro_NMAE": 0.2160010346447799,
+        "all_molecule_macro_NMAE": 0.2160010346447799,
+        "primary_point_weighted_NMAE": 0.19011599730823198,
+        "all_point_weighted_NMAE": 0.19011599730823198,
+        "median_absolute_percentage_error": 0.13400088445429528,
+        "RMSE_A2": 3.5862473218845157,
+        "R2": 0.7051640173744038
+      },
+      "ml": {
+        "primary_molecule_macro_NMAE": 0.10899762526043164,
+        "all_molecule_macro_NMAE": 0.10899762526043164,
+        "primary_point_weighted_NMAE": 0.09313026019984816,
+        "all_point_weighted_NMAE": 0.09313026019984816,
+        "median_absolute_percentage_error": 0.06640243385781042,
+        "RMSE_A2": 1.8256074398359519,
+        "R2": 0.9235962271092529
+      }
+    },
+    "peak": {
+      "molecules": 68,
+      "rows": 68,
+      "raw": {
+        "primary_molecule_macro_NMAE": 0.15341606399815777,
+        "all_molecule_macro_NMAE": 0.15341606399815777,
+        "primary_point_weighted_NMAE": 0.15928243977481216,
+        "all_point_weighted_NMAE": 0.15928243977481216,
+        "median_absolute_percentage_error": 0.08605660697294487,
+        "RMSE_A2": 3.488789194549773,
+        "R2": 0.22103928942559192
+      },
+      "constant": {
+        "primary_molecule_macro_NMAE": 0.17879492428604635,
+        "all_molecule_macro_NMAE": 0.17879492428604635,
+        "primary_point_weighted_NMAE": 0.18293120152237044,
+        "all_point_weighted_NMAE": 0.18293120152237044,
+        "median_absolute_percentage_error": 0.18296121282365635,
+        "RMSE_A2": 3.351172215555746,
+        "R2": 0.2812802332279458
+      },
+      "ml": {
+        "primary_molecule_macro_NMAE": 0.07569854355631013,
+        "all_molecule_macro_NMAE": 0.07569854355631013,
+        "primary_point_weighted_NMAE": 0.07122801867775193,
+        "all_point_weighted_NMAE": 0.07122801867775193,
+        "median_absolute_percentage_error": 0.04290292987692318,
+        "RMSE_A2": 1.7430359925464463,
+        "R2": 0.8055630472067569
+      }
+    }
+  },
+  "outer_fold_audit": [
+    {
+      "fold": 0,
+      "task": "curve",
+      "train_molecules": 64,
+      "test_molecules": 16,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 0.5,
+        "ridge": 0.5,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.12466730967732516,
+      "candidates": [
+        {
+          "score": 0.12466730967732516,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.1255541151543867,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.12699640697544123,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "fold": 0,
+      "task": "fixed_sparse",
+      "train_molecules": 113,
+      "test_molecules": 30,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.11931494158770053,
+      "candidates": [
+        {
+          "score": 0.11931494158770053,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.1308389130035846,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.14405348834742776,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.0,
+            "ridge": 0.75,
+            "global": 0.0,
+            "raw": 0.25
+          }
+        }
+      ]
+    },
+    {
+      "fold": 0,
+      "task": "peak",
+      "train_molecules": 56,
+      "test_molecules": 12,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.08484305788426709,
+      "candidates": [
+        {
+          "score": 0.08484305788426709,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.08905141751504723,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.09915477217631163,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.0,
+            "ridge": 0.75,
+            "global": 0.0,
+            "raw": 0.25
+          }
+        }
+      ]
+    },
+    {
+      "fold": 1,
+      "task": "curve",
+      "train_molecules": 64,
+      "test_molecules": 16,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 5,
+        "max_features": 1.0,
+        "max_depth": 16
+      },
+      "selected_weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.1288214293541804,
+      "candidates": [
+        {
+          "score": 0.1302912104272842,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.1288214293541804,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.1332175895151932,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.25
+          }
+        }
+      ]
+    },
+    {
+      "fold": 1,
+      "task": "fixed_sparse",
+      "train_molecules": 114,
+      "test_molecules": 29,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.11549494036398655,
+      "candidates": [
+        {
+          "score": 0.11549494036398655,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.12210572526415091,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.14111147668369792,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.0,
+            "ridge": 0.75,
+            "global": 0.0,
+            "raw": 0.25
+          }
+        }
+      ]
+    },
+    {
+      "fold": 1,
+      "task": "peak",
+      "train_molecules": 54,
+      "test_molecules": 14,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 1.0,
+        "ridge": 0.0,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.08801431059815036,
+      "candidates": [
+        {
+          "score": 0.08801431059815036,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 1.0,
+            "ridge": 0.0,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.10534033879253578,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 1.0,
+            "ridge": 0.0,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.15404069215108737,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.0,
+            "ridge": 0.0,
+            "global": 0.25,
+            "raw": 0.75
+          }
+        }
+      ]
+    },
+    {
+      "fold": 2,
+      "task": "curve",
+      "train_molecules": 64,
+      "test_molecules": 16,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.11807410010217191,
+      "candidates": [
+        {
+          "score": 0.11807410010217191,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.12066084385764017,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.12598955401504008,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "fold": 2,
+      "task": "fixed_sparse",
+      "train_molecules": 113,
+      "test_molecules": 30,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.12915843044712277,
+      "candidates": [
+        {
+          "score": 0.12915843044712277,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.1434162075394447,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.15440722850244576,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.25,
+            "ridge": 0.75,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "fold": 2,
+      "task": "peak",
+      "train_molecules": 53,
+      "test_molecules": 15,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.07333929610181467,
+      "candidates": [
+        {
+          "score": 0.07333929610181467,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.07981285038563614,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.10156232377884489,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.0,
+            "ridge": 0.75,
+            "global": 0.0,
+            "raw": 0.25
+          }
+        }
+      ]
+    },
+    {
+      "fold": 3,
+      "task": "curve",
+      "train_molecules": 64,
+      "test_molecules": 16,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.11991135574571019,
+      "candidates": [
+        {
+          "score": 0.11991135574571019,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.12177235567894312,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.1260422276044456,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.25,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.25
+          }
+        }
+      ]
+    },
+    {
+      "fold": 3,
+      "task": "fixed_sparse",
+      "train_molecules": 115,
+      "test_molecules": 28,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.12439851748045569,
+      "candidates": [
+        {
+          "score": 0.12439851748045569,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.1309464836821878,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.13881115069851185,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.25,
+            "ridge": 0.75,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "fold": 3,
+      "task": "peak",
+      "train_molecules": 53,
+      "test_molecules": 15,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 0.5,
+        "ridge": 0.5,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.10041587682195324,
+      "candidates": [
+        {
+          "score": 0.10041587682195324,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.10611117918339642,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.10886770002507333,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.0,
+            "ridge": 0.75,
+            "global": 0.0,
+            "raw": 0.25
+          }
+        }
+      ]
+    },
+    {
+      "fold": 4,
+      "task": "curve",
+      "train_molecules": 64,
+      "test_molecules": 16,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 5,
+        "max_features": 1.0,
+        "max_depth": 16
+      },
+      "selected_weights": {
+        "tree": 0.5,
+        "ridge": 0.5,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.12334428871151297,
+      "candidates": [
+        {
+          "score": 0.12417310424928671,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.12334428871151297,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.13030995265167966,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.5,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "fold": 4,
+      "task": "fixed_sparse",
+      "train_molecules": 117,
+      "test_molecules": 26,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.12702550624924516,
+      "candidates": [
+        {
+          "score": 0.12702550624924516,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.1350863775520734,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.15170490499227235,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.0,
+            "ridge": 0.75,
+            "global": 0.0,
+            "raw": 0.25
+          }
+        }
+      ]
+    },
+    {
+      "fold": 4,
+      "task": "peak",
+      "train_molecules": 56,
+      "test_molecules": 12,
+      "selected_config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "selected_weights": {
+        "tree": 1.0,
+        "ridge": 0.0,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "inner_primary_macro_NMAE": 0.0878386955837311,
+      "candidates": [
+        {
+          "score": 0.0878386955837311,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 2,
+            "max_features": 0.65,
+            "max_depth": null
+          },
+          "weights": {
+            "tree": 1.0,
+            "ridge": 0.0,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.10627038796482544,
+          "config": {
+            "kind": "extra",
+            "min_samples_leaf": 5,
+            "max_features": 1.0,
+            "max_depth": 16
+          },
+          "weights": {
+            "tree": 0.75,
+            "ridge": 0.25,
+            "global": 0.0,
+            "raw": 0.0
+          }
+        },
+        {
+          "score": 0.12893958450284937,
+          "config": {
+            "kind": "hist",
+            "min_samples_leaf": 20,
+            "max_leaf_nodes": 15,
+            "l2_regularization": 4.0
+          },
+          "weights": {
+            "tree": 0.0,
+            "ridge": 0.5,
+            "global": 0.0,
+            "raw": 0.5
+          }
+        }
+      ]
+    }
+  ],
+  "final_selection": {
+    "curve": {
+      "inner_primary_macro_NMAE": 0.1254583610664715,
+      "config": {
+        "kind": "extra",
+        "min_samples_leaf": 5,
+        "max_features": 1.0,
+        "max_depth": 16
+      },
+      "weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "molecules": 80,
+      "rows": 3666
+    },
+    "fixed_sparse": {
+      "inner_primary_macro_NMAE": 0.11550203689556525,
+      "config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "weights": {
+        "tree": 0.75,
+        "ridge": 0.25,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "molecules": 143,
+      "rows": 149
+    },
+    "peak": {
+      "inner_primary_macro_NMAE": 0.07388337067069521,
+      "config": {
+        "kind": "extra",
+        "min_samples_leaf": 2,
+        "max_features": 0.65,
+        "max_depth": null
+      },
+      "weights": {
+        "tree": 0.5,
+        "ridge": 0.5,
+        "global": 0.0,
+        "raw": 0.0
+      },
+      "molecules": 68,
+      "rows": 68
+    }
+  },
+  "scientific_note": "Every one of the 194 ready identities is represented. Experimental curve, peak, fixed-energy and sparse-point labels are routed to separate heads and never promoted to a fuller evidence class."
+}

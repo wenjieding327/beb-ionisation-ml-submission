@@ -1,0 +1,47 @@
+{
+  "final_physical_identities": 194,
+  "final_observations": 3533,
+  "primary_observations": 1986,
+  "curve_identities": 74,
+  "curve_observations": 3316,
+  "fixed_sparse_observations": 149,
+  "peak_observations": 68,
+  "fold_row_loads": [
+    722,
+    654,
+    667,
+    721,
+    769
+  ],
+  "release": "evidence_corrected_v2_2026_09_06",
+  "parent_commit": "e8bfe82bfbd930038bcdeb93cd6dc36b6755e080",
+  "original_input_sha256": "50f4cf157348bc23bc092533352645b55fec53fa2fd25b73bfa090ba21058e85",
+  "quarantined_rows": 350,
+  "quarantine_reasons": {
+    "NIST_exp_5_is_theory_not_experiment": 7,
+    "ambiguous_isomer_trace_quarantined": 330,
+    "O3_exp_2_renormalized_duplicate_of_Newson": 13
+  },
+  "peak_metadata_corrections": 15,
+  "water_primary_boundary": {
+    "onset_eV": 14.9195,
+    "peak_eV": 90.5395,
+    "peak_A2": 3.14851,
+    "changed_flags": 0
+  },
+  "ozone_primary_boundary": {
+    "onset_eV": 20.1473,
+    "peak_eV": 90.8947,
+    "peak_A2": 2.45545,
+    "changed_flags": [
+      {
+        "original_csv_line": 2866,
+        "energy_eV": "100.499",
+        "old_primary": "True",
+        "new_primary": "False"
+      }
+    ]
+  },
+  "fold_policy": "Original physical-identity cv_fold retained; inner three-fold grouping uses original deterministic algorithm on surviving training data.",
+  "scientific_note": "194 identities retained; six esters retain independent fixed-energy and table peak labels but no accepted energy-dependent curve labels. Nine other ester curves retained as peak-anchored figure-trace extractions. Ozone uses 19 points from Newson original and Siegel, not the duplicate renormalised Newson series."
+}

@@ -1,0 +1,1360 @@
+[
+  {
+    "identity_key": "1-3-butadiene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact isomer/name and formula match: Bose \"Butan-1,3-diene\" = NIST \"trans-Butadiene\" (C4H6)"
+    }
+  },
+  {
+    "identity_key": "1-4-5-6-tetrahydropyrimidine",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "exact strict-manifest identity plus formula and InChIKey | This is a new directly trainable identity under the mentor-approved peak-only rule; peak energy is not tabulated and remains NA."
+    }
+  },
+  {
+    "identity_key": "1-butanol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "1-butene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact isomer/name and formula match: Bose \"1-Butene\" = NIST \"1-Butene\" (C4H8)"
+    }
+  },
+  {
+    "identity_key": "1-heptene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "exact IUPAC synonym plus formula plus PubChem CID plus InChIKey"
+    }
+  },
+  {
+    "identity_key": "1-hexene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "exact IUPAC synonym Hexan-1-ene = 1-hexene plus formula plus PubChem CID plus InChIKey | Additional label/source: MP2 geometry is an unbranched chain with a terminal C=C bond (1-hexene)."
+    }
+  },
+  {
+    "identity_key": "1-propanol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label is propanol; mapped to 1-propanol because propan-2-ol is listed separately."
+    }
+  },
+  {
+    "identity_key": "2-butanol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Do not use the Amorim 2023 'Present experimental' amplitude as an independent label: that curve was normalized at 30 eV to the mean of its BEB and IAM-SCAR+I predictions. This file instead uses the independent Hudson 2003 absolute experiment reprinted in the same table, paired with Amorim's published BEB values."
+    }
+  },
+  {
+    "identity_key": "2-butanone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label butanone."
+    }
+  },
+  {
+    "identity_key": "2-chlorobutane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact secondary-butyl chloride identity; exclude 1-chlorobutane tert-butyl chloride and the experimentally fitted corrected-BEB column. | Raw BEB peak 12.32 A2 at 82 eV; experiment 17.12 A2 at 80 eV. Circularity audit: pass_raw_BEB_only"
+    }
+  },
+  {
+    "identity_key": "2-hexanone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label hexan-2-one."
+    }
+  },
+  {
+    "identity_key": "2-methyl-1-propanol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "2-methyltetrahydrofuran",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "2-pentanone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label pentan-2-one."
+    }
+  },
+  {
+    "identity_key": "2-propanol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "3-hexanone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label hexan-3-one."
+    }
+  },
+  {
+    "identity_key": "3-methyl-2-butanone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label 3-methylbutan-2-one."
+    }
+  },
+  {
+    "identity_key": "3-methyl-2-pentanone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label 3-methylpentan-2-one."
+    }
+  },
+  {
+    "identity_key": "3-pentanone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label pentan-3-one."
+    }
+  },
+  {
+    "identity_key": "4-methyl-2-pentanone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label 4-methylpentan-2-one."
+    }
+  },
+  {
+    "identity_key": "acetaldehyde",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label ethanal. Primary paper reports the full 15-285 eV curve; this row is peak-only."
+    }
+  },
+  {
+    "identity_key": "acetic-acid",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Connectivity explicitly identifies acetic acid."
+    }
+  },
+  {
+    "identity_key": "acetone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label propanone."
+    }
+  },
+  {
+    "identity_key": "acetonitrile",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. Fixed 70–75 eV value under the historical name methylcyanide; identity matched to acetonitrile in the approved ALeCS manifest."
+    }
+  },
+  {
+    "identity_key": "acetophenone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "exact name plus formula plus PubChem CID plus InChIKey"
+    }
+  },
+  {
+    "identity_key": "acetylene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "acrolein",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "acrylonitrile",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "ammonia",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "aniline",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "anthracene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "MP2 geometry is the linear three-fused-ring PAH anthracene; angular phenanthrene excluded."
+    }
+  },
+  {
+    "identity_key": "benzene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact neutral benzene identity. Experimental peak is directly tabulated with 卤4% error; NIST BEB is an official ASCII numerical table. | Additional label/source: Exact chemical name and formula match between the experimental table and database metadata; no formula-only isomer inference. | Fixed-energy experimental supervision label; missing experimental energies remain masked and are never invented."
+    }
+  },
+  {
+    "identity_key": "boron-trifluoride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "bromoform",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Bromoform equals tribromomethane CHBr3; exclude the experimentally fitted corrected-BEB column. | Raw BEB peak 9.86 A2 at 90 eV; experiment 13.75 A2 at 80 eV. Circularity audit: pass_raw_BEB_only"
+    }
+  },
+  {
+    "identity_key": "bromomethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B: 12 conservative hollow-square experimental points paired at identical x with the red raw ECP-BEB curve. Multi-scale visual QA passed. Error bars are visible but not numerically extracted; uncertainty remains missing. Blue alpha-BEB, other theory series, and black all-electron BEB were excluded from this ECP-labelled batch."
+    }
+  },
+  {
+    "identity_key": "bromotrifluoromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact CF3Br identity; exclude the experimentally fitted corrected-BEB column. | Raw BEB peak 6.72 A2 at 116 eV; experiment 7.87 A2 at 86 eV. Circularity audit: pass_raw_BEB_only"
+    }
+  },
+  {
+    "identity_key": "butyl-acetate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "butyl-formate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "butyraldehyde",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label butanal. Primary paper reports the full 15-285 eV curve; this row is peak-only."
+    }
+  },
+  {
+    "identity_key": "butyronitrile",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c2cl4",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c2cl6",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c2h2cl4-1-1-1-2",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c2h2cl4-1-1-2-2",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c2h3cl3-1-1-1",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c2h3cl3-1-1-2",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c2h4cl2-1-1",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c2h4cl2-1-2",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c2hcl3",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c2hcl5",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c3h7cl-1",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c3h7cl-2",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "c4h9cl-1",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "carbon-dioxide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "carbon-disulfide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "carbon-monosulfide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "carbon-monoxide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "carbon-tetrabromide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact CBr4 identity; raw ECP-BEB result is independent of the measured peak. | Experiment 19.0 +/- 0.76 A2; raw ECP-BEB peak 19.7 A2. Original experiment: Bart et al. 2001 ref. 18; DOI 10.1039/B009243F. Circularity audit: pass_unfitted_raw_beb"
+    }
+  },
+  {
+    "identity_key": "carbon-tetrachloride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact CCl4 identity; exclude the experimentally fitted corrected-BEB column. | Raw BEB peak 9.76 A2 at 96 eV; experiment 15.45 A2 at 71 eV. Circularity audit: pass_raw_BEB_only"
+    }
+  },
+  {
+    "identity_key": "carbon-tetrafluoride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Peak energy from Hudson thesis Table 3.4 (older height 4.77 A^2); Bull Table 2 supplies the retained peak height/error."
+    }
+  },
+  {
+    "identity_key": "carbonyl-sulfide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "chlorine",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "chlorodifluoromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact isomer/name and formula match: Bose \"Difluorochloromethane\" = NIST \"Chlorodifluoromethane\" (CHClF2)"
+    }
+  },
+  {
+    "identity_key": "chloroethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. Experimental curve digitised from Bart's 1994 thesis and paired with the audited local QEC BEB curve."
+    }
+  },
+  {
+    "identity_key": "chloroform",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. Experimental curve digitised from Bart's 1994 thesis and paired with the audited local QEC BEB curve."
+    }
+  },
+  {
+    "identity_key": "chloromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. Training rows combine an audited measured partial-channel sum and a digitised total-curve figure; the two evidence routes remain identified in the row-level table."
+    }
+  },
+  {
+    "identity_key": "chlorotrifluoromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "cyclobutane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact chemical name and formula match between the experimental table and database metadata; no formula-only isomer inference. | Fixed-energy experimental supervision label; missing experimental energies remain masked and are never invented."
+    }
+  },
+  {
+    "identity_key": "cyclohexane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "cyclohexene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "cyclopentane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "cyclopentanone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact chemical name and formula match between the experimental table and database metadata; no formula-only isomer inference. | Fixed-energy experimental supervision label; missing experimental energies remain masked and are never invented."
+    }
+  },
+  {
+    "identity_key": "cyclopropane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact chemical name and formula match between the experimental table and database metadata; no formula-only isomer inference. | Fixed-energy experimental supervision label; missing experimental energies remain masked and are never invented."
+    }
+  },
+  {
+    "identity_key": "dibromomethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact CH2Br2 identity; exclude the experimentally fitted corrected-BEB column. | Raw BEB peak 7.76 A2 at 86 eV; experiment 11.67 A2 at 78 eV. Circularity audit: pass_raw_BEB_only"
+    }
+  },
+  {
+    "identity_key": "dichlorodifluoromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "dichlorofluoromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact isomer/name and formula match: Bose \"Fluoro-dichloro-methane\" = NIST \"Dichlorofluoromethane\" (CHCl2F)"
+    }
+  },
+  {
+    "identity_key": "dichloromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact CH2Cl2 identity; exclude the experimentally fitted corrected-BEB column. | Raw BEB peak 6.69 A2 at 90 eV; experiment 9.35 A2 at 74 eV. Circularity audit: pass_raw_BEB_only"
+    }
+  },
+  {
+    "identity_key": "diethyl-ether",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label ethoxyethane. Primary paper reports the full 15-285 eV curve; this row is peak-only."
+    }
+  },
+  {
+    "identity_key": "difluoromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact chemical name and formula match between the experimental table and database metadata; no formula-only isomer inference. | Fixed-energy experimental supervision label; missing experimental energies remain masked and are never invented."
+    }
+  },
+  {
+    "identity_key": "difluoromethylene-radical",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B sparse label: one experimental total-single-ionization point at 80 eV paired with the dashed raw BEB at identical energy. Visible 80 eV error bar digitized. siBED, DM, alternative NF3 data, and lower-bound-only CF/NF panels excluded."
+    }
+  },
+  {
+    "identity_key": "diisopropyl-ether",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label 2-methylethoxy-2-methylethane; exact formula/identity matched to diisopropyl ether registry row."
+    }
+  },
+  {
+    "identity_key": "dimethyl-ether",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Connectivity explicitly identifies dimethyl ether; ethanol excluded."
+    }
+  },
+  {
+    "identity_key": "dipropyl-ether",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label propoxypropane; mapped to di-n-propyl ether."
+    }
+  },
+  {
+    "identity_key": "disilane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 47 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv."
+    }
+  },
+  {
+    "identity_key": "disulfur",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "ethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "ethanethiol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "ethanol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 value; parenthetical value is the maximum instrumental error. Full primary curve exists, but this row contains only its published maximum. | Additional label/source: Nixon ethanol PICS/TICS was scaled at 70 eV to grouped Rejoub et al. independent absolute PICS, not to BEB or another theory. Low-mass water-contaminated channels were excluded; use threshold-to-peak as primary and the high-energy decline only for QA. | Primary training scope: threshold-side rise through experimental grid peak at 65 eV; later points tail QA | Circularity audit: pass_no_theory_or_beb_normalization"
+    }
+  },
+  {
+    "identity_key": "ethyl-acetate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "ethyl-formate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "ethyl-methyl-ether",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Connectivity code explicitly identifies methyl ethyl ether."
+    }
+  },
+  {
+    "identity_key": "ethylene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "ethylene-glycol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Connectivity explicitly identifies ethylene glycol."
+    }
+  },
+  {
+    "identity_key": "fluorine",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact chemical name and formula match between the experimental table and database metadata; no formula-only isomer inference. | Fixed-energy experimental supervision label; missing experimental energies remain masked and are never invented."
+    }
+  },
+  {
+    "identity_key": "fluoromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 peak height; peak energy is from Hudson thesis Table 3.4 (older value 3.79 A^2). Do not combine height and energy without retaining this provenance note."
+    }
+  },
+  {
+    "identity_key": "formaldehyde",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "formic-acid",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "furan",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "BEB has equal tabulated maxima at 75 and 80 eV; 75 eV retained as first maximum. Experimental curve must be digitized before pointwise loss; no uncertainty guessed. | Additional label/source: Exact chemical name and formula match between the experimental table and database metadata; no formula-only isomer inference. | Fixed-energy experimental supervision label; missing experimental energies remain masked and are never invented."
+    }
+  },
+  {
+    "identity_key": "gallium-monochloride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact gas-phase GaCl diatomic identity; not GaCl3. | Experiment 9.25 +/- 0.93 A2; raw ECP-BEB peak 8.3 A2. Original experiment: Shul et al. 1990 ref. 19; Phys. Rev. A 41 5856. Circularity audit: pass_unfitted_raw_beb"
+    }
+  },
+  {
+    "identity_key": "germane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B: independent 100 eV experimental point 6.0 A^2; local numeric NIST BEB 5.122 A^2; no uncertainty shown; no theoretical normalization used."
+    }
+  },
+  {
+    "identity_key": "glycolaldehyde",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Connectivity explicitly identifies glycolaldehyde."
+    }
+  },
+  {
+    "identity_key": "hexafluoro-1-3-butadiene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull table formula CF2CFCFCF2. Article text says this measurement should ideally be experimentally redetermined; hold out from strict training until reviewed."
+    }
+  },
+  {
+    "identity_key": "hexafluoro-2-butyne",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull table formula CF3CCCF3; peak energy cross-checked in Hudson thesis Table 3.4."
+    }
+  },
+  {
+    "identity_key": "hexafluoroethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Peak energy cross-checked in Hudson thesis Table 3.4; full curve is published in the primary halocarbon study."
+    }
+  },
+  {
+    "identity_key": "hexafluoropropene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull table formula CF2=CFCF3. Hudson thesis Table 3.4 reports 9.89 A^2 at 126 eV, so the historical height discrepancy must be audited before strict curve fitting."
+    }
+  },
+  {
+    "identity_key": "hexamethyldisiloxane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact identity; experimental total single-ionization value is 2.2e-15 cm2 = 22 A2 at 70 eV; paper contains the energy curve; BEB is reconstructed from the published ECP constants."
+    }
+  },
+  {
+    "identity_key": "hexane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "hydrogen",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "hydrogen-sulfide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "indene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "iodomethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact CH3I methyl iodide identity; Table 2 also lists an independent 9.64 plus or minus 0.58 A2 measurement. | Experiment 10.3 +/- 0.3 A2; raw ECP-BEB peak 8.7 A2. Original experiment: Rejoub et al. 2002 ref. 25; J. Chem. Phys. 117 6450. Circularity audit: pass_unfitted_raw_beb"
+    }
+  },
+  {
+    "identity_key": "isobutene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact isomer/name and formula match: Bose \"iso-Butene\" = NIST \"Isobutene\" (C4H8)"
+    }
+  },
+  {
+    "identity_key": "isobutyl-acetate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "isobutyl-formate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "isobutyraldehyde",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label 2-methylpropanal. Primary paper reports the full 15-285 eV curve; this row is peak-only."
+    }
+  },
+  {
+    "identity_key": "isobutyronitrile",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "isopropyl-acetate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "isopropyl-formate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "meta-xylene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "exact xylene isomer name plus formula plus PubChem CID plus InChIKey"
+    }
+  },
+  {
+    "identity_key": "methane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Hudson thesis Table 3.4 reports 4.23 A^2 at 71 eV; Bull Table 2 updated height/error is retained."
+    }
+  },
+  {
+    "identity_key": "methanol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 value; parenthetical value is the maximum instrumental error. Full primary curve exists, but this row contains only its published maximum. | Additional label/source: Nixon TICS was scaled at 70 eV to Rejoub et al.'s independent absolute experiment, not to BEB or another theory. The reported sum excludes some very light cations; use the threshold-to-peak region as primary and retain the high-energy decline only for QA. | Primary training scope: threshold-side rise through experimental grid peak at 65 eV; later points tail QA | Circularity audit: pass_no_theory_or_beb_normalization"
+    }
+  },
+  {
+    "identity_key": "methyl-acetate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "methyl-formate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "methyl-radical",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 25 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv."
+    }
+  },
+  {
+    "identity_key": "methylcyclohexane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "exact name plus formula plus PubChem CID plus InChIKey"
+    }
+  },
+  {
+    "identity_key": "methylene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 26 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv."
+    }
+  },
+  {
+    "identity_key": "methylidyne",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 28 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv."
+    }
+  },
+  {
+    "identity_key": "n-butane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "MP2/CCSD(T) geometry is an unbranched four-carbon chain (n-butane); isobutane excluded."
+    }
+  },
+  {
+    "identity_key": "n-ethylacetamide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "n-pentane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "MP2 geometry is an unbranched five-carbon chain (n-pentane); iso/neo isomers excluded."
+    }
+  },
+  {
+    "identity_key": "nitric-oxide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "nitrogen",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 groups reference species under refs b-f collectively; no single underlying DOI assigned here."
+    }
+  },
+  {
+    "identity_key": "nitrogen-difluoride-radical",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B sparse label: one experimental total-single-ionization point at 80 eV paired with the dashed raw BEB at identical energy. Visible 80 eV error bar digitized. siBED, DM, alternative NF3 data, and lower-bound-only CF/NF panels excluded."
+    }
+  },
+  {
+    "identity_key": "nitrogen-dioxide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "nitrogen-trifluoride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B sparse label: one experimental total-single-ionization point at 80 eV paired with the dashed raw BEB at identical energy. No numeric uncertainty invented. siBED, DM, alternative NF3 data, and lower-bound-only CF/NF panels excluded."
+    }
+  },
+  {
+    "identity_key": "nitromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "exact name plus formula plus PubChem CID 6375 plus InChIKey | Jiao et al. measured absolute dissociative-ionization partial cross sections from threshold to 200 eV. Luthra et al. explicitly report the experimental TICS maximum as 6.8 A^2 at 60 eV and a 15% estimated error, and the BEB maximum as 6.6 A^2 at 110 eV with BEB=5.95 A^2 at 60 eV. Count now for peak-height, peak-position, and same-energy supervision; do not claim a locally numeric full experimental curve until Figure 11 or the primary data are digitized."
+    }
+  },
+  {
+    "identity_key": "nitrous-oxide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "octafluoro-2-butene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "octafluoropropane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Hudson thesis Table 3.4 reports 10.2 A^2 at 126 eV; Bull Table 2 updated height/error is retained."
+    }
+  },
+  {
+    "identity_key": "ortho-xylene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "exact xylene isomer name plus formula plus PubChem CID plus InChIKey"
+    }
+  },
+  {
+    "identity_key": "oxygen",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "ozone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Retained ozone labels: 10 original Newson et al. (1995) points (exp_1) and 9 Siegel (1982) points (exp_3). Thirteen renormalised copies (exp_2) of Newson are excluded. Differences between original studies are source disagreement, not automatically digitisation errors. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 24 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv. Newson-renormalized e2/green series was excluded; only original Newson e1/red and Siegel e3/blue were retained."
+    }
+  },
+  {
+    "identity_key": "para-xylene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "exact xylene isomer name plus formula plus PubChem CID plus InChIKey"
+    }
+  },
+  {
+    "identity_key": "pentan-1-ene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "MP2 geometry is an unbranched chain with a terminal C=C bond (1-pentene)."
+    }
+  },
+  {
+    "identity_key": "pentyl-formate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "phenol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "exact name plus formula plus PubChem CID plus InChIKey | Additional label/source: Exact chemical name and formula match between the experimental table and database metadata; no formula-only isomer inference. | Fixed-energy experimental supervision label; missing experimental energies remain masked and are never invented."
+    }
+  },
+  {
+    "identity_key": "phosphine",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B: 18 conservative hollow-square experimental points paired at identical x with the red raw ECP-BEB curve. Multi-scale visual QA passed. Error bars are visible but not numerically extracted; uncertainty remains missing. Blue alpha-BEB, other theory series, and black all-electron BEB were excluded from this ECP-labelled batch."
+    }
+  },
+  {
+    "identity_key": "pinacolone",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label 3,3-dimethylbutan-2-one."
+    }
+  },
+  {
+    "identity_key": "piperidine",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "propane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "propene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact isomer/name and formula match: Bose \"Propene\" = NIST \"Propene\" (C3H6)"
+    }
+  },
+  {
+    "identity_key": "propionaldehyde",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull Table 2 species label propanal. Primary paper reports the full 15-285 eV curve; this row is peak-only."
+    }
+  },
+  {
+    "identity_key": "propionitrile",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "propyl-acetate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "propyl-formate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "propylene-oxide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "propyne",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact isomer/name and formula match: Bose \"Propan-1-yne\" = NIST \"Propyne\" (C3H4)"
+    }
+  },
+  {
+    "identity_key": "pyridine",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "pyrrole",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "sec-butyl-acetate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "silane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 64 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv."
+    }
+  },
+  {
+    "identity_key": "silicon-dichloride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B: 31 absolute experimental TICS points paired at identical energies with green unrenormalized BEB. Log-log axes and A^2 units audited; source reports maximum experimental uncertainty 18%. All renormalized/modified/scaled BEB and summed-PICS variants are excluded."
+    }
+  },
+  {
+    "identity_key": "silicon-difluoride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 29 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv."
+    }
+  },
+  {
+    "identity_key": "silicon-monochloride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B: 30 absolute experimental TICS points paired at identical energies with red raw BEB. Log-log axes and A^2 units audited; source reports maximum experimental uncertainty 18%. All renormalized/modified/scaled BEB and summed-PICS variants are excluded."
+    }
+  },
+  {
+    "identity_key": "silicon-monofluoride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 23 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv."
+    }
+  },
+  {
+    "identity_key": "silicon-monohydride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 32 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv."
+    }
+  },
+  {
+    "identity_key": "silicon-tetrachloride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B: 30 conservative hollow-square experimental points paired at identical x with the red raw ECP-BEB curve. Multi-scale visual QA passed. Error bars are visible but not numerically extracted; uncertainty remains missing. Blue alpha-BEB, other theory series, and black all-electron BEB were excluded from this ECP-labelled batch."
+    }
+  },
+  {
+    "identity_key": "silicon-trichloride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B: 31 absolute experimental TICS points paired at identical energies with blue raw BEB. Log-log axes and A^2 units audited; source reports maximum experimental uncertainty 18%. All renormalized/modified/scaled BEB and summed-PICS variants are excluded."
+    }
+  },
+  {
+    "identity_key": "silicon-trifluoride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 31 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv."
+    }
+  },
+  {
+    "identity_key": "silyl-radical",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 31 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv."
+    }
+  },
+  {
+    "identity_key": "silylene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B graph-digitized data; 31 independent experimental points; automated exact-palette extraction and whole-batch visual QA passed 2026-08-02; log10 energy axis and linear A^2 cross-section axis. Point-level experiment/BEB pairs are stored in nist_fast12_experiment_beb_digitized_READY_TIER_B.csv."
+    }
+  },
+  {
+    "identity_key": "sulfur-dioxide",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "sulfur-hexafluoride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "sulfur-pentafluoride-radical",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B: 2 experimental total-single-ionization values paired at identical energies with Ali-Irikura-Kim raw BEB. Experimental relative uncertainty recorded conservatively as 0.18; unit is A^2. siBED, DM/MAR, double-ionization-corrected BEB, and SF5 partial-channel markers are excluded."
+    }
+  },
+  {
+    "identity_key": "sulfur-trifluoride-radical",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B: 2 experimental total-single-ionization values paired at identical energies with Ali-Irikura-Kim raw BEB. Experimental relative uncertainty recorded conservatively as 0.15; unit is A^2. siBED, DM/MAR, double-ionization-corrected BEB, and SF5 partial-channel markers are excluded."
+    }
+  },
+  {
+    "identity_key": "tert-butanol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "tert-butyl-acetate",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "tetrafluoroethene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Peak energy from Hudson thesis Table 3.4 (older height 5.92 A^2); Bull Table 2 supplies the retained peak height/error."
+    }
+  },
+  {
+    "identity_key": "tetrahydrofuran",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "tetrahydrofurfuryl-alcohol",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "tetramethylsilane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "titanium-tetrachloride",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact TiCl4 identity; independent experiment covered threshold to 500 eV; no experiment-based BEB renormalization. | Experiment 16.45 +/- 2.47 A2; raw ECP-BEB peak 17.5 A2. Original experiment: Basner et al. 2000 ref. 17; DOI 10.1016/S0040-6090(00)01143-3. Circularity audit: pass_unfitted_raw_beb"
+    }
+  },
+  {
+    "identity_key": "toluene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "trans-1-2-dichloroethene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "E-C2H2Cl2 is the trans isomer; do not merge with cis-1 2-dichloroethene or 1 1-dichloroethene. | Raw BEB peak 8.23 A2 at 88 eV; experiment 14.49 A2 at 79 eV. Circularity audit: pass_raw_BEB_only"
+    }
+  },
+  {
+    "identity_key": "trans-2-butene",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact isomer/name and formula match: Bose \"trans-2-Butene\" = NIST \"trans-2-Butene\" (C4H8)"
+    }
+  },
+  {
+    "identity_key": "trichloroacetonitrile",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact CCl3CN identity; Scott and Irikura Table 2 reproduces the independent experimental peak and reports the raw ECP-BEB peak. | Experiment 14.11 +/- 0.56 A2; raw ECP-BEB peak 15.0 A2. Original experiment: Bart et al. 2001 ref. 18; DOI 10.1039/B009243F. Circularity audit: pass_unfitted_raw_beb"
+    }
+  },
+  {
+    "identity_key": "trichlorofluoromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  },
+  {
+    "identity_key": "trifluoroacetonitrile",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Bull table formula CF3CN; peak energy cross-checked in Hudson thesis Table 3.4."
+    }
+  },
+  {
+    "identity_key": "trifluoromethane",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points. | Additional label/source: Peak energy cross-checked in Hudson thesis Table 3.4; full curve is published in the primary halocarbon study."
+    }
+  },
+  {
+    "identity_key": "trifluoromethyl-radical",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Tier B sparse label: one experimental total-single-ionization point at 80 eV paired with the dashed raw BEB at identical energy. Visible 80 eV error bar digitized. siBED, DM, alternative NF3 data, and lower-bound-only CF/NF panels excluded."
+    }
+  },
+  {
+    "identity_key": "trimethylaluminum",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact identity; absolute total experiment at 70 eV; BEB deterministically reconstructed from the authors' published ECP orbital constants and NIST BEB equation."
+    }
+  },
+  {
+    "identity_key": "trimethylgallium",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Exact identity; absolute total experiment at 70 eV; BEB deterministically reconstructed from the authors' published ECP orbital constants and NIST BEB equation."
+    }
+  },
+  {
+    "identity_key": "uracil",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: provenance reconstructed from the actual frozen training input files, with original experiment citations and acquisition carriers distinguished where recovered. This audit verifies source metadata, not independent re-digitisation of every numerical value. See source_completeness_status for unresolved source limitations. Earlier identity-level claims are retained separately as legacy metadata, not current verification.",
+      "legacy_audit_note_before_sep06": "Independent full experimental TICS up to 500 eV is also available at DOI 10.1016/j.ijms.2015.10.003."
+    }
+  },
+  {
+    "identity_key": "water",
+    "fields": {
+      "audit_note": "2026-09-06 source audit: legacy audit assertions superseded. Retained water curve labels use experimental NIST series exp_1, exp_2, exp_3, exp_4 and exp_6. Seven exp_5 theory labels are excluded. The original database and author/journal/page provenance are available; not every original paper was independently checked in full text. Source labels updated after the 350-row exclusion; withdrawn series are not current training evidence.",
+      "legacy_audit_note_before_sep06": "Use every available experimental label. Apply a mask so each row contributes only to the energies/targets actually observed; do not invent missing curve points."
+    }
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "verified_from_csv": {
+    "all": {
+      "raw": 0.19737537148604034,
+      "constant": 0.21024527253331712,
+      "ml": 0.13639898186793245,
+      "absolute_improvement_pp": 6.097638961810789,
+      "relative_improvement_percent": 30.893616138131264
+    },
+    "curve": {
+      "raw": 0.15276432279108756,
+      "constant": 0.16063851410519991,
+      "ml": 0.14169094668747828,
+      "absolute_improvement_pp": 1.1073376103609283,
+      "relative_improvement_percent": 7.2486663779164235
+    },
+    "fixed_sparse": {
+      "raw": 0.21638047416226425,
+      "constant": 0.2160010346447799,
+      "ml": 0.10904630543398607,
+      "absolute_improvement_pp": 10.733416872827819,
+      "relative_improvement_percent": 49.60436894494834
+    },
+    "peak": {
+      "raw": 0.15341606399815771,
+      "constant": 0.17877795681818137,
+      "ml": 0.09285339066204812,
+      "absolute_improvement_pp": 6.056267333610959,
+      "relative_improvement_percent": 39.47609641245708
+    }
+  },
+  "comparison_with_legacy_predictions": {
+    "old_model_on_same_surviving_all_rows": 0.1256586170927772,
+    "old_model_on_same_surviving_curve_rows": 0.1308359143451187,
+    "new_model_on_same_surviving_all_rows": 0.13639898186793245,
+    "new_model_on_same_surviving_curve_rows": 0.14169094668747828,
+    "note": "Old models were trained on legacy labels and are shown for audit only. These values are not a corrected clean benchmark."
+  },
+  "observations": 3533,
+  "molecules": 194,
+  "curve_molecules": 74,
+  "features": 49,
+  "runtime": {
+    "python": "3.12.14",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "elapsed_seconds": 60.258118600000216
+  },
+  "input_sha256": "65a8127220d3a3bd76011f58d7b2ff2f699a1b5ccd2f19664378a5b72d92802e"
+}

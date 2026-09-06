@@ -1,0 +1,92 @@
+2026-09-06 evidence-corrected release v2
+=====================================
+
+Status: corrected inputs, all three task heads, nested molecular OOF predictions,
+full validity/ablation suite and all 14 report figures have been regenerated.
+The old release has not been overwritten and remains an audit snapshot only.
+
+1. Evidence-based exclusions, selected before viewing their effect on scores
+   - 7 water labels: NIST exp_5 is a theoretical comparison, not experiment.
+   - 330 curve labels: six esters have ambiguous isomer-trace correspondence.
+     Their independent fixed-energy and published table peak labels remain.
+   - 13 ozone labels: exp_2 is a renormalised version of the Newson experiment,
+     not an independent experimental series. Retained: exp_1 Newson 10 points
+     and exp_3 Siegel 9 points.
+   Total: 350 curve observations quarantined, not erased from the audit trail.
+
+2. Corrections to retained labels
+   - All 15 Hudson Table 1 peak-height targets are unchanged and verified.
+   - Table 1 supplies no peak energy: energy_eV is blank and its flag is false.
+   - Uncertainty is 5% of the published height, using the source's stated accuracy.
+   - Nine other ester curves remain as peak-anchored figure-trace extractions;
+     they are not described as independent author-supplied numeric tables.
+   - Water and ozone primary-region bounds are recalculated from retained data.
+     Ozone peak boundary is 90.8947 eV; original CSV line 2866 at 100.499 eV is
+     no longer a primary-region point. Water flags do not change.
+
+3. Final dataset
+   3,533 observations, 194 distinct identities.
+   Curve: 3,316 observations / 74 identities.
+   Fixed or sparse: 149 observations / 143 identities.
+   Peak: 68 observations / 68 identities.
+   Identity classes overlap; their counts must not be added to infer a total.
+   Original outer folds are retained: all-row loads 722, 654, 667, 721, 769;
+   curve identity counts 15, 14, 14, 15, 16.
+
+4. Method policy
+   The original 49 features, candidate models, seeds, nested selection and
+   correction bounds remain. No optimisation was performed to recover an old
+   favourable score. Sample weights were recalculated. All three heads were
+   retrained, including fixed/peak heads whose inputs were affected by corrected
+   identity-level BEB shape descriptors and missing peak-energy metadata.
+
+5. Corrected results (molecule-macro primary-region NMAE)
+   Main curve result: raw 15.27643228%, routed ML 14.16909467%.
+   Absolute improvement 1.10733761 percentage points; relative 7.24866638%.
+   Conditional molecule-bootstrap 95% CI: -0.61207425 to +2.69432228 pp.
+   Positive differences in 18,062 of 20,000 resamples. The interval crosses zero:
+   do not call this a statistically robust curve improvement or a probability
+   that the model will improve a future molecule.
+
+   Source-ingestion holdout: raw 15.37811171%, ML 17.38153612%,
+   worsening by 2.00342442 pp. It covers 73 of 74 curve identities; 2-butanol is
+   excluded because its singleton batch fails the unchanged minimum size rule.
+   Only one of seven held-out batches improves. The seven batches are mutually
+   exclusive ingestion groups, not seven fully independent experimental papers.
+
+   Supplementary all-evidence result: raw 19.73753715%, ML 13.63989819%.
+   Absolute improvement 6.09763896 pp; relative 30.89361614%.
+   This combines curve, fixed/sparse and peak tasks and is not a 194-curve score.
+
+6. Ablations
+   Curve residual vs direct-log prediction: observed advantage 1.62335 pp,
+   conditional paired 95% CI [0.56641, 2.87570] pp.
+   Removing BEB-shape features: observed advantage 0.08619 pp,
+   CI [-0.31116, 0.50259] pp; no clear advantage established.
+   Pooled vs routed curve task: observed advantage 1.78585 pp,
+   CI [0.46487, 3.25822] pp. This is a reported ablation; the headline model was
+   not switched after observing it. It needs prospective independent evaluation.
+   Pooled vs routed all evidence: advantage 1.09033 pp,
+   CI [-0.13385, 2.62529] pp. These intervals are conditional on fixed OOF fits.
+
+7. What changed in the report and reproducibility artifacts
+   Every count, evidence-code table, source-batch size, fold table, fitted-model
+   configuration, OOF point, metric, confidence interval, case ranking and figure
+   must come from v2 outputs. The old 15.33% to 12.18% and 20.00% to 12.49%
+   results are superseded and may appear only in explicitly marked audit history.
+   Existing source and model limitations are not removed by this correction.
+   Cluster bootstrap, repeated outer folds and a new independent dataset were
+   not added; these must not be claimed as completed.
+
+8. Reproduction and integrity
+   Python 3.12.14; numerical package versions pinned in requirements.txt.
+   The main run took 60.26 s; validity/ablation took 122.88 s on this workstation.
+   The standard-library verifier checks the 3,883 = 3,533 + 350 row partition,
+   the unchanged identity folds/retained targets, 15 corrected peak metadata rows,
+   CSV-to-OOF positional alignment, and independently recomputed primary metrics.
+   Final checksums describe exact deliverable bytes, not a proof of source truth.
+   Raw QEC/Molpro reruns and full raw-PDF-to-CSV extraction are outside this
+   numerical-release replay; the source ledger describes the remaining limits.
+   A full separate-directory local rerun then reproduced all 81,259 OOF cells
+   and 968 non-runtime JSON values (largest numeric cell difference 7.11e-15).
+   This establishes local numerical replay, not independent external validation.

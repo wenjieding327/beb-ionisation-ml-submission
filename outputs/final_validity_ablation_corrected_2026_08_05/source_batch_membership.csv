@@ -1,0 +1,75 @@
+﻿held_out_batch,identity_key,molecule_name,formula,rows,source_locator,batch_molecules,included_in_batch_stress_test
+Expanded measured batch,acrylonitrile,acrylonitrile,C3H3N,47,${PROJECT_ROOT}\data\processed\expanded_measured_total_master_2026_07_26.csv,6,True
+Expanded measured batch,chloroethane,chloroethane,C2H5Cl,28,${PROJECT_ROOT}\data\processed\expanded_measured_total_master_2026_07_26.csv,6,True
+Expanded measured batch,chloroform,chloroform,CHCl3,28,${PROJECT_ROOT}\data\processed\expanded_measured_total_master_2026_07_26.csv,6,True
+Expanded measured batch,chloromethane,chloromethane,CH3Cl,45,${PROJECT_ROOT}\data\processed\expanded_measured_total_master_2026_07_26.csv,6,True
+Expanded measured batch,dichlorodifluoromethane,dichlorodifluoromethane,CCl2F2,14,${PROJECT_ROOT}\data\processed\expanded_measured_total_master_2026_07_26.csv,6,True
+Expanded measured batch,ethanethiol,ethanethiol,C2H6S,48,${PROJECT_ROOT}\data\processed\expanded_measured_total_master_2026_07_26.csv,6,True
+Heavy-ECP figure batch,bromomethane,bromomethane,CH3Br,8,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\aip_fig9_12_13_experiment_ecp_beb_READY_TIER_B.csv,3,True
+Heavy-ECP figure batch,phosphine,phosphine,PH3,18,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\aip_fig9_12_13_experiment_ecp_beb_READY_TIER_B.csv,3,True
+Heavy-ECP figure batch,silicon-tetrachloride,silicon tetrachloride,SiCl4,23,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\aip_fig9_12_13_experiment_ecp_beb_READY_TIER_B.csv,3,True
+Hudson ester family,ethyl-acetate,ethyl acetate,C4H8O2,55,${ARCHIVE_ROOT}\outputs\no_qec_priority_2026_07_31\ready15_esters_experiment_beb\paired_curves\009_ethyl_acetate_experiment_beb_paired.csv,9,True
+Hudson ester family,ethyl-formate,ethyl formate,C3H6O2,55,${ARCHIVE_ROOT}\outputs\no_qec_priority_2026_07_31\ready15_esters_experiment_beb\paired_curves\002_ethyl_formate_experiment_beb_paired.csv,9,True
+Hudson ester family,isopropyl-acetate,isopropyl acetate,C5H10O2,55,${ARCHIVE_ROOT}\outputs\no_qec_priority_2026_07_31\ready15_esters_experiment_beb\paired_curves\011_isopropyl_acetate_experiment_beb_paired.csv,9,True
+Hudson ester family,isopropyl-formate,isopropyl formate,C4H8O2,55,${ARCHIVE_ROOT}\outputs\no_qec_priority_2026_07_31\ready15_esters_experiment_beb\paired_curves\004_isopropyl_formate_experiment_beb_paired.csv,9,True
+Hudson ester family,methyl-acetate,methyl acetate,C3H6O2,55,${ARCHIVE_ROOT}\outputs\no_qec_priority_2026_07_31\ready15_esters_experiment_beb\paired_curves\008_methyl_acetate_experiment_beb_paired.csv,9,True
+Hudson ester family,methyl-formate,methyl formate,C2H4O2,55,${ARCHIVE_ROOT}\outputs\no_qec_priority_2026_07_31\ready15_esters_experiment_beb\paired_curves\001_methyl_formate_experiment_beb_paired.csv,9,True
+Hudson ester family,pentyl-formate,pentyl formate,C6H12O2,55,${ARCHIVE_ROOT}\outputs\no_qec_priority_2026_07_31\ready15_esters_experiment_beb\paired_curves\007_pentyl_formate_experiment_beb_paired.csv,9,True
+Hudson ester family,propyl-acetate,propyl acetate,C5H10O2,55,${ARCHIVE_ROOT}\outputs\no_qec_priority_2026_07_31\ready15_esters_experiment_beb\paired_curves\010_propyl_acetate_experiment_beb_paired.csv,9,True
+Hudson ester family,propyl-formate,propyl formate,C4H8O2,55,${ARCHIVE_ROOT}\outputs\no_qec_priority_2026_07_31\ready15_esters_experiment_beb\paired_curves\003_propyl_formate_experiment_beb_paired.csv,9,True
+NIST curated curve batch,acetylene,Acetylene,C2H2,50,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\001_C2H2_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,ammonia,ammonia,NH3,43,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\002_NH3_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,boron-trifluoride,boron trifluoride,BF3,29,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\003_BF3_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,carbon-dioxide,carbon dioxide,CO2,53,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\004_CO2_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,carbon-disulfide,carbon disulfide,CS2,59,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\005_CS2_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,carbon-monosulfide,carbon monosulfide,CS,32,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\006_CS_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,carbon-monoxide,carbon monoxide,CO,67,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\007_CO_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,carbon-tetrafluoride,carbon tetrafluoride,CF4,85,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\008_CF4_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,carbonyl-sulfide,carbonyl sulfide,COS,23,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\009_COS_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,disilane,disilane,Si2H6,38,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\010_Si2H6_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,disulfur,disulfur,S2,26,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\011_S2_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,ethane,Ethane,C2H6,55,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\012_C2H6_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,ethylene,ethene,C2H4,28,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\013_C2H4_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,hexafluoroethane,perfluoroethane,C2F6,73,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\014_C2F6_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,hydrogen,hydrogen,H2,49,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\015_H2_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,hydrogen-sulfide,hydrogen sulfide,H2S,46,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\016_H2S_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,methane,methane,CH4,56,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\017_CH4_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,nitric-oxide,nitric oxide,NO,79,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\018_NO_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,nitrogen,nitrogen,N2,65,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\020_N2_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,nitrogen-dioxide,nitrogen dioxide,NO2,16,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\019_NO2_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,nitrous-oxide,nitrous oxide,N2O,45,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\021_N2O_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,octafluoropropane,perfluoropropane,C3F8,75,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\022_C3F8_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,oxygen,oxygen,O2,50,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\023_O2_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,ozone,ozone,O3,19,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\024_O3_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,propane,Propane,C3H8,64,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\025_C3H8_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,silane,silane,SiH4,55,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\026_SiH4_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,sulfur-dioxide,sulfur dioxide,SO2,80,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\027_SO2_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,sulfur-hexafluoride,sulfur hexafluoride,SF6,30,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\028_SF6_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,tetramethylsilane,tetramethylsilane,C4H12Si,25,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\029_TMS_BEB_vs_experiment.csv,30,True
+NIST curated curve batch,water,water,H2O,67,${ARCHIVE_ROOT}\nist_strict_usable_numeric_pairs_2026_07_30\paired_numeric\030_H2O_BEB_vs_experiment.csv,30,True
+NIST graph-digitised batch,methyl-radical,methyl radical,CH3,25,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\nist_fast12_experiment_beb_digitized_READY_TIER_B.csv,9,True
+NIST graph-digitised batch,methylene,methylene,CH2,26,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\nist_fast12_experiment_beb_digitized_READY_TIER_B.csv,9,True
+NIST graph-digitised batch,methylidyne,methylidyne,CH,28,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\nist_fast12_experiment_beb_digitized_READY_TIER_B.csv,9,True
+NIST graph-digitised batch,silicon-difluoride,silicon difluoride,SiF2,29,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\nist_fast12_experiment_beb_digitized_READY_TIER_B.csv,9,True
+NIST graph-digitised batch,silicon-monofluoride,silicon monofluoride,SiF,22,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\nist_fast12_experiment_beb_digitized_READY_TIER_B.csv,9,True
+NIST graph-digitised batch,silicon-monohydride,silicon monohydride,SiH,31,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\nist_fast12_experiment_beb_digitized_READY_TIER_B.csv,9,True
+NIST graph-digitised batch,silicon-trifluoride,silicon trifluoride,SiF3,31,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\nist_fast12_experiment_beb_digitized_READY_TIER_B.csv,9,True
+NIST graph-digitised batch,silyl-radical,silyl radical,SiH3,31,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\nist_fast12_experiment_beb_digitized_READY_TIER_B.csv,9,True
+NIST graph-digitised batch,silylene,silylene,SiH2,31,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\nist_fast12_experiment_beb_digitized_READY_TIER_B.csv,9,True
+Other/single source,2-butanol,sec-Butanol,C4H10O,21,${ARCHIVE_ROOT}\outputs\no_qec_priority_2026_07_31\agent_2butanol_hudson2003_strict_numeric_pairs.csv,1,False
+QEC priority batch,2-butanone,methyl ethyl ketone,C4H8O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,2-hexanone,methyl butyl ketone,C6H12O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,2-pentanone,methyl propyl ketone,C5H10O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,3-hexanone,ethyl propyl ketone,C6H12O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,3-methyl-2-butanone,methyl isopropyl ketone,C5H10O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,3-methyl-2-pentanone,methyl sec-butyl ketone,C6H12O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,3-pentanone,diethyl ketone,C5H10O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,4-methyl-2-pentanone,methyl iso-butyl ketone,C6H12O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,butyraldehyde,butyraldehyde,C4H8O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,diethyl-ether,diethyl ether,C4H10O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,dipropyl-ether,dipropyl ether,C6H14O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,isobutyraldehyde,isobutyraldehyde,C4H8O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+QEC priority batch,pinacolone,methyl tert-butyl ketone,C6H12O,55,${PROJECT_ROOT}\data\processed\qec_low_energy_priority_curve_points_2026_07_26.csv,13,True
+SiClx figure batch,silicon-dichloride,silicon dichloride,SiCl2,31,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\siclx_experiment_raw_beb_READY_TIER_B.csv,3,True
+SiClx figure batch,silicon-monochloride,silicon monochloride,SiCl,29,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\siclx_experiment_raw_beb_READY_TIER_B.csv,3,True
+SiClx figure batch,silicon-trichloride,silicon trichloride,SiCl3,30,${ARCHIVE_ROOT}\outputs\current_experiment_beb_master_2026_08_01\siclx_experiment_raw_beb_READY_TIER_B.csv,3,True

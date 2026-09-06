@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="499.055922pt" height="298.130367pt" viewBox="0 0 499.055922 298.130367" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-06T11:43:04.561255</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 298.130367 
+L 499.055922 298.130367 
+L 499.055922 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <g id="patch_2">
+     <path d="M 27.588867 98.21922 
+L 147.618633 98.21922 
+Q 153.393633 98.21922 153.393633 92.44422 
+L 153.393633 46.76922 
+Q 153.393633 40.99422 147.618633 40.99422 
+L 27.588867 40.99422 
+Q 21.813867 40.99422 21.813867 46.76922 
+L 21.813867 92.44422 
+Q 21.813867 98.21922 27.588867 98.21922 
+z
+" style="fill: #eef3f1; stroke: #91a4aa; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(37.852617 57.279064)">1  Traceable inputs</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(27.768516 72.504064)">Published experiments</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(27.588867 87.729064)">+ published / QEC BEB</text>
+   </g>
+   <g id="text_2">
+    <g id="patch_3">
+     <path d="M 171.284648 98.21922 
+L 325.537852 98.21922 
+Q 331.312852 98.21922 331.312852 92.44422 
+L 331.312852 46.76922 
+Q 331.312852 40.99422 325.537852 40.99422 
+L 171.284648 40.99422 
+Q 165.509648 40.99422 165.509648 46.76922 
+L 165.509648 92.44422 
+Q 165.509648 98.21922 171.284648 98.21922 
+z
+" style="fill: #eef3f1; stroke: #91a4aa; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(199.106367 58.296251)">2  Match and audit</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(179.694492 72.504064)">Identity, observable, units</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(171.284648 87.729064)">Unresolved rows quarantined</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_4">
+     <path d="M 346.24418 98.21922 
+L 472.19332 98.21922 
+Q 477.96832 98.21922 477.96832 92.44422 
+L 477.96832 46.76922 
+Q 477.96832 40.99422 472.19332 40.99422 
+L 346.24418 40.99422 
+Q 340.46918 40.99422 340.46918 46.76922 
+L 340.46918 92.44422 
+Q 340.46918 98.21922 346.24418 98.21922 
+z
+" style="fill: #eef3f1; stroke: #91a4aa; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(353.754961 58.296251)">3  Construct features</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(357.170742 72.504064)">49 BEB, energy and</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(346.24418 87.729064)">composition descriptors</text>
+   </g>
+   <g id="text_4">
+    <g id="patch_5">
+     <path d="M 20.931211 228.23322 
+L 154.276289 228.23322 
+Q 160.051289 228.23322 160.051289 222.45822 
+L 160.051289 176.78322 
+Q 160.051289 171.00822 154.276289 171.00822 
+L 20.931211 171.00822 
+Q 15.156211 171.00822 15.156211 176.78322 
+L 15.156211 222.45822 
+Q 15.156211 228.23322 20.931211 228.23322 
+z
+" style="fill: #eef3f1; stroke: #91a4aa; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(38.049492 187.293064)">6  Report evidence</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(31.186758 203.535251)">OOF errors and cases</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(20.931211 218.760251)">Batch-transfer stress test</text>
+   </g>
+   <g id="text_5">
+    <g id="patch_6">
+     <path d="M 180.707578 228.23322 
+L 316.114922 228.23322 
+Q 321.889922 228.23322 321.889922 222.45822 
+L 321.889922 176.78322 
+Q 321.889922 171.00822 316.114922 171.00822 
+L 180.707578 171.00822 
+Q 174.932578 171.00822 174.932578 176.78322 
+L 174.932578 222.45822 
+Q 174.932578 228.23322 180.707578 228.23322 
+z
+" style="fill: #eef3f1; stroke: #91a4aa; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(202.823203 187.293064)">5  Predict by task</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(180.707578 202.518064)">Independent curve, fixed-</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(191.47582 217.743064)">point and peak heads</text>
+   </g>
+   <g id="text_6">
+    <g id="patch_7">
+     <path d="M 335.257734 228.23322 
+L 483.179766 228.23322 
+Q 488.954766 228.23322 488.954766 222.45822 
+L 488.954766 176.78322 
+Q 488.954766 171.00822 483.179766 171.00822 
+L 335.257734 171.00822 
+Q 329.482734 171.00822 329.482734 176.78322 
+L 329.482734 222.45822 
+Q 329.482734 228.23322 335.257734 228.23322 
+z
+" style="fill: #eef3f1; stroke: #91a4aa; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(356.510391 188.310251)">4  Nested validation</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(356.79832 203.535251)">Five molecular folds</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #202020" transform="translate(335.257734 217.743064)">Inner training-only selection</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 158.748898 69.60672 
+Q 168.005999 69.60672 175.586048 69.60672 
+" style="fill: none; stroke: #2f6f89; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 170.986048 67.30672 
+L 175.586048 69.60672 
+L 170.986048 71.90672 
+" style="fill: none; stroke: #2f6f89; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 319.556398 69.60672 
+Q 328.813499 69.60672 336.393548 69.60672 
+" style="fill: none; stroke: #2f6f89; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 331.793548 67.30672 
+L 336.393548 69.60672 
+L 331.793548 71.90672 
+" style="fill: none; stroke: #2f6f89; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 409.21875 117.114045 
+Q 409.21875 135.266778 409.21875 151.742459 
+" style="fill: none; stroke: #2f6f89; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 411.51875 147.142459 
+L 409.21875 151.742459 
+L 406.91875 147.142459 
+" style="fill: none; stroke: #2f6f89; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 338.073602 199.62072 
+Q 328.816501 199.62072 321.236452 199.62072 
+" style="fill: none; stroke: #2f6f89; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 325.836452 201.92072 
+L 321.236452 199.62072 
+L 325.836452 197.32072 
+" style="fill: none; stroke: #2f6f89; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 177.266102 199.62072 
+Q 168.009001 199.62072 160.428952 199.62072 
+" style="fill: none; stroke: #2f6f89; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 165.028952 201.92072 
+L 160.428952 199.62072 
+L 165.028952 197.32072 
+" style="fill: none; stroke: #2f6f89; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+  </g>
+  <g id="text_7">
+   <text style="font-size: 10.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #202020" x="252.298125" y="288.504" transform="rotate(-0 252.298125 288.504)">BEB shape summaries use the retained matched energy grid, not experimental cross sections.</text>
+  </g>
+ </g>
+</svg>

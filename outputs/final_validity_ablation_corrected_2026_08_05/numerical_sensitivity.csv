@@ -1,0 +1,7 @@
+﻿setting,curve_primary_macro_NMAE,change_vs_frozen_headline_percentage_points,policy
+default refit,0.14169094668747825,0.0,{}
+clip 0.5-2.0,0.14223264111119677,0.054169442371851395,"{""clip_high"": 2.0, ""clip_low"": 0.5}"
+equal region weights 1.0/1.0,0.14172636473622374,0.003541804874548915,"{""primary_weight"": 1.0, ""secondary_weight"": 1.0}"
+moderate region weights 1.5/1.0,0.14234841057441627,0.065746388693802,"{""primary_weight"": 1.5, ""secondary_weight"": 1.0}"
+missing uncertainty 8%,0.14218464572032544,0.04936990328471835,"{""missing_uncertainty"": 0.08}"
+missing uncertainty 20%,0.14101226250347063,-0.06786841840076274,"{""missing_uncertainty"": 0.2}"

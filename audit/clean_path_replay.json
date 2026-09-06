@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "method": "Full nested training and full validity/ablation suite rerun from a copy in a different directory; numerical values compared with 1e-12 absolute/relative tolerance; runtime excluded.",
+  "comparison_directory_role": "separate local working copy (not an independent external laboratory)",
+  "json_comparisons": [
+    {
+      "path": "outputs/final_expanded_194_ml_2026_08_02/metrics.json",
+      "checked_non_runtime_values": 769,
+      "frozen_runtime": {
+        "python": "3.12.14",
+        "platform": "Windows-11-10.0.26200-SP0",
+        "elapsed_seconds": 60.258118600000216
+      },
+      "replay_runtime": {
+        "python": "3.12.14",
+        "platform": "Windows-11-10.0.26200-SP0",
+        "elapsed_seconds": 64.9345644
+      }
+    },
+    {
+      "path": "outputs/final_validity_ablation_corrected_2026_08_05/validity_ablation_results.json",
+      "checked_non_runtime_values": 199,
+      "frozen_runtime": {
+        "elapsed_seconds": 122.88161619999983,
+        "python": "3.12.14",
+        "platform": "Windows-11-10.0.26200-SP0",
+        "processor": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+        "logical_cpu_count": 24,
+        "random_seed_ranges": "410000-500000; bootstrap seed 20260802"
+      },
+      "replay_runtime": {
+        "elapsed_seconds": 139.68058090000022,
+        "python": "3.12.14",
+        "platform": "Windows-11-10.0.26200-SP0",
+        "processor": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+        "logical_cpu_count": 24,
+        "random_seed_ranges": "410000-500000; bootstrap seed 20260802"
+      }
+    }
+  ],
+  "oof_cells_compared": 81259,
+  "maximum_numeric_cell_difference": 7.105427357601002e-15,
+  "identical_input_sha256": "65a8127220d3a3bd76011f58d7b2ff2f699a1b5ccd2f19664378a5b72d92802e"
+}
