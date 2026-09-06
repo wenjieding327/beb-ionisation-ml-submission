@@ -1,0 +1,1026 @@
+[
+  {
+    "identity_key": "1-3-butadiene",
+    "fields": {
+      "page_figure_or_extraction_note": "experiment_location=Appendix A, Table A.7; source PDF p.331, printed p.289 | Bose numerical carrier: dissertation Table A.7, PDF p.331 / printed p.289, BOSE396_047, row 'Butan-1,3-diene', Mean cross section column. PDF-column replay matches retained experimental label 11.6 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "1-butanol",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=NA | full_curve_source_page=journal pp3162-3168; exact curve page NA | numeric_label_location=Table 2, journal p.769 (local PDF physical p.3) | source_pdf_page=336 | source_printed_page=294 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.336 / printed p.294, BOSE396_127, row 'n-Butanol', Mean cross section column. PDF-column replay matches retained experimental label 14.0 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "1-hexene",
+    "fields": {
+      "page_figure_or_extraction_note": "experiment_location=PDF p.332; printed p.290; Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.332 / printed p.290, BOSE396_050, row 'Hexan-1-ene', Mean cross section column. PDF-column replay matches retained experimental label 16.4 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "1-propanol",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=336 | source_printed_page=294 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.336 / printed p.294, BOSE396_125, row 'n-Propanol', Mean cross section column. PDF-column replay matches retained experimental label 11.7 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "2-butanol",
+    "fields": {
+      "page_figure_or_extraction_note": "numeric_source_location=Amorim 2023 Table 3 pp14-16 column Hudson experimental and Present BEB | full_curve_source_figure=NA | full_curve_source_page=journal pp3162-3168; exact curve page NA | numeric_label_location=Table 2, journal p.769 (local PDF physical p.3) | source_pdf_page=336 | source_printed_page=294 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.336 / printed p.294, BOSE396_128, row 'sec-Butanol', Mean cross section column. PDF-column replay matches retained experimental label 14.2 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "2-butanone",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 3; Fig.2/Table3 b | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=338 | source_printed_page=296 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.338 / printed p.296, BOSE396_154, row 'Ethyl methyl ketone', Mean cross section column. PDF-column replay matches retained experimental label 12.4 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "2-hexanone",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 3; Fig.2/Table3 g | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=338 | source_printed_page=296 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.338 / printed p.296, BOSE396_157, row 'n-Butyl methyl ketone', Mean cross section column. PDF-column replay matches retained experimental label 20.0 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "2-methyl-1-propanol",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=NA | full_curve_source_page=journal pp3162-3168; exact curve page NA | numeric_label_location=Table 2, journal p.769 (local PDF physical p.3) | source_pdf_page=336 | source_printed_page=294 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.336 / printed p.294, BOSE396_129, row 'iso-Butanol', Mean cross section column. PDF-column replay matches retained experimental label 14.2 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "2-methyltetrahydrofuran",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=345 | source_printed_page=303 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.345 / printed p.303, BOSE396_252, row '2-methyl-tetrahydrofuran', Mean cross section column. PDF-column replay matches retained experimental label 14.8 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "2-propanol",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=NA | full_curve_source_page=journal pp3162-3168; exact curve page NA | numeric_label_location=Table 2, journal p.769 (local PDF physical p.3) | source_pdf_page=336 | source_printed_page=294 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.336 / printed p.294, BOSE396_126, row 'iso-Propanol', Mean cross section column. PDF-column replay matches retained experimental label 12.1 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "3-hexanone",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 3; Fig.2/Table3 f | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=338 | source_printed_page=296 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.338 / printed p.296, BOSE396_165, row 'Ethyl propyl ketone', Mean cross section column. PDF-column replay matches retained experimental label 19.9 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "3-methyl-2-butanone",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 3; Fig.2/Table3 e | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=338 | source_printed_page=296 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.338 / printed p.296, BOSE396_155, row 'Isopropyl methyl ketone', Mean cross section column. PDF-column replay matches retained experimental label 18.8 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "3-methyl-2-pentanone",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 3; Fig.2/Table3 i | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=338 | source_printed_page=296 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.338 / printed p.296, BOSE396_159, row 'sec-Butyl methyl ketone', Mean cross section column. PDF-column replay matches retained experimental label 19.4 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "3-pentanone",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 3; Fig.2/Table3 d | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=338 | source_printed_page=296 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.338 / printed p.296, BOSE396_164, row 'Diethyl ketone', Mean cross section column. PDF-column replay matches retained experimental label 15.7 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "4-methyl-2-pentanone",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 3; Fig.2/Table3 j | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=338 | source_printed_page=296 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.338 / printed p.296, BOSE396_160, row 'iso-Butyl methyl ketone', Mean cross section column. PDF-column replay matches retained experimental label 20.6 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "acetaldehyde",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.337 / printed p.295, BOSE396_147, row 'Acetaldehyde', Mean cross section column. PDF-column replay matches retained experimental label 8.3 A^2 exactly. | Numerical carrier verified: Bose dissertation Appendix A, Table A.7, PDF p.337 / printed p.295; acetaldehyde row, four interlab datasets. Own-laboratory contributor: Table B.2, PDF p.371 / printed p.329. Full four-source primary-measurement reconstruction not completed.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | 表格数值载体及清单转录已抽查核实，精确页码已恢复；Bose标准化四数据集总体均值；本实验室校准报告已读，四个原测量来源尚未全部逐一重建；未独立重算均值/置信区间。",
+      "original_experimental_citation_or_database_record": "10.1021/acs.jpca.0c06308 | Bose dissertation documents an own-laboratory acetaldehyde measurement; Table A.7 does not itemize all four contributing datasets, which this audit has not fully reconstructed. Retain Bose compilation as numerical carrier, not one guessed primary DOI."
+    }
+  },
+  {
+    "identity_key": "acetic-acid",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.339 / printed p.297, BOSE396_173, row 'Acetic acid', Mean cross section column. PDF-column replay matches retained experimental label 10.3 A^2 exactly. | Numerical carrier verified: Bose dissertation Appendix A, Table A.7, PDF p.339 / printed p.297; one source explicitly 'our lab'. Original calibration report: Table B.2, PDF p.371 / printed p.329; calibration conversion: Appendix B.3, PDF p.364 / printed p.322.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | 表格数值载体及清单转录已抽查核实，精确页码已恢复；明确为Bose本实验室新测量，70 eV实验方法及n-hexane参考校准报告已读；本项目仍采用Bose汇总表值，未从原始色谱峰面积独立重算数值/不确定度。",
+      "original_experimental_citation_or_database_record": "10.1021/acs.jpca.0c06308 | Bose own-laboratory measurement, dissertation Sections 2.2.1 and B.3 and Table B.2; associated study DOI 10.1021/acs.jpca.0c06308."
+    }
+  },
+  {
+    "identity_key": "acetone",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.338 / printed p.296, BOSE396_153, row 'Acetone', Mean cross section column. PDF-column replay matches retained experimental label 10.6 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "acetonitrile",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.346 / printed p.304, BOSE396_279, row 'Methylcyanide', Mean cross section column. PDF-column replay matches retained experimental label 8.1 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "acrolein",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.338 / printed p.296, BOSE396_151, row 'Prop-2-enal', Mean cross section column. PDF-column replay matches retained experimental label 11.2 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "acrylonitrile",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_283, row 'Acrylonitrile', Mean cross section column. PDF-column replay matches retained experimental label 10.5 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "ammonia",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_291, row 'Ammonia', Mean cross section column. PDF-column replay matches retained experimental label 3.4 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "aniline",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=343 | source_printed_page=301 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.343 / printed p.301, BOSE396_240, row 'Aniline', Mean cross section column. PDF-column replay matches retained experimental label 18.6 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "anthracene",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.335 / printed p.293, BOSE396_097, row 'Anthracene', Mean cross section column. PDF-column replay matches retained experimental label 40.1 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "benzene",
+    "fields": {
+      "page_figure_or_extraction_note": "experiment_location=Accepted manuscript p.4, Table 1 | Bose numerical carrier: dissertation Table A.7, PDF p.333 / printed p.291, BOSE396_064, row 'Benzene', Mean cross section column. PDF-column replay matches retained experimental label 15.2 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | 10.1039/C4CP00490F | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "bromomethane",
+    "fields": {
+      "original_experimental_citation_or_database_record": "experimental_source=Rejoub et al. experimental hollow squares reproduced in Graves, Cooper and Tennyson (2021) | R. Rejoub, B. G. Lindsay and R. F. Stebbings (2002), Electron-impact ionization of the methyl halides, Journal of Chemical Physics 117, 6450-6454, https://doi.org/10.1063/1.1506152",
+      "page_figure_or_extraction_note": "experimental_series=Rejoub et al. | source_figure=Fig. 13 | Graves et al. (2021), DOI 10.1063/5.0039465, Figure 13, PDF p.9 / printed 114104-8; experimental squares, distinct from raw ECP-BEB and alpha-BEB.",
+      "source_completeness_status": "来源元数据已找回；仍不等同对全部数值独立逐点复核 | The open numerical carrier figure and legend were directly read, and the original experimental citation was resolved. This does not claim complete independent re-extraction from every original experimental full paper."
+    }
+  },
+  {
+    "identity_key": "butyl-acetate",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.340 / printed p.298, BOSE396_188, row 'n-Butyl acetate', Mean cross section column. PDF-column replay matches retained experimental label 21.1 A^2 exactly.",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "butyl-formate",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.339 / printed p.297, BOSE396_180, row 'n-Butyl formate', Mean cross section column. PDF-column replay matches retained experimental label 16.8 A^2 exactly.",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "butyraldehyde",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 2; Fig.1/Table2 c | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=337 | source_printed_page=295 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.337 / printed p.295, BOSE396_149, row 'n-Butanaldehyde', Mean cross section column. PDF-column replay matches retained experimental label 12.9 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "butyronitrile",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_281, row 'Propylcyanide', Mean cross section column. PDF-column replay matches retained experimental label 16.3 A^2 exactly. | Numerical carrier verified: Bose dissertation Appendix A, Table A.7, PDF p.347 / printed p.305; source printed 'Zhu et al.'. Original reference resolved through Table A.1, Table A.2 and ref.148 to Zhou et al. 2019. Original-paper Table 2 PDF p.5 / printed p.4 confirms CH3CH2CH2CN=propylcyanide(butyronitrile); Figure 3 PDF p.8 / printed p.7 lower-left panel shows experimental curve. Bose Table A.2 PDF p.318 / printed p.276 adopts 70 eV times 1.40; not independently redigitized/recomputed.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | 表格数值载体及清单转录已抽查核实，精确页码已恢复；原实验来源已追溯至Zhou等2019并核对全文Table 2分子结构及Figure 3实验曲线；本项目采用Bose经1.40缩放的汇总表值，未独立数字化原70 eV点或重算缩放/舍入；A.7的Zhu拼写与文献表Zhou不一致。",
+      "original_experimental_citation_or_database_record": "10.1021/acs.jpca.0c06308 | Zhou, W.; Wilkinson, L.; Lee, J. W. L.; Heathcote, D.; Vallance, C. Total Electron Ionization Cross-Sections for Molecules of Astrochemical Interest. Mol. Phys. 2019, 117, 3066-3075. DOI 10.1080/00268976.2019.1583389."
+    }
+  },
+  {
+    "identity_key": "c2cl4",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.9 | full_curve_source_page=thesis print p46; physical PDF p65 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=351 | source_printed_page=309 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.351 / printed p.309, BOSE396_349, row 'Tetrachloroethene', Mean cross section column. PDF-column replay matches retained experimental label 25.3 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 21.74 A^2. Experimental peak energy 79 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 21.74 A^2. Experimental peak energy 79 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content"
+    }
+  },
+  {
+    "identity_key": "c2cl6",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.8 | full_curve_source_page=thesis print p45; physical PDF p64 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=350 | source_printed_page=308 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.350 / printed p.308, BOSE396_330, row 'Hexachloroethane', Mean cross section column. PDF-column replay matches retained experimental label 31.2 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 26.61 A^2. Experimental peak energy 90 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 26.61 A^2. Experimental peak energy 90 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content"
+    }
+  },
+  {
+    "identity_key": "c2h2cl4-1-1-1-2",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.8 | full_curve_source_page=thesis print p45; physical PDF p64 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=350 | source_printed_page=308 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.350 / printed p.308, BOSE396_336, row '1,2,2,2-Tetrachloroethane', Mean cross section column. PDF-column replay matches retained experimental label 24.7 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 21.1 A^2. Experimental peak energy 79 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 21.1 A^2. Experimental peak energy 79 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content",
+      "original_experimental_citation_or_database_record": "numeric_label_source_title=Absolute electron-impact ionization cross sections for a range of C1 to C5 chlorocarbons | source_title=Predicting Total Electron-Ionization Cross Sections and GC-MS Calibration Factors Using Machine Learning | For the replaced peak label, the definitive numerical carrier is reference [59]: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content. The earlier journal DOI is a related study, not an independently verified locator for the superseded numeric value."
+    }
+  },
+  {
+    "identity_key": "c2h2cl4-1-1-2-2",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.8 | full_curve_source_page=thesis print p45; physical PDF p64 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=350 | source_printed_page=308 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.350 / printed p.308, BOSE396_335, row '1,1,2,2-Tetrachloroethane', Mean cross section column. PDF-column replay matches retained experimental label 23.4 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 19.8 A^2. Experimental peak energy 79 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 19.8 A^2. Experimental peak energy 79 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content",
+      "original_experimental_citation_or_database_record": "numeric_label_source_title=Absolute electron-impact ionization cross sections for a range of C1 to C5 chlorocarbons | source_title=Predicting Total Electron-Ionization Cross Sections and GC-MS Calibration Factors Using Machine Learning | For the replaced peak label, the definitive numerical carrier is reference [59]: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content. The earlier journal DOI is a related study, not an independently verified locator for the superseded numeric value."
+    }
+  },
+  {
+    "identity_key": "c2h3cl3-1-1-1",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.8 | full_curve_source_page=thesis print p45; physical PDF p64 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=350 | source_printed_page=308 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.350 / printed p.308, BOSE396_334, row '1,1,1-Trichloroethane', Mean cross section column. PDF-column replay matches retained experimental label 20.4 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 17.6 A^2. Experimental peak energy 79 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 17.6 A^2. Experimental peak energy 79 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content",
+      "original_experimental_citation_or_database_record": "numeric_label_source_title=Absolute electron-impact ionization cross sections for a range of C1 to C5 chlorocarbons | source_title=Predicting Total Electron-Ionization Cross Sections and GC-MS Calibration Factors Using Machine Learning | For the replaced peak label, the definitive numerical carrier is reference [59]: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content. The earlier journal DOI is a related study, not an independently verified locator for the superseded numeric value."
+    }
+  },
+  {
+    "identity_key": "c2h3cl3-1-1-2",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.8 | full_curve_source_page=thesis print p45; physical PDF p64 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=350 | source_printed_page=308 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.350 / printed p.308, BOSE396_333, row '1,2,2-Trichloroethane', Mean cross section column. PDF-column replay matches retained experimental label 20.4 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 17.1 A^2. Experimental peak energy 82 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 17.1 A^2. Experimental peak energy 82 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content",
+      "original_experimental_citation_or_database_record": "numeric_label_source_title=Absolute electron-impact ionization cross sections for a range of C1 to C5 chlorocarbons | source_title=Predicting Total Electron-Ionization Cross Sections and GC-MS Calibration Factors Using Machine Learning | For the replaced peak label, the definitive numerical carrier is reference [59]: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content. The earlier journal DOI is a related study, not an independently verified locator for the superseded numeric value."
+    }
+  },
+  {
+    "identity_key": "c2h4cl2-1-1",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.8 | full_curve_source_page=thesis print p45; physical PDF p64 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=350 | source_printed_page=308 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.350 / printed p.308, BOSE396_332, row '1,1-Dichloroethane', Mean cross section column. PDF-column replay matches retained experimental label 16.4 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 14.1 A^2. Experimental peak energy 80 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 14.1 A^2. Experimental peak energy 80 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content",
+      "original_experimental_citation_or_database_record": "numeric_label_source_title=Absolute electron-impact ionization cross sections for a range of C1 to C5 chlorocarbons | source_title=Predicting Total Electron-Ionization Cross Sections and GC-MS Calibration Factors Using Machine Learning | For the replaced peak label, the definitive numerical carrier is reference [59]: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content. The earlier journal DOI is a related study, not an independently verified locator for the superseded numeric value."
+    }
+  },
+  {
+    "identity_key": "c2h4cl2-1-2",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.8 | full_curve_source_page=thesis print p45; physical PDF p64 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=350 | source_printed_page=308 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.350 / printed p.308, BOSE396_331, row '1,2-Dichloroethane', Mean cross section column. PDF-column replay matches retained experimental label 17.1 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 14.23 A^2. Experimental peak energy 78 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 14.23 A^2. Experimental peak energy 78 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content"
+    }
+  },
+  {
+    "identity_key": "c2hcl3",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.9 | full_curve_source_page=thesis print p46; physical PDF p65 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=351 | source_printed_page=309 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.351 / printed p.309, BOSE396_348, row 'Trichloroethene', Mean cross section column. PDF-column replay matches retained experimental label 21.5 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 18.05 A^2. Experimental peak energy 82 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 18.05 A^2. Experimental peak energy 82 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content"
+    }
+  },
+  {
+    "identity_key": "c2hcl5",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.8 | full_curve_source_page=thesis print p45; physical PDF p64 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=350 | source_printed_page=308 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.350 / printed p.308, BOSE396_329, row 'Pentachloroethane', Mean cross section column. PDF-column replay matches retained experimental label 27.9 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 23.61 A^2. Experimental peak energy 82 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 23.61 A^2. Experimental peak energy 82 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content"
+    }
+  },
+  {
+    "identity_key": "c3h7cl-1",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Figs. 3.10 and 3.18 | full_curve_source_page=thesis print pp47 and 55; physical PDF pp66 and 74 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=350 | source_printed_page=308 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.350 / printed p.308, BOSE396_337, row '1-Chloropropane', Mean cross section column. PDF-column replay matches retained experimental label 14.7 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 14.2 A^2. Experimental peak energy 82 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 14.2 A^2. Experimental peak energy 82 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The legacy amplitude was replaced by this directly verified table value. Absolute uncertainty was rescaled using the source 3.9% maximum instrumental bound (Table 3.2, PDF p.56 / printed p.37), not a standard deviation.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content",
+      "original_experimental_citation_or_database_record": "numeric_label_source_title=Absolute electron-impact ionization cross sections for a range of C1 to C5 chlorocarbons | source_title=Predicting Total Electron-Ionization Cross Sections and GC-MS Calibration Factors Using Machine Learning | For the replaced peak label, the definitive numerical carrier is reference [59]: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content. The earlier journal DOI is a related study, not an independently verified locator for the superseded numeric value."
+    }
+  },
+  {
+    "identity_key": "c3h7cl-2",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.18 | full_curve_source_page=thesis print p55; physical PDF p74 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=350 | source_printed_page=308 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.350 / printed p.308, BOSE396_338, row '2-Chloropropane', Mean cross section column. PDF-column replay matches retained experimental label 17.0 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 14.22 A^2. Experimental peak energy 82 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 14.22 A^2. Experimental peak energy 82 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content"
+    }
+  },
+  {
+    "identity_key": "c4h9cl-1",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Figs. 3.10 and 3.18 | full_curve_source_page=thesis print pp47 and 55; physical PDF pp66 and 74 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=350 | source_printed_page=308 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.350 / printed p.308, BOSE396_339, row '1-Chlorobutane', Mean cross section column. PDF-column replay matches retained experimental label 18.0 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 17.4 A^2. Experimental peak energy 80 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 17.4 A^2. Experimental peak energy 80 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "experimental_source_locator": "10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content"
+    }
+  },
+  {
+    "identity_key": "carbon-dioxide",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_296, row 'Carbon dioxide', Mean cross section column. PDF-column replay matches retained experimental label 4.2 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "carbon-disulfide",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_297, row 'Carbon disulfide', Mean cross section column. PDF-column replay matches retained experimental label 13.8 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "carbon-monoxide",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | dataset_id=exp_3 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_295, row 'Carbon monoxide', Mean cross section column. PDF-column replay matches retained experimental label 3.1 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "carbon-tetrabromide",
+    "fields": {
+      "page_figure_or_extraction_note": "Numerical carrier directly checked: Scott and Irikura (2005), DOI 10.1002/sia.2091, author manuscript Table 2, PDF p.11. 19.0 A^2 with quoted uncertainty 0.76 A^2; ECP-BEB 19.7 A^2. Table has peak amplitudes, not a common-energy observation or reported peak-energy column.",
+      "original_experimental_citation_or_database_record": "original_experiment_reference=Bart et al. 2001 ref. 18; DOI 10.1039/B009243F | Bart et al. (2001), DOI 10.1039/B009243F, cited as ref.18 in Scott and Irikura",
+      "source_completeness_status": "Earlier exact locator gap addressed for the source route named in the appended audit | Original author-manuscript numerical comparison table and its reference footnotes checked. The adopted numbers are recovered through this published theoretical comparison, not re-extracted from the earlier primary experimental paper. Not every original experimental paper has been independently read in full."
+    }
+  },
+  {
+    "identity_key": "carbonyl-sulfide",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_298, row 'Carbonyl sulfide', Mean cross section column. PDF-column replay matches retained experimental label 8.5 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文；私人通信，经NIST间接取得，无独立原始论文可核 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "chlorine",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_288, row 'Chlorine', Mean cross section column. PDF-column replay matches retained experimental label 8.5 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "chlorotrifluoromethane",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=353 | source_printed_page=311 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.353 / printed p.311, BOSE396_376, row 'Trifluorochloromethane', Mean cross section column. PDF-column replay matches retained experimental label 7.5 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "cyclobutane",
+    "fields": {
+      "page_figure_or_extraction_note": "experimental_source_location=Appendix A, Table A.7; PDF page 335; printed page 293 | Bose numerical carrier: dissertation Table A.7, PDF p.335 / printed p.293, BOSE396_113, row 'Cyclobutane', Mean cross section column. PDF-column replay matches retained experimental label 8.6 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "cyclohexane",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=335 | source_printed_page=293 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.335 / printed p.293, BOSE396_115, row 'Cyclohexane', Mean cross section column. PDF-column replay matches retained experimental label 17.3 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "cyclohexene",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=335 | source_printed_page=293 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.335 / printed p.293, BOSE396_117, row 'Cyclohexene', Mean cross section column. PDF-column replay matches retained experimental label 16.3 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "cyclopentane",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=335 | source_printed_page=293 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.335 / printed p.293, BOSE396_114, row 'Cyclopentane', Mean cross section column. PDF-column replay matches retained experimental label 15.9 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "cyclopentanone",
+    "fields": {
+      "page_figure_or_extraction_note": "experimental_source_location=Appendix A, Table A.7; PDF page 339; printed page 297 | Bose numerical carrier: dissertation Table A.7, PDF p.339 / printed p.297, BOSE396_170, row 'Cyclopentanone', Mean cross section column. PDF-column replay matches retained experimental label 12.7 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "cyclopropane",
+    "fields": {
+      "page_figure_or_extraction_note": "experimental_source_location=Appendix A, Table A.7; PDF page 335; printed page 293 | Bose numerical carrier: dissertation Table A.7, PDF p.335 / printed p.293, BOSE396_112, row 'Cyclopropane', Mean cross section column. PDF-column replay matches retained experimental label 10.1 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "diethyl-ether",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 2; Fig.3/Table2 a | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=337 | source_printed_page=295 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.337 / printed p.295, BOSE396_137, row 'Diethylether', Mean cross section column. PDF-column replay matches retained experimental label 13.0 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "difluoromethane",
+    "fields": {
+      "page_figure_or_extraction_note": "experimental_source_location=Appendix A, Table A.7; PDF page 348; printed page 306 | Bose numerical carrier: dissertation Table A.7, PDF p.348 / printed p.306, BOSE396_300, row 'Difluoromethane', Mean cross section column. PDF-column replay matches retained experimental label 4.1 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "diisopropyl-ether",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=337 | source_printed_page=295 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.337 / printed p.295, BOSE396_140, row 'Di-isopropyl ether', Mean cross section column. PDF-column replay matches retained experimental label 13.5 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "dimethyl-ether",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.337 / printed p.295, BOSE396_136, row 'Dimethylether', Mean cross section column. PDF-column replay matches retained experimental label 9.3 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "dipropyl-ether",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 2; Fig.3/Table2 b | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=337 | source_printed_page=295 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.337 / printed p.295, BOSE396_139, row 'Di-n-propyl ether', Mean cross section column. PDF-column replay matches retained experimental label 22.4 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "ethane",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | dataset_id=exp_4 | full_curve_source_figure=Fig. 3.8 | full_curve_source_page=thesis print p45; physical PDF p64 | numeric_label_location=reported peak compilation; full curve location retained separately | source_pdf_page=329 | source_printed_page=287 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.329 / printed p.287, BOSE396_002, row 'Ethane', Mean cross section column. PDF-column replay matches retained experimental label 7.8 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 7.2 A^2. Experimental peak energy 90 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 7.2 A^2. Experimental peak energy 90 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "experimental_source_locator": "https://physics.nist.gov/cgi-bin/Ionization/graph_new.pl?element=C2H6.0 | 10.1088/0953-4075/34/15/309 | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content"
+    }
+  },
+  {
+    "identity_key": "ethanethiol",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=346 | source_printed_page=304 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.346 / printed p.304, BOSE396_273, row 'Ethanethiol', Mean cross section column. PDF-column replay matches retained experimental label 14.6 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "ethanol",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=336 | source_printed_page=294 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.336 / printed p.294, BOSE396_124, row 'Ethanol', Mean cross section column. PDF-column replay matches retained experimental label 8.6 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "ethyl-acetate",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 2 | full_curve_source_page=physical PDF p3; journal p44 | source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | experiment_source_figure=2 | experiment_source_page=44 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.340 / printed p.298, BOSE396_184, row 'Ethyl acetate', Mean cross section column. PDF-column replay matches retained experimental label 14.0 A^2 exactly.",
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "ethyl-formate",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 1 | full_curve_source_page=physical PDF p2; journal p43 | source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | experiment_source_figure=1 | experiment_source_page=43 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.339 / printed p.297, BOSE396_177, row 'Ethyl formate', Mean cross section column. PDF-column replay matches retained experimental label 8.8 A^2 exactly.",
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "ethyl-methyl-ether",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.337 / printed p.295, BOSE396_138, row 'Ethyl methyl ether', Mean cross section column. PDF-column replay matches retained experimental label 19.8 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "ethylene",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | source_pdf_page=331 | source_printed_page=289 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.331 / printed p.289, BOSE396_041, row 'Ethene', Mean cross section column. PDF-column replay matches retained experimental label 6.4 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "ethylene-glycol",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.337 / printed p.295, BOSE396_134, row '1,2-Ethanediol or ethylene glycol', Mean cross section column. PDF-column replay matches retained experimental label 15.1 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "fluorine",
+    "fields": {
+      "page_figure_or_extraction_note": "experimental_source_location=Appendix A, Table A.7; PDF page 347; printed page 305 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_287, row 'Fluorine', Mean cross section column. PDF-column replay matches retained experimental label 1.3 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "fluoromethane",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=348 | source_printed_page=306 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.348 / printed p.306, BOSE396_299, row 'Fluoromethane', Mean cross section column. PDF-column replay matches retained experimental label 4.3 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "formaldehyde",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=337 | source_printed_page=295 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.337 / printed p.295, BOSE396_146, row 'Formaldehyde', Mean cross section column. PDF-column replay matches retained experimental label 4.8 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "formic-acid",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.339 / printed p.297, BOSE396_172, row 'Formic acid', Mean cross section column. PDF-column replay matches retained experimental label 4.3 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "furan",
+    "fields": {
+      "page_figure_or_extraction_note": "experimental_source_location=Appendix A, Table A.7; PDF page 345; printed page 303 | Bose numerical carrier: dissertation Table A.7, PDF p.345 / printed p.303, BOSE396_255, row 'Furan', Mean cross section column. PDF-column replay matches retained experimental label 8.3 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "gallium-monochloride",
+    "fields": {
+      "page_figure_or_extraction_note": "Numerical carrier directly checked: Scott and Irikura (2005), DOI 10.1002/sia.2091, author manuscript Table 2, PDF p.11. 9.25 A^2 with quoted uncertainty 0.93 A^2; ECP-BEB 8.3 A^2. Table has peak amplitudes, not a common-energy observation or reported peak-energy column.",
+      "original_experimental_citation_or_database_record": "original_experiment_reference=Shul et al. 1990 ref. 19; Phys. Rev. A 41 5856 | Shul, Freund and Wetzel (1990), Physical Review A 41, 5856, DOI 10.1103/PhysRevA.41.5856, cited as ref.19",
+      "source_completeness_status": "Earlier exact locator gap addressed for the source route named in the appended audit | Original author-manuscript numerical comparison table and its reference footnotes checked. The adopted numbers are recovered through this published theoretical comparison, not re-extracted from the earlier primary experimental paper. Not every original experimental paper has been independently read in full."
+    }
+  },
+  {
+    "identity_key": "glycolaldehyde",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.341 / printed p.299, BOSE396_199, row 'Glycolaldehyde', Mean cross section column. PDF-column replay matches retained experimental label 6.4 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "hexafluoro-1-3-butadiene",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=349 | source_printed_page=307 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.349 / printed p.307, BOSE396_322, row 'Perflurobutan-1,3-diene', Mean cross section column. PDF-column replay matches retained experimental label 11.8 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "hexafluoro-2-butyne",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=349 | source_printed_page=307 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.349 / printed p.307, BOSE396_321, row 'Perfluorobutan-2-yne', Mean cross section column. PDF-column replay matches retained experimental label 11.2 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "hexafluoroethane",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | dataset_id=exp_3 | dataset_id=exp_4 | dataset_id=exp_5 | source_pdf_page=348 | source_printed_page=306 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.348 / printed p.306, BOSE396_304, row 'Hexafluoroethane', Mean cross section column. PDF-column replay matches retained experimental label 7.4 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "hexafluoropropene",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=349 | source_printed_page=307 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.349 / printed p.307, BOSE396_317, row 'Hexafluoropropene', Mean cross section column. PDF-column replay matches retained experimental label 8.8 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "hexane",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=330 | source_printed_page=288 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.330 / printed p.288, BOSE396_009, row 'n-Hexane', Mean cross section column. PDF-column replay matches retained experimental label 20.0 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "hydrogen",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | dataset_id=exp_4 | dataset_id=exp_5 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_284, row 'Hydrogen', Mean cross section column. PDF-column replay matches retained experimental label 1.2 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "hydrogen-sulfide",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_292, row 'Hydrogen sulfide', Mean cross section column. PDF-column replay matches retained experimental label 6.4 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "indene",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=334 | source_printed_page=292 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.334 / printed p.292, BOSE396_090, row 'Indene', Mean cross section column. PDF-column replay matches retained experimental label 27.3 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "iodomethane",
+    "fields": {
+      "page_figure_or_extraction_note": "Numerical carrier directly checked: Scott and Irikura (2005), DOI 10.1002/sia.2091, author manuscript Table 2, PDF p.11. 10.3 A^2 with quoted uncertainty 0.3 A^2; ECP-BEB 8.7 A^2. Table has peak amplitudes, not a common-energy observation or reported peak-energy column.",
+      "original_experimental_citation_or_database_record": "original_experiment_reference=Rejoub et al. 2002 ref. 25; J. Chem. Phys. 117 6450 | Rejoub, Lindsay and Stebbings (2002), Journal of Chemical Physics 117, 6450, DOI 10.1063/1.1506152, cited as ref.25",
+      "source_completeness_status": "Earlier exact locator gap addressed for the source route named in the appended audit | Original author-manuscript numerical comparison table and its reference footnotes checked. The adopted numbers are recovered through this published theoretical comparison, not re-extracted from the earlier primary experimental paper. Not every original experimental paper has been independently read in full."
+    }
+  },
+  {
+    "identity_key": "isobutyl-acetate",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.340 / printed p.298, BOSE396_190, row 'iso-Butyl acetate', Mean cross section column. PDF-column replay matches retained experimental label 21.2 A^2 exactly.",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "isobutyl-formate",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.339 / printed p.297, BOSE396_181, row 'iso-Butyl formate', Mean cross section column. PDF-column replay matches retained experimental label 16.8 A^2 exactly.",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "isobutyraldehyde",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 2; Fig.1/Table2 d | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=338 | source_printed_page=296 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.338 / printed p.296, BOSE396_150, row 'iso-Butanaldehyde', Mean cross section column. PDF-column replay matches retained experimental label 12.9 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "isobutyronitrile",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_282, row 'Isopropylcyanide', Mean cross section column. PDF-column replay matches retained experimental label 15.3 A^2 exactly. | Bose dissertation Appendix A, Table A.7, PDF p.347 / printed p.305; original identity and experimental curve in Zhou et al. 2019 Table 2 PDF p.5 / printed p.4 and Figure 3 PDF p.8 / printed p.7 lower-right panel. Original 70 eV point not independently digitized.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation.",
+      "original_experimental_citation_or_database_record": "10.1021/acs.jpca.0c06308 | 10.1080/00268976.2019.1583389"
+    }
+  },
+  {
+    "identity_key": "isopropyl-acetate",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 2 | full_curve_source_page=physical PDF p3; journal p44 | source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | experiment_source_figure=2 | experiment_source_page=44 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.340 / printed p.298, BOSE396_185, row 'iso-Propyl acetate', Mean cross section column. PDF-column replay matches retained experimental label 17.3 A^2 exactly.",
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "isopropyl-formate",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 1 | full_curve_source_page=physical PDF p2; journal p43 | source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | experiment_source_figure=1 | experiment_source_page=43 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.339 / printed p.297, BOSE396_179, row 'iso-Propyl formate', Mean cross section column. PDF-column replay matches retained experimental label 13.9 A^2 exactly.",
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "methane",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | dataset_id=exp_3 | source_pdf_page=329 | source_printed_page=287 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.329 / printed p.287, BOSE396_001, row 'Methane', Mean cross section column. PDF-column replay matches retained experimental label 4.6 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "methanol",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=336 | source_printed_page=294 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.336 / printed p.294, BOSE396_123, row 'Methanol', Mean cross section column. PDF-column replay matches retained experimental label 5.4 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "methyl-acetate",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 2 | full_curve_source_page=physical PDF p3; journal p44 | source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | experiment_source_figure=2 | experiment_source_page=44 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.340 / printed p.298, BOSE396_183, row 'Methyl acetate', Mean cross section column. PDF-column replay matches retained experimental label 11.4 A^2 exactly.",
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "methyl-formate",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 1 | full_curve_source_page=physical PDF p2; journal p43 | source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | experiment_source_figure=1 | experiment_source_page=43 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.339 / printed p.297, BOSE396_176, row 'Methyl formate', Mean cross section column. PDF-column replay matches retained experimental label 8.3 A^2 exactly.",
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "n-butane",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.329 / printed p.287, BOSE396_004, row 'n-Butane', Mean cross section column. PDF-column replay matches retained experimental label 13.6 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "n-ethylacetamide",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=346 | source_printed_page=304 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.346 / printed p.304, BOSE396_278, row 'Ethylacetamide', Mean cross section column. PDF-column replay matches retained experimental label 15.2 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "n-pentane",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.330 / printed p.288, BOSE396_006, row 'n-Pentane', Mean cross section column. PDF-column replay matches retained experimental label 16.4 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "nitric-oxide",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | dataset_id=exp_3 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_290, row 'Nitric oxide', Mean cross section column. PDF-column replay matches retained experimental label 3.1 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "nitrogen",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_3 | dataset_id=exp_4 | dataset_id=exp_5 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_285, row 'Nitrogen', Mean cross section column. PDF-column replay matches retained experimental label 3.0 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "nitromethane",
+    "fields": {
+      "page_figure_or_extraction_note": "experimental_numeric_recovery_figure=Figure 11 | experimental_numeric_recovery_source_pdf_page=10 | experimental_primary_source_pages=9040-9044 | Corrected training task: same-energy 60 eV pair, experiment 6.8 A^2 and BEB 5.95 A^2, NOT a peak-to-peak pair. Luthra et al. (2022), DOI 10.3390/atoms10030074, PDF p.10 explicit text and p.11 Figure 11. The separate BEB maximum is 6.6 A^2 at 110 eV and is not the adopted baseline value.",
+      "source_completeness_status": "来源元数据已找回；仍不等同对全部数值独立逐点复核 | The 60 eV fixed-energy numerical pair and quoted 15% experimental uncertainty were verified in the open full numerical-carrier paper. Jiao et al. DOI 10.1021/jp022031h is the original experiment; its abstract was verified, not every primary-paper table re-read. Do not classify the retained row as peak-height supervision."
+    }
+  },
+  {
+    "identity_key": "nitrous-oxide",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_289, row 'Nitrous oxide', Mean cross section column. PDF-column replay matches retained experimental label 4.6 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "octafluoro-2-butene",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 3.13 | full_curve_source_page=thesis print p50; physical PDF p69 | numeric_label_location=Table 2, journal p.769 (local PDF physical p.3) | source_pdf_page=349 | source_printed_page=307 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.349 / printed p.307, BOSE396_318, row 'Octafluoro-butan-2-ene', Mean cross section column. PDF-column replay matches retained experimental label 10.8 A^2 exactly. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 11.6 A^2. Experimental peak energy 108 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation. | Uniform 15-row cross-check: Bart (2003) thesis, Table 3.4, PDF p.62 / printed p.43; same named neutral molecule/isomer, measured total positive-ion maximum 11.6 A^2. Experimental peak energy 108 eV is provenance metadata only, not the common collision energy of a peak-to-peak training pair. The retained experimental peak height agrees with the table; no amplitude change.",
+      "experimental_source_locator": "10.1039/B009243F | 10.1021/jp210294p | 10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download | https://pubs.acs.org/doi/10.1021/acs.jpca.0c06308 | https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content"
+    }
+  },
+  {
+    "identity_key": "octafluoropropane",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | dataset_id=exp_3 | dataset_id=exp_4 | dataset_id=exp_5 | dataset_id=exp_6 | source_pdf_page=348 | source_printed_page=306 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.348 / printed p.306, BOSE396_305, row 'Octafluoropropane', Mean cross section column. PDF-column replay matches retained experimental label 10.4 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "oxygen",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_3 | dataset_id=exp_4 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_286, row 'Oxygen', Mean cross section column. PDF-column replay matches retained experimental label 2.9 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "pentan-1-ene",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.332 / printed p.290, BOSE396_049, row 'Pentan-1-ene', Mean cross section column. PDF-column replay matches retained experimental label 13.6 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "pentyl-formate",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 1 | full_curve_source_page=physical PDF p2; journal p43 | source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | experiment_source_figure=1 | experiment_source_page=43 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.339 / printed p.297, BOSE396_182, row 'n-Pentyl formate', Mean cross section column. PDF-column replay matches retained experimental label 21.7 A^2 exactly.",
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "phosphine",
+    "fields": {
+      "original_experimental_citation_or_database_record": "experimental_source=Märk and Egger experimental hollow squares reproduced in Graves, Cooper and Tennyson (2021) | T. D. Mark and F. Egger (1977), Ionization of phosphine and deuterated phosphine by electron impact from threshold up to 180 eV, Journal of Chemical Physics 67, 2629-2635, https://doi.org/10.1063/1.435174",
+      "page_figure_or_extraction_note": "experimental_series=Märk and Egger | source_figure=Fig. 9 | Graves et al. (2021), DOI 10.1063/5.0039465, Figure 9, PDF p.8 / printed 114104-7; experimental squares, distinct from raw ECP-BEB and alpha-BEB. Note: the Graves bibliography year is inconsistent with the actual 1977 original record.",
+      "source_completeness_status": "来源元数据已找回；仍不等同对全部数值独立逐点复核 | The open numerical carrier figure and legend were directly read, and the original experimental citation was resolved. This does not claim complete independent re-extraction from every original experimental full paper."
+    }
+  },
+  {
+    "identity_key": "pinacolone",
+    "fields": {
+      "page_figure_or_extraction_note": "table_or_figure=Table 3; Fig.2/Table3 h | source_page_table_figure=printed p. 769; Table 2 | source_pdf_page=338 | source_printed_page=296 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.338 / printed p.296, BOSE396_158, row 'tert-Butyl methyl ketone', Mean cross section column. PDF-column replay matches retained experimental label 19.5 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "piperidine",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=344 | source_printed_page=302 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.344 / printed p.302, BOSE396_243, row 'Piperidine', Mean cross section column. PDF-column replay matches retained experimental label 18.3 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "propane",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_3 | dataset_id=exp_4 | source_pdf_page=329 | source_printed_page=287 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.329 / printed p.287, BOSE396_003, row 'Propane', Mean cross section column. PDF-column replay matches retained experimental label 10.7 A^2 exactly.",
+      "source_completeness_status": "NIST为获取载体；原作者题录已从实际series恢复，未逐篇全文复核全部原实验；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "propene",
+    "fields": {
+      "page_figure_or_extraction_note": "experiment_location=Appendix A, Table A.7; source PDF p.331, printed p.289 | Bose numerical carrier: dissertation Table A.7, PDF p.331 / printed p.289, BOSE396_042, row 'Propene', Mean cross section column. PDF-column replay matches retained experimental label 9.0 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "propionaldehyde",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.337 / printed p.295, BOSE396_148, row 'Propanaldehyde', Mean cross section column. PDF-column replay matches retained experimental label 10.3 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "propionitrile",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.346 / printed p.304, BOSE396_280, row 'Ethylcyanide', Mean cross section column. PDF-column replay matches retained experimental label 11.4 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "propyl-acetate",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 2 | full_curve_source_page=physical PDF p3; journal p44 | source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | experiment_source_figure=2 | experiment_source_page=44 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.340 / printed p.298, BOSE396_186, row 'n-Propyl acetate', Mean cross section column. PDF-column replay matches retained experimental label 18.2 A^2 exactly.",
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "propyl-formate",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=Fig. 1 | full_curve_source_page=physical PDF p2; journal p43 | source_pdf_page=339 | source_printed_page=297 | source_table=Appendix A, Table A.7 | experiment_source_figure=1 | experiment_source_page=43 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.339 / printed p.297, BOSE396_178, row 'n-Propyl formate', Mean cross section column. PDF-column replay matches retained experimental label 13.9 A^2 exactly.",
+      "source_completeness_status": "Energy-dependent points were obtained by graph-marker tracking anchored to the Table 1 peak height, not an independent numerical table from the authors. Read-only replay found no final direct fallback values in this retained trace. The peak label separately uses the Table 1 height, unreported peak energy and source-accuracy uncertainty of 5%. The fixed-energy value is from the Bose compilation. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "propylene-oxide",
+    "fields": {
+      "page_figure_or_extraction_note": "Bose numerical carrier: dissertation Table A.7, PDF p.346 / printed p.304, BOSE396_268, row 'Methyl oxirane', Mean cross section column. PDF-column replay matches retained experimental label 12.2 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "propyne",
+    "fields": {
+      "page_figure_or_extraction_note": "experiment_location=Appendix A, Table A.7; source PDF p.332, printed p.290 | Bose numerical carrier: dissertation Table A.7, PDF p.332 / printed p.290, BOSE396_056, row 'Propan-1-yne', Mean cross section column. PDF-column replay matches retained experimental label 7.4 A^2 exactly.",
+      "experimental_source_locator": "10.1021/acs.jpca.0c06308 | https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download",
+      "source_completeness_status": "原始提取记录存在ambiguity，须保留并重查；Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "pyridine",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=343 | source_printed_page=301 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.343 / printed p.301, BOSE396_241, row 'Pyridine', Mean cross section column. PDF-column replay matches retained experimental label 16.5 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "pyrrole",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=344 | source_printed_page=302 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.344 / printed p.302, BOSE396_242, row 'Pyrrole', Mean cross section column. PDF-column replay matches retained experimental label 14.4 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "sec-butyl-acetate",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.340 / printed p.298, BOSE396_187, row 'sec-Butyl acetate', Mean cross section column. PDF-column replay matches retained experimental label 21.0 A^2 exactly.",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "silicon-dichloride",
+    "fields": {
+      "original_experimental_citation_or_database_record": "experimental_source=Mahoney et al. absolute experimental TICS reproduced in Kaur et al. (2025) | J. Mahoney, V. Tarnovsky and K. H. Becker (2008), Electron impact ionization of SiCl2 and SiCl, European Physical Journal D 46, 289-293, https://doi.org/10.1140/epjd/e2007-00324-1",
+      "page_figure_or_extraction_note": "experimental_series=Mahoney et al. | source_figure=Fig. 2 | Kaur et al. (2025), DOI 10.3390/atoms13070064, Figure 2, PDF p.6; measured experimental markers attributed to Mahoney, distinct from raw BEB and renormalized BEB.",
+      "source_completeness_status": "来源元数据已找回；仍不等同对全部数值独立逐点复核 | The open numerical carrier figure and legend were directly read, and the original experimental citation was resolved. This does not claim complete independent re-extraction from every original experimental full paper."
+    }
+  },
+  {
+    "identity_key": "silicon-monochloride",
+    "fields": {
+      "original_experimental_citation_or_database_record": "experimental_source=Mahoney et al. absolute experimental TICS reproduced in Kaur et al. (2025) | J. Mahoney, V. Tarnovsky and K. H. Becker (2008), Electron impact ionization of SiCl2 and SiCl, European Physical Journal D 46, 289-293, https://doi.org/10.1140/epjd/e2007-00324-1",
+      "page_figure_or_extraction_note": "experimental_series=Mahoney et al. | source_figure=Fig. 1a | Kaur et al. (2025), DOI 10.3390/atoms13070064, Figure 1(a), PDF p.5; measured experimental markers attributed to Mahoney, distinct from raw BEB.",
+      "source_completeness_status": "来源元数据已找回；仍不等同对全部数值独立逐点复核 | The open numerical carrier figure and legend were directly read, and the original experimental citation was resolved. This does not claim complete independent re-extraction from every original experimental full paper."
+    }
+  },
+  {
+    "identity_key": "silicon-tetrachloride",
+    "fields": {
+      "original_experimental_citation_or_database_record": "experimental_source=Basner et al. experimental hollow squares reproduced in Graves, Cooper and Tennyson (2021) | R. Basner, M. Gutkin, J. Mahoney, V. Tarnovsky, H. Deutsch and K. Becker (2005), Electron-impact ionization of silicon tetrachloride (SiCl4), Journal of Chemical Physics 123, 054313, https://doi.org/10.1063/1.1995697",
+      "page_figure_or_extraction_note": "experimental_series=Basner et al. | source_figure=Fig. 12 | Graves et al. (2021), DOI 10.1063/5.0039465, Figure 12, PDF p.8 / printed 114104-7; original experimental squares. Basner primary abstract confirms absolute partial and total ionization measurements.",
+      "source_completeness_status": "来源元数据已找回；仍不等同对全部数值独立逐点复核 | The open numerical carrier figure and legend were directly read, and the original experimental citation was resolved. This does not claim complete independent re-extraction from every original experimental full paper."
+    }
+  },
+  {
+    "identity_key": "silicon-trichloride",
+    "fields": {
+      "original_experimental_citation_or_database_record": "experimental_source=Gutkin et al. absolute experimental TICS reproduced in Kaur et al. (2025) | M. Gutkin, J. M. Mahoney, V. Tarnovsky, H. Deutsch and K. Becker (2009), Electron-impact ionization of the SiCl3 radical, International Journal of Mass Spectrometry 280, 101-106, https://doi.org/10.1016/j.ijms.2008.07.032",
+      "page_figure_or_extraction_note": "experimental_series=Gutkin et al. | source_figure=Fig. 4 | Kaur et al. (2025), DOI 10.3390/atoms13070064, Figure 4, PDF p.7; measured experimental markers attributed to Gutkin, distinct from raw BEB and summed model PICS.",
+      "source_completeness_status": "来源元数据已找回；仍不等同对全部数值独立逐点复核 | The open numerical carrier figure and legend were directly read, and the original experimental citation was resolved. This does not claim complete independent re-extraction from every original experimental full paper."
+    }
+  },
+  {
+    "identity_key": "tert-butanol",
+    "fields": {
+      "page_figure_or_extraction_note": "full_curve_source_figure=NA | full_curve_source_page=journal pp3162-3168; exact curve page NA | numeric_label_location=Table 2, journal p.769 (local PDF physical p.3) | source_pdf_page=336 | source_printed_page=294 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.336 / printed p.294, BOSE396_130, row 't-Butanol', Mean cross section column. PDF-column replay matches retained experimental label 15.3 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "tert-butyl-acetate",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=340 | source_printed_page=298 | source_table=Appendix A, Table A.7 | Hudson 2006 Table 1: journal p45 / PDF p4; independently tabulated experimental peak height; no peak energy in table | Retained peak label: Hudson et al. (2006), Table 1, journal p45 / PDF p4; experimental peak height only; peak energy unreported; 5% source accuracy | Bose numerical carrier: dissertation Table A.7, PDF p.340 / printed p.298, BOSE396_189, row 't-Butyl acetate', Mean cross section column. PDF-column replay matches retained experimental label 21.2 A^2 exactly.",
+      "source_completeness_status": "The 55 energy-dependent points from the ambiguous isomer trace are excluded. The retained experimental constraints are the independent Hudson (2006) Table 1 peak height and the Bose 70–75 eV compilation value. Table 1 does not report peak energy; its peak label has unreported energy and source-accuracy uncertainty of 5%. The full source papers/compilation are separately identified. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "tetrafluoroethene",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=349 | source_printed_page=307 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.349 / printed p.307, BOSE396_316, row 'Tetrafluoroethene', Mean cross section column. PDF-column replay matches retained experimental label 6.0 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "tetrahydrofuran",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=344 | source_printed_page=302 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.344 / printed p.302, BOSE396_250, row 'Tetrahydrofuran', Mean cross section column. PDF-column replay matches retained experimental label 11.8 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "tetrahydrofurfuryl-alcohol",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=345 | source_printed_page=303 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.345 / printed p.303, BOSE396_251, row 'Tetrahydrofurfuryl-alcohol', Mean cross section column. PDF-column replay matches retained experimental label 18.2 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "titanium-tetrachloride",
+    "fields": {
+      "page_figure_or_extraction_note": "Numerical carrier directly checked: Scott and Irikura (2005), DOI 10.1002/sia.2091, author manuscript Table 2, PDF p.11. 16.45 A^2 with quoted uncertainty 2.47 A^2; ECP-BEB 17.5 A^2. Table has peak amplitudes, not a common-energy observation or reported peak-energy column.",
+      "original_experimental_citation_or_database_record": "original_experiment_reference=Basner et al. 2000 ref. 17; DOI 10.1016/S0040-6090(00)01143-3 | Basner et al. (2000), Thin Solid Films 374, 291-297, DOI 10.1016/S0040-6090(00)01143-3, cited as ref.17",
+      "source_completeness_status": "Earlier exact locator gap addressed for the source route named in the appended audit | Original author-manuscript numerical comparison table and its reference footnotes checked. The adopted numbers are recovered through this published theoretical comparison, not re-extracted from the earlier primary experimental paper. Not every original experimental paper has been independently read in full."
+    }
+  },
+  {
+    "identity_key": "toluene",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=333 | source_printed_page=291 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.333 / printed p.291, BOSE396_065, row 'Toluene', Mean cross section column. PDF-column replay matches retained experimental label 18.1 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "trichloroacetonitrile",
+    "fields": {
+      "page_figure_or_extraction_note": "Numerical carrier directly checked: Scott and Irikura (2005), DOI 10.1002/sia.2091, author manuscript Table 2, PDF p.11. 14.11 A^2 with quoted uncertainty 0.56 A^2; ECP-BEB 15.0 A^2. Table has peak amplitudes, not a common-energy observation or reported peak-energy column.",
+      "original_experimental_citation_or_database_record": "original_experiment_reference=Bart et al. 2001 ref. 18; DOI 10.1039/B009243F | Bart et al. (2001), DOI 10.1039/B009243F, cited as ref.18",
+      "source_completeness_status": "Earlier exact locator gap addressed for the source route named in the appended audit | Original author-manuscript numerical comparison table and its reference footnotes checked. The adopted numbers are recovered through this published theoretical comparison, not re-extracted from the earlier primary experimental paper. Not every original experimental paper has been independently read in full."
+    }
+  },
+  {
+    "identity_key": "trichlorofluoromethane",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=353 | source_printed_page=311 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.353 / printed p.311, BOSE396_378, row 'Fluorotrichloromethane', Mean cross section column. PDF-column replay matches retained experimental label 13.0 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "trifluoroacetonitrile",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=346 | source_printed_page=304 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.346 / printed p.304, BOSE396_277, row 'Trifluoroacetonitrile', Mean cross section column. PDF-column replay matches retained experimental label 7.0 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "trifluoromethane",
+    "fields": {
+      "page_figure_or_extraction_note": "source_pdf_page=348 | source_printed_page=306 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.348 / printed p.306, BOSE396_301, row 'Trifluoromethane', Mean cross section column. PDF-column replay matches retained experimental label 4.3 A^2 exactly.",
+      "source_completeness_status": "Bose数值为70–75 eV综合/归一化汇总，原测量工作须通过原作者来源链追溯；Table A.7页号属thesis而非期刊正文 | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  },
+  {
+    "identity_key": "water",
+    "fields": {
+      "page_figure_or_extraction_note": "dataset_id=exp_1 | dataset_id=exp_2 | dataset_id=exp_3 | dataset_id=exp_4 | dataset_id=exp_6 | source_pdf_page=347 | source_printed_page=305 | source_table=Appendix A, Table A.7 | Bose numerical carrier: dissertation Table A.7, PDF p.347 / printed p.305, BOSE396_294, row 'Water', Mean cross section column. PDF-column replay matches retained experimental label 2.1 A^2 exactly.",
+      "source_completeness_status": "Retained water curve labels use experimental NIST series exp_1, exp_2, exp_3, exp_4 and exp_6. Seven exp_5 theory labels are excluded. The original database and author/journal/page provenance are available; not every original paper was independently checked in full text. | Late source-column audit: this Bose value is a standardized experimental population mean, not a BEB or ML prediction. The actual Table A.7 mean column and transfer to the retained input were checked. This does not reconstruct every original laboratory measurement, scaling factor or confidence interval, and is separate from BEB structural validation."
+    }
+  }
+]

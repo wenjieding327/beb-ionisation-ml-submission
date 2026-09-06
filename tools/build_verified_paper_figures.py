@@ -291,7 +291,7 @@ def heterogeneity_figure(pm,out):
     ranked=pm.sort_values("improvement_pp")
     show=pd.concat([ranked.head(5),ranked.tail(5)]).sort_values("improvement_pp")
     bars=axes[1].barh(np.arange(len(show)),show.improvement_pp,color=[GOOD if x>0 else BAD for x in show.improvement_pp])
-    axes[1].set_yticks(np.arange(len(show)),[wrap(x,26) for x in show.molecule_name]);axes[1].axvline(0,color="#888888",lw=.8)
+    axes[1].set_yticks(np.arange(len(show)),[wrap(str(x).lower(),26) for x in show.molecule_name]);axes[1].axvline(0,color="#888888",lw=.8)
     label_bars(axes[1],bars,"{:+.2f}");axes[1].set_xlim(float(gains.min())*1.23,float(gains.max())*1.30)
     axes[1].grid(axis="x");axes[1].set_xlabel("Change in primary NMAE (pp); positive = improvement")
     axes[1].set_title("Five largest improvements and five largest deteriorations")
@@ -304,7 +304,7 @@ def draw_case(ax,f,identity,pm):
         raise ValueError(f"Case {identity} has no retained curve evidence")
     p=primary(g);rec=pm.set_index("identity_key").loc[identity]
     ax.axvspan(float(g.energy_eV.min()),float(p.energy_eV.max()),color=SHADE,zorder=0)
-    # Same-energy theoretical predictions are averaged only for display; metrics use every row.
+    # Same-energy theoretical predictions use their median for display; metrics use every row.
     line=g.groupby("energy_eV",sort=True)[[RAW,ML]].median()
     ax.plot(line.index,line[RAW],color=RAW_C,lw=1.8,label="Raw BEB")
     ax.plot(line.index,line[ML],color=ML_C,lw=1.8,label="Residual ML")

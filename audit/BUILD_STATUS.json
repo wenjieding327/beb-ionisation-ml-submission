@@ -1,0 +1,11 @@
+{
+  "release": "v3",
+  "status": "final_source_corrected_training_and_separate_path_replay_passed",
+  "scope": "3533 observations; 194 identities; 74 curve, 144 fixed/sparse and 67 peak identities; original folds and model protocol retained.",
+  "evidence_builder": "Original 3883 rows and source manifests reproduce the final input byte-for-byte; source quarantine and all late corrections are included.",
+  "separate_path_replay": "PASS: 974 non-runtime JSON values and 81259 OOF cells checked, maximum numeric-cell difference 7.105427357601002e-15; see audit/clean_path_replay.json.",
+  "source_ledger": "137 final source-field overrides merged; no numerical labels changed by the source-ledger merge.",
+  "original_v2_tag_preserved": "submission-2026-09-06",
+  "original_v2_commit_preserved": "eb80b8107da278a8fb7dfc067613e1ee8f5218c4",
+  "release_version": "Use submission-2026-09-06-r2 for the corrected submission. The earlier public tag is retained as superseded history."
+}

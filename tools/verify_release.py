@@ -12,6 +12,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 from audit_corrected_results import macro
+from build_corrected_inputs import build, csv_bytes
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -123,7 +124,8 @@ def verify_training_table() -> dict[str, int]:
     require(len(curve_identities) == 74, f"Expected 74 curve molecules, found {len(curve_identities)}")
     require(folds == {0, 1, 2, 3, 4}, f"Unexpected fold assignments: {sorted(folds)}")
     require(all(len(value) == 1 for value in identity_folds.values()), "A molecule occurs in multiple folds")
-    require(task_counts == {"curve": 3316, "fixed_sparse": 149, "peak": 68}, "Task row counts changed")
+    corrected_scope = json.loads((ROOT / "audit/correction_scope.json").read_text(encoding="utf-8"))
+    require(task_counts == {"curve": corrected_scope["curve_observations"], "fixed_sparse": corrected_scope["fixed_sparse_observations"], "peak": corrected_scope["peak_observations"]}, "Task row counts changed")
     return {
         "observations": rows,
         "molecules": len(identities),
@@ -155,7 +157,7 @@ def verify_metrics() -> None:
         "Raw curve NMAE changed",
     )
     require(
-        close(curve["ml"]["primary_molecule_macro_NMAE"], 0.14169094668747828),
+        close(curve["ml"]["primary_molecule_macro_NMAE"], 0.1402296355253955),
         "ML curve NMAE changed",
     )
 
@@ -198,11 +200,17 @@ def read_csv(path: Path) -> list[dict[str, str]]:
 def verify_corrections() -> None:
     """Check every withdrawal, retained fold, and corrected peak metadata field."""
     current = read_csv(TRAINING)
+    reproduced_fields, reproduced_rows, _, _, _, _ = build()
+    require(TRAINING.read_bytes() == csv_bytes(reproduced_fields, reproduced_rows), "Packaged evidence corrections do not reproduce the corrected input byte-for-byte")
     original = read_csv(ROOT / "audit/legacy_r2/expanded_194_training_points.csv")
     quarantined = read_csv(ROOT / "audit/quarantined_rows.csv")
     peak_changes = read_csv(ROOT / "audit/peak_metadata_corrections.csv")
     require(len(original) == 3883 and len(quarantined) == 350, "Audit counts changed")
     current_by_line = {int(row["original_csv_line"]): row for row in current}
+    replacements = json.loads((ROOT / "audit/experimental_source_replacements.json").read_text(encoding="utf-8-sig"))
+    replacements = replacements["patches"] if isinstance(replacements, dict) else replacements
+    replacement_lines = {int(row["original_csv_line"]) for row in replacements}
+    require(len(replacement_lines) == 6, "Expected six original-table experimental peak replacements")
     quarantine_lines = {int(row["original_csv_line"]) for row in quarantined}
     require(not quarantine_lines.intersection(current_by_line), "Quarantined row remains in training")
     require(set(current_by_line) | quarantine_lines == set(range(2, 3885)), "Audit does not partition original observations")
@@ -214,8 +222,14 @@ def verify_corrections() -> None:
     require(all(task_family(row["label_type"]) == "curve" for row in quarantined), "Non-curve observation was withdrawn")
     for line, row in current_by_line.items():
         before = original[line - 2]
-        for column in ("identity_key", "label_type", "cv_fold", "experimental_sigma_A2", "beb_sigma_A2"):
+        for column in ("identity_key", "cv_fold", "beb_sigma_A2"):
             require(row[column] == before[column], f"Unexpected retained {column} change on original line {line}")
+        if line not in replacement_lines:
+            require(row["experimental_sigma_A2"] == before["experimental_sigma_A2"], f"Unexpected experimental-amplitude change on original line {line}")
+        if row["energy_is_reported"] == "False":
+            require(not row["energy_eV"], f"Unreported finite energy remains on original line {line}")
+        else:
+            require(bool(row["energy_eV"]) and math.isfinite(float(row["energy_eV"])), f"Reported energy is missing on original line {line}")
     require(len(peak_changes) == 15, "Expected 15 published peak metadata corrections")
     for change in peak_changes:
         row = current_by_line[int(change["original_csv_line"])]
@@ -235,7 +249,7 @@ def verify_corrections() -> None:
 def verify_no_private_absolute_paths() -> None:
     """Reject personal Windows user paths in published text files."""
 
-    pattern = re.compile(r"[A-Za-z]:[\\/]Users[\\/][^\\/]+", re.IGNORECASE)
+    pattern = re.compile(r"[A-Za-z]:[\\/]+Users[\\/]+[^\\/]+", re.IGNORECASE)
     suffixes = {".py", ".md", ".csv", ".json", ".txt", ".yml", ".yaml"}
     for path in ROOT.rglob("*"):
         relative = path.relative_to(ROOT)

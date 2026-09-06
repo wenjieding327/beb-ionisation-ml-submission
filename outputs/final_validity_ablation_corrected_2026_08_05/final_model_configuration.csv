@@ -1,4 +1,4 @@
 ﻿task,molecules,rows,config,weights,inner_primary_macro_NMAE
-curve,74,3316,"{""kind"": ""extra"", ""max_depth"": 16, ""max_features"": 1.0, ""min_samples_leaf"": 5}","{""global"": 0.0, ""raw"": 0.25, ""ridge"": 0.25, ""tree"": 0.5}",0.13648136660111782
-fixed_sparse,143,149,"{""kind"": ""extra"", ""max_depth"": null, ""max_features"": 0.65, ""min_samples_leaf"": 2}","{""global"": 0.0, ""raw"": 0.0, ""ridge"": 0.25, ""tree"": 0.75}",0.11388149652477733
-peak,68,68,"{""kind"": ""extra"", ""max_depth"": null, ""max_features"": 0.65, ""min_samples_leaf"": 2}","{""global"": 0.0, ""raw"": 0.0, ""ridge"": 0.5, ""tree"": 0.5}",0.07612819877844614
+curve,74,3316,"{""kind"": ""extra"", ""max_depth"": 16, ""max_features"": 1.0, ""min_samples_leaf"": 5}","{""global"": 0.0, ""raw"": 0.25, ""ridge"": 0.25, ""tree"": 0.5}",0.1370449384070535
+fixed_sparse,144,150,"{""kind"": ""extra"", ""max_depth"": null, ""max_features"": 0.65, ""min_samples_leaf"": 2}","{""global"": 0.0, ""raw"": 0.0, ""ridge"": 0.5, ""tree"": 0.5}",0.1093371491833542
+peak,67,67,"{""kind"": ""extra"", ""max_depth"": null, ""max_features"": 0.65, ""min_samples_leaf"": 2}","{""global"": 0.0, ""raw"": 0.0, ""ridge"": 0.5, ""tree"": 0.5}",0.06570376976826757

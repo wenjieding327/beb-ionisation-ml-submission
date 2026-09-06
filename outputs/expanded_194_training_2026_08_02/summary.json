@@ -1,11 +1,16 @@
 {
+  "release": "evidence_corrected_v3_2026_09_06",
+  "parent_commit": "eb80b8107da278a8fb7dfc067613e1ee8f5218c4",
+  "original_input_sha256": "50f4cf157348bc23bc092533352645b55fec53fa2fd25b73bfa090ba21058e85",
   "final_physical_identities": 194,
   "final_observations": 3533,
   "primary_observations": 1986,
   "curve_identities": 74,
   "curve_observations": 3316,
-  "fixed_sparse_observations": 149,
-  "peak_observations": 68,
+  "fixed_sparse_identities": 144,
+  "fixed_sparse_observations": 150,
+  "peak_identities": 67,
+  "peak_observations": 67,
   "fold_row_loads": [
     722,
     654,
@@ -13,21 +18,19 @@
     721,
     769
   ],
-  "release": "evidence_corrected_v2_2026_09_06",
-  "parent_commit": "e8bfe82bfbd930038bcdeb93cd6dc36b6755e080",
-  "original_input_sha256": "50f4cf157348bc23bc092533352645b55fec53fa2fd25b73bfa090ba21058e85",
   "quarantined_rows": 350,
   "quarantine_reasons": {
-    "NIST_exp_5_is_theory_not_experiment": 7,
     "ambiguous_isomer_trace_quarantined": 330,
-    "O3_exp_2_renormalized_duplicate_of_Newson": 13
+    "O3_exp_2_renormalized_duplicate_of_Newson": 13,
+    "NIST_exp_5_is_theory_not_experiment": 7
   },
   "peak_metadata_corrections": 15,
+  "late_source_metadata_corrections": 52,
   "water_primary_boundary": {
     "onset_eV": 14.9195,
     "peak_eV": 90.5395,
     "peak_A2": 3.14851,
-    "changed_flags": 0
+    "changed_flags": []
   },
   "ozone_primary_boundary": {
     "onset_eV": 20.1473,
@@ -42,6 +45,10 @@
       }
     ]
   },
-  "fold_policy": "Original physical-identity cv_fold retained; inner three-fold grouping uses original deterministic algorithm on surviving training data.",
-  "scientific_note": "194 identities retained; six esters retain independent fixed-energy and table peak labels but no accepted energy-dependent curve labels. Nine other ester curves retained as peak-anchored figure-trace extractions. Ozone uses 19 points from Newson original and Siegel, not the duplicate renormalised Newson series."
+  "fold_policy": "Original physical-identity outer cv_fold retained; unchanged deterministic three-fold inner grouping on current training rows.",
+  "model_policy": "Original 49 features and candidate model/search protocol retained; all heads retrained; no selection based on favourable corrected results.",
+  "construction": "Packaged original 3883 rows -> exact 350-row quarantine manifest -> 15 Hudson peak metadata corrections -> 52 explicit late source patches -> six original-table experimental peak replacements -> retained-data primary boundaries -> recomputed weights and target log ratios.",
+  "energy_field_definition": "energy_eV and energy_is_reported specify a shared collision-energy coordinate for an experimental/BEB pair. All peak-to-peak amplitude observations have missing model energy, even when a source reports a separate experimental peak energy. Twenty-seven verified source peak energies are retained only in audit/reported_peak_energy_metadata.csv and are not input features.",
+  "experimental_source_replacements": 6,
+  "corrected_input_sha256": "33bd5674e50e56aa1e7a98e678fc92fd6e8aea891f27c2730950c95c2783b451"
 }

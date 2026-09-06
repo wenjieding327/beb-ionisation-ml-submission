@@ -1,0 +1,1179 @@
+[
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 708,
+    "identity_key": "butyl-acetate",
+    "before": {
+      "energy_eV": "110.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.91715649"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.915"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 763,
+    "identity_key": "butyl-formate",
+    "before": {
+      "energy_eV": "100.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.78188678"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.78"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 1647,
+    "identity_key": "ethyl-acetate",
+    "before": {
+      "energy_eV": "110.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.69285714"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.6900000000000001"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 1705,
+    "identity_key": "ethyl-formate",
+    "before": {
+      "energy_eV": "115.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.52282592"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.52"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 1979,
+    "identity_key": "isobutyl-acetate",
+    "before": {
+      "energy_eV": "110.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.91715649"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.915"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 2034,
+    "identity_key": "isobutyl-formate",
+    "before": {
+      "energy_eV": "100.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.78188678"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.78"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 2151,
+    "identity_key": "isopropyl-acetate",
+    "before": {
+      "energy_eV": "110.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.76259493"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.76"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 2208,
+    "identity_key": "isopropyl-formate",
+    "before": {
+      "energy_eV": "110.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.65226294"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.65"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 2325,
+    "identity_key": "methyl-acetate",
+    "before": {
+      "energy_eV": "115.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.52874949"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.525"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 2381,
+    "identity_key": "methyl-formate",
+    "before": {
+      "energy_eV": "110.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.38385797"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.38"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 2896,
+    "identity_key": "pentyl-formate",
+    "before": {
+      "energy_eV": "110.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.94156622"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.9400000000000001"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 3099,
+    "identity_key": "propyl-acetate",
+    "before": {
+      "energy_eV": "110.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.78751255"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.785"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 3155,
+    "identity_key": "propyl-formate",
+    "before": {
+      "energy_eV": "105.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.68216343"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.68"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 3218,
+    "identity_key": "sec-butyl-acetate",
+    "before": {
+      "energy_eV": "110.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.91216831"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.91"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "Hudson_Table_1_metadata",
+    "original_csv_line": 3753,
+    "identity_key": "tert-butyl-acetate",
+    "before": {
+      "energy_eV": "205.0",
+      "energy_is_reported": "True",
+      "experimental_uncertainty_A2": "0.92713323"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_uncertainty_A2": "0.925"
+    },
+    "reason": "Hudson Table 1 reports peak height without peak energy; author's 5% absolute accuracy used for peak uncertainty",
+    "source": "10.1016/j.ijms.2005.11.003; journal Table 1 p.45; accuracy p.44"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 4,
+    "identity_key": "1-4-5-6-tetrahydropyrimidine",
+    "before": {
+      "energy_eV": "82.11979524245614",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\bull2014_peak15_strict_pairs_2026_07_31.csv; DOI 10.1039/C4CP00490F Table 1; source experimental_peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 6,
+    "identity_key": "1-butanol",
+    "before": {
+      "energy_eV": "75.0",
+      "energy_is_reported": "True"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 28,
+    "identity_key": "2-butanol",
+    "before": {
+      "energy_eV": "76.0",
+      "energy_is_reported": "True"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 50,
+    "identity_key": "2-butanone",
+    "before": {
+      "energy_eV": "83.7181395565589",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 92,
+    "identity_key": "2-chlorobutane",
+    "before": {
+      "energy_eV": "82.0",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "80"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. The original Bart table DOES report a separate experimental peak energy. It is recorded in this audit but is deliberately not substituted into a common-energy cross-section pair; the current finite model input is the BEB column. The experimental and BEB amplitudes remain separate maxima, not values at that same energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\bart_hudson2001_new6_strict_peak_pairs_2026_08_02.csv; source_cache/bart_thesis_2003/bart_thesis.pdf Table 3.4 PDF page 62 (printed 43), and Table 5.3 PDF pages 141-142 (printed 122-123); experimental and BEB peak energies are separate columns"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 108,
+    "identity_key": "2-hexanone",
+    "before": {
+      "energy_eV": "83.0847541653557",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 151,
+    "identity_key": "2-methyl-1-propanol",
+    "before": {
+      "energy_eV": "74.0",
+      "energy_is_reported": "True"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 167,
+    "identity_key": "2-pentanone",
+    "before": {
+      "energy_eV": "83.44813735831242",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 210,
+    "identity_key": "2-propanol",
+    "before": {
+      "energy_eV": "77.0",
+      "energy_is_reported": "True"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 226,
+    "identity_key": "3-hexanone",
+    "before": {
+      "energy_eV": "83.15782895321719",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 283,
+    "identity_key": "3-methyl-2-butanone",
+    "before": {
+      "energy_eV": "83.80510306890862",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 340,
+    "identity_key": "3-methyl-2-pentanone",
+    "before": {
+      "energy_eV": "82.62607516992146",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 397,
+    "identity_key": "3-pentanone",
+    "before": {
+      "energy_eV": "82.23054408174652",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 454,
+    "identity_key": "4-methyl-2-pentanone",
+    "before": {
+      "energy_eV": "82.47264386246657",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 647,
+    "identity_key": "benzene",
+    "before": {
+      "energy_eV": "75.0",
+      "energy_is_reported": "True"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\new25_incremental_identity_ledger_2026_08_01.csv; outputs/no_qec_priority_2026_07_31/nist_beb_expansion_2026_07_31/benzene_Bull2014_peak_NIST_BEB_pair.csv: experimental_peak_energy_eV=NA, 75 eV is the NIST BEB peak energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 677,
+    "identity_key": "bromoform",
+    "before": {
+      "energy_eV": "90.0",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "80"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. The original Bart table DOES report a separate experimental peak energy. It is recorded in this audit but is deliberately not substituted into a common-energy cross-section pair; the current finite model input is the BEB column. The experimental and BEB amplitudes remain separate maxima, not values at that same energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\bart_hudson2001_new6_strict_peak_pairs_2026_08_02.csv; source_cache/bart_thesis_2003/bart_thesis.pdf Table 3.4 PDF page 62 (printed 43), and Table 5.3 PDF pages 141-142 (printed 122-123); experimental and BEB peak energies are separate columns"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 686,
+    "identity_key": "bromotrifluoromethane",
+    "before": {
+      "energy_eV": "116.0",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "86"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. The original Bart table DOES report a separate experimental peak energy. It is recorded in this audit but is deliberately not substituted into a common-energy cross-section pair; the current finite model input is the BEB column. The experimental and BEB amplitudes remain separate maxima, not values at that same energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\bart_hudson2001_new6_strict_peak_pairs_2026_08_02.csv; source_cache/bart_thesis_2003/bart_thesis.pdf Table 3.4 PDF page 62 (printed 43), and Table 5.3 PDF pages 141-142 (printed 122-123); experimental and BEB peak energies are separate columns"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 816,
+    "identity_key": "butyraldehyde",
+    "before": {
+      "energy_eV": "84.65215353670568",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 860,
+    "identity_key": "c2cl4",
+    "before": {
+      "energy_eV": "96.38623943273474",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "79"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 862,
+    "identity_key": "c2cl6",
+    "before": {
+      "energy_eV": "99.3171860769644",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "90"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 864,
+    "identity_key": "c2h2cl4-1-1-1-2",
+    "before": {
+      "energy_eV": "96.28625263507006",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "79"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 866,
+    "identity_key": "c2h2cl4-1-1-2-2",
+    "before": {
+      "energy_eV": "96.18243211757968",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "79"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 868,
+    "identity_key": "c2h3cl3-1-1-1",
+    "before": {
+      "energy_eV": "91.29767857427292",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "79"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 870,
+    "identity_key": "c2h3cl3-1-1-2",
+    "before": {
+      "energy_eV": "93.47756915504252",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "82"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 872,
+    "identity_key": "c2h4cl2-1-1",
+    "before": {
+      "energy_eV": "88.7553581470511",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "80"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 874,
+    "identity_key": "c2h4cl2-1-2",
+    "before": {
+      "energy_eV": "89.90885627384691",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "78"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 876,
+    "identity_key": "c2hcl3",
+    "before": {
+      "energy_eV": "93.90002953141811",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "82"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 878,
+    "identity_key": "c2hcl5",
+    "before": {
+      "energy_eV": "98.06441147137338",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "82"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 880,
+    "identity_key": "c3h7cl-1",
+    "before": {
+      "energy_eV": "82.85827849990322",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "82"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 882,
+    "identity_key": "c3h7cl-2",
+    "before": {
+      "energy_eV": "83.01943924551043",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "82"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 884,
+    "identity_key": "c4h9cl-1",
+    "before": {
+      "energy_eV": "82.93290404690183",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "80"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 1099,
+    "identity_key": "carbon-tetrabromide",
+    "before": {
+      "energy_eV": "65.44670923576652",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\scott_irikura2005_new5_strict_peak_pairs_2026_08_02.csv; source_cache/scott_irikura_2005/scott_irikura_2005_sia_preprint.pdf Table 2, PDF page 11: experimental and BEB maxima, no peak-energy column"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 1100,
+    "identity_key": "carbon-tetrachloride",
+    "before": {
+      "energy_eV": "96.0",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "71"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. The original Bart table DOES report a separate experimental peak energy. It is recorded in this audit but is deliberately not substituted into a common-energy cross-section pair; the current finite model input is the BEB column. The experimental and BEB amplitudes remain separate maxima, not values at that same energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\bart_hudson2001_new6_strict_peak_pairs_2026_08_02.csv; source_cache/bart_thesis_2003/bart_thesis.pdf Table 3.4 PDF page 62 (printed 43), and Table 5.3 PDF pages 141-142 (printed 122-123); experimental and BEB peak energies are separate columns"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 1320,
+    "identity_key": "dibromomethane",
+    "before": {
+      "energy_eV": "86.0",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "78"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. The original Bart table DOES report a separate experimental peak energy. It is recorded in this audit but is deliberately not substituted into a common-energy cross-section pair; the current finite model input is the BEB column. The experimental and BEB amplitudes remain separate maxima, not values at that same energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\bart_hudson2001_new6_strict_peak_pairs_2026_08_02.csv; source_cache/bart_thesis_2003/bart_thesis.pdf Table 3.4 PDF page 62 (printed 43), and Table 5.3 PDF pages 141-142 (printed 122-123); experimental and BEB peak energies are separate columns"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 1336,
+    "identity_key": "dichloromethane",
+    "before": {
+      "energy_eV": "90.0",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "74"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. The original Bart table DOES report a separate experimental peak energy. It is recorded in this audit but is deliberately not substituted into a common-energy cross-section pair; the current finite model input is the BEB column. The experimental and BEB amplitudes remain separate maxima, not values at that same energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\bart_hudson2001_dichloromethane_strict_peak_pair_2026_08_02.csv; source_cache/bart_thesis_2003/bart_thesis.pdf Table 3.4 PDF page 62 (printed 43), and Table 5.3 PDF pages 141-142 (printed 122-123); experimental and BEB peak energies are separate columns"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 1352,
+    "identity_key": "diethyl-ether",
+    "before": {
+      "energy_eV": "82.10430842048952",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 1413,
+    "identity_key": "dipropyl-ether",
+    "before": {
+      "energy_eV": "81.29706242443632",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 1552,
+    "identity_key": "ethane",
+    "before": {
+      "energy_eV": "71.64885336872105",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "90"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 1776,
+    "identity_key": "gallium-monochloride",
+    "before": {
+      "energy_eV": "67.89820433681216",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\scott_irikura2005_new5_strict_peak_pairs_2026_08_02.csv; source_cache/scott_irikura_2005/scott_irikura_2005_sia_preprint.pdf Table 2, PDF page 11: experimental and BEB maxima, no peak-energy column"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 1956,
+    "identity_key": "iodomethane",
+    "before": {
+      "energy_eV": "59.10585348362549",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\scott_irikura2005_new5_strict_peak_pairs_2026_08_02.csv; source_cache/scott_irikura_2005/scott_irikura_2005_sia_preprint.pdf Table 2, PDF page 11: experimental and BEB maxima, no peak-energy column"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 2088,
+    "identity_key": "isobutyraldehyde",
+    "before": {
+      "energy_eV": "85.11658754440036",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 2244,
+    "identity_key": "meta-xylene",
+    "before": {
+      "energy_eV": "80.0",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "80"
+    },
+    "reason": "The 80 eV value is a reported EXPERIMENTAL peak energy, but the stored BEB amplitude is the independently tabulated BEB maximum, not demonstrated to be BEB(80 eV). This is a peak-to-peak amplitude target without a common collision-energy input. Preserve experimental peak energy only as provenance metadata, excluded from model features; using the observed target peak energy as an input would require target experimental knowledge for a new molecule.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\new25_incremental_identity_ledger_2026_08_01.csv; jiao_new4_strict_peak_pairs_2026_08_01.csv and jiao_gupta_new4_published_numeric_beb_peaks.csv; experiment Jiao and Adams, DOI 10.1016/j.cplett.2013.04.051, Abstract/Summary, reported maximum at 80 eV; Gupta et al., DOI 10.1063/1.5081841, Table II, PDF page 9: present maximum Qion (omega-B97X), with no BEB peak-energy column. Author-uploaded primary manuscript text confirms Table II values 20.039, 20.198, 20.211 A^2 for ortho/meta/para respectively."
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 2442,
+    "identity_key": "methylcyclohexane",
+    "before": {
+      "energy_eV": "65.0",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "65"
+    },
+    "reason": "Experimental maximum is at 65 eV whereas the BEB amplitude stored here is its maximum at 70 eV. The two peak amplitudes do not form a common-energy cross-section pair. Retain experimental peak energy as metadata, not a deployment feature requiring target data.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\new25_incremental_identity_ledger_2026_08_01.csv; jiao_new4_strict_peak_pairs_2026_08_01.csv and jiao_gupta_new4_published_numeric_beb_peaks.csv; Jiao et al., DOI 10.1016/j.ijms.2010.11.005, pp. 5-6, Tables 2 and 3 and Summary: experimental maximum 17.7 A^2 at 65 eV, independent BEB maximum 21.0 A^2 at 70 eV."
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 2664,
+    "identity_key": "nitromethane",
+    "before": {
+      "label_type": "peak_height_numeric"
+    },
+    "after": {
+      "label_type": "fixed_energy_numeric"
+    },
+    "reason": "This is a genuine same-energy pair at 60 eV: experiment 6.8 A^2 and BEB 5.95 A^2. The independent BEB maximum is 6.6 A^2 at 110 eV, so 5.95 is not a BEB peak-height target. Retain the observed and computed same-energy values, changing only the task label.",
+    "source": "source_cache/atoms-10-00074-v2.pdf, Luthra et al. (2022), DOI 10.3390/atoms10030074, PDF page 10 discussion of nitromethane and PDF page 11 Figure 11; original experiment Jiao et al. DOI 10.1021/jp022031h; numerical carrier outputs/no_qec_priority_2026_07_31/nitromethane_jiao_luthra_strict_peak_pair_2026_08_01.csv"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 2712,
+    "identity_key": "octafluoro-2-butene",
+    "before": {
+      "energy_eV": "112.0",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "108"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 2789,
+    "identity_key": "ortho-xylene",
+    "before": {
+      "energy_eV": "80.0",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "80"
+    },
+    "reason": "The 80 eV value is a reported EXPERIMENTAL peak energy, but the stored BEB amplitude is the independently tabulated BEB maximum, not demonstrated to be BEB(80 eV). This is a peak-to-peak amplitude target without a common collision-energy input. Preserve experimental peak energy only as provenance metadata, excluded from model features; using the observed target peak energy as an input would require target experimental knowledge for a new molecule.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\new25_incremental_identity_ledger_2026_08_01.csv; jiao_new4_strict_peak_pairs_2026_08_01.csv and jiao_gupta_new4_published_numeric_beb_peaks.csv; experiment Jiao and Adams, DOI 10.1016/j.cplett.2013.04.051, Abstract/Summary, reported maximum at 80 eV; Gupta et al., DOI 10.1063/1.5081841, Table II, PDF page 9: present maximum Qion (omega-B97X), with no BEB peak-energy column. Author-uploaded primary manuscript text confirms Table II values 20.039, 20.198, 20.211 A^2 for ortho/meta/para respectively."
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 2873,
+    "identity_key": "para-xylene",
+    "before": {
+      "energy_eV": "80.0",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "80"
+    },
+    "reason": "The 80 eV value is a reported EXPERIMENTAL peak energy, but the stored BEB amplitude is the independently tabulated BEB maximum, not demonstrated to be BEB(80 eV). This is a peak-to-peak amplitude target without a common collision-energy input. Preserve experimental peak energy only as provenance metadata, excluded from model features; using the observed target peak energy as an input would require target experimental knowledge for a new molecule.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\new25_incremental_identity_ledger_2026_08_01.csv; jiao_new4_strict_peak_pairs_2026_08_01.csv and jiao_gupta_new4_published_numeric_beb_peaks.csv; experiment Jiao and Adams, DOI 10.1016/j.cplett.2013.04.051, Abstract/Summary, reported maximum at 80 eV; Gupta et al., DOI 10.1063/1.5081841, Table II, PDF page 9: present maximum Qion (omega-B97X), with no BEB peak-energy column. Author-uploaded primary manuscript text confirms Table II values 20.039, 20.198, 20.211 A^2 for ortho/meta/para respectively."
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 2966,
+    "identity_key": "pinacolone",
+    "before": {
+      "energy_eV": "82.72529391389497",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_bull2012_peak32.csv; DOI 10.1021/jp210294p Table 2 (p. 769); source extraction peak_energy_eV=NA"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 3712,
+    "identity_key": "tert-butanol",
+    "before": {
+      "energy_eV": "77.0",
+      "energy_is_reported": "True"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 3798,
+    "identity_key": "titanium-tetrachloride",
+    "before": {
+      "energy_eV": "74.67080283182942",
+      "energy_is_reported": "False"
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\scott_irikura2005_new5_strict_peak_pairs_2026_08_02.csv; source_cache/scott_irikura_2005/scott_irikura_2005_sia_preprint.pdf Table 2, PDF page 11: experimental and BEB maxima, no peak-energy column"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 3800,
+    "identity_key": "trans-1-2-dichloroethene",
+    "before": {
+      "energy_eV": "88.0",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "79"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. The original Bart table DOES report a separate experimental peak energy. It is recorded in this audit but is deliberately not substituted into a common-energy cross-section pair; the current finite model input is the BEB column. The experimental and BEB amplitudes remain separate maxima, not values at that same energy.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\bart_hudson2001_new6_strict_peak_pairs_2026_08_02.csv; source_cache/bart_thesis_2003/bart_thesis.pdf Table 3.4 PDF page 62 (printed 43), and Table 5.3 PDF pages 141-142 (printed 122-123); experimental and BEB peak energies are separate columns"
+  },
+  {
+    "stage": "late_source_metadata",
+    "original_csv_line": 3809,
+    "identity_key": "uracil",
+    "before": {
+      "energy_eV": "95.0",
+      "energy_is_reported": "True",
+      "experimental_peak_energy_eV": ""
+    },
+    "after": {
+      "energy_eV": "",
+      "energy_is_reported": "False",
+      "experimental_peak_energy_eV": "95"
+    },
+    "reason": "Experimental maximum is at 95 eV whereas the tabulated BEB maximum is at 85 eV. The two peak amplitudes do not form a common-energy cross-section pair. Retain experimental peak energy as metadata, not a deployment feature requiring target data.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\new25_incremental_identity_ledger_2026_08_01.csv; new25_incremental_identity_ledger_2026_08_01.csv; experiment Shafranyosh and Sukhoviya, DOI 10.1063/1.4765307, abstract maximum 10 A^2 at 95 eV; Mozejko and Sanche (2003), DOI 10.1007/s00411-003-0206-7, Table 5, printed p. 207, independent BEB maximum 14.57 A^2 at 85 eV."
+  },
+  {
+    "stage": "verified_experimental_source_replacement",
+    "original_csv_line": 864,
+    "identity_key": "c2h2cl4-1-1-1-2",
+    "before": {
+      "experimental_sigma_A2": "21.24",
+      "experimental_uncertainty_A2": "0.82836"
+    },
+    "after": {
+      "experimental_sigma_A2": "21.1",
+      "experimental_uncertainty_A2": "0.8229"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  },
+  {
+    "stage": "verified_experimental_source_replacement",
+    "original_csv_line": 866,
+    "identity_key": "c2h2cl4-1-1-2-2",
+    "before": {
+      "experimental_sigma_A2": "19.66",
+      "experimental_uncertainty_A2": "0.76674"
+    },
+    "after": {
+      "experimental_sigma_A2": "19.8",
+      "experimental_uncertainty_A2": "0.7722"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  },
+  {
+    "stage": "verified_experimental_source_replacement",
+    "original_csv_line": 868,
+    "identity_key": "c2h3cl3-1-1-1",
+    "before": {
+      "experimental_sigma_A2": "17.25",
+      "experimental_uncertainty_A2": "0.67275"
+    },
+    "after": {
+      "experimental_sigma_A2": "17.6",
+      "experimental_uncertainty_A2": "0.6864"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  },
+  {
+    "stage": "verified_experimental_source_replacement",
+    "original_csv_line": 870,
+    "identity_key": "c2h3cl3-1-1-2",
+    "before": {
+      "experimental_sigma_A2": "17.13",
+      "experimental_uncertainty_A2": "0.66807"
+    },
+    "after": {
+      "experimental_sigma_A2": "17.1",
+      "experimental_uncertainty_A2": "0.6669"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  },
+  {
+    "stage": "verified_experimental_source_replacement",
+    "original_csv_line": 872,
+    "identity_key": "c2h4cl2-1-1",
+    "before": {
+      "experimental_sigma_A2": "13.8",
+      "experimental_uncertainty_A2": "0.5382"
+    },
+    "after": {
+      "experimental_sigma_A2": "14.1",
+      "experimental_uncertainty_A2": "0.5499"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  },
+  {
+    "stage": "verified_experimental_source_replacement",
+    "original_csv_line": 880,
+    "identity_key": "c3h7cl-1",
+    "before": {
+      "experimental_sigma_A2": "14.1",
+      "experimental_uncertainty_A2": "0.5499"
+    },
+    "after": {
+      "experimental_sigma_A2": "14.2",
+      "experimental_uncertainty_A2": "0.5538"
+    },
+    "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+    "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+  }
+]

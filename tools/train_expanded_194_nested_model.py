@@ -311,7 +311,7 @@ def main():
         }
 
     package = {
-        "version": "evidence_corrected_v2_194_nested_multitask_2026_09_06",
+        "version": "evidence_corrected_v3_194_nested_multitask_2026_09_06",
         "models": final_models, "feature_names": feature_names,
         "task_routing": "peak / fixed_sparse / curve",
         "missing_energy_policy": "72.5 eV numerical imputation plus explicit missing flag; never reported as experimental energy",
@@ -330,7 +330,7 @@ def main():
         "bootstrap_vs_raw": boot_raw, "bootstrap_vs_constant": boot_const,
         "per_task": per_task, "outer_fold_audit": outer_audit,
         "final_selection": final_selection,
-        "scientific_note": "All 194 identities remain. The corrected data contain 74 curve-bearing identities; seven water theory labels, 330 ambiguous ester curve labels and thirteen duplicate renormalised ozone labels were quarantined. Fifteen published ester peak heights retain no reported peak energy and use the author's 5% absolute accuracy. Nine retained ester curves are peak-anchored figure-trace extractions. Ozone's primary boundary is recomputed from the retained original measurements. The original outer molecular folds and model-search protocol are retained.",
+        "scientific_note": "All 194 identities remain, including 74 curve-bearing identities. Seven water theory labels, 330 ambiguous ester curve labels and thirteen duplicate renormalised ozone labels are quarantined. All 67 peak-to-peak amplitude observations have missing common-energy features; 27 source-reported experimental peak energies are retained only as audit metadata. Nitromethane is a matched 60 eV fixed-energy pair. The exact late corrections and six original-table experimental peak replacements are replayed from audit/late_source_corrections.json; BEB amplitudes are unchanged. The six replacements use Bart's documented 3.9% instrumental bound, not a standard deviation; fifteen Hudson peak uncertainties use 5% source accuracy. Nine retained ester curves are peak-anchored figure-trace extractions. Original outer folds, 49 features and the model-search protocol are retained without performance-driven retuning.",
         "runtime": {"python": platform.python_version(), "platform": platform.platform(), "elapsed_seconds": time.perf_counter() - started},
         "correction_scope": json.loads((ROOT / "audit" / "correction_scope.json").read_text(encoding="utf-8")),
     }

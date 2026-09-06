@@ -1,0 +1,7 @@
+{
+  "file": "audit/legacy_r2/validity_ablation_results.json",
+  "original_sha256": "fa72c0854bf28e0f3f0491a6d23f01902956fab61cccb2c79aea00dd3ff5474b",
+  "published_sha256": "1db90b51a412031507ec6b2b051ef578670f7a6fd4e8640b5783d97e1c917b40",
+  "field": "source_batch_summary.excluded_identities[0].source_locator",
+  "change": "Historical machine-specific absolute locator replaced by an explicit ${ARCHIVE_ROOT}/outputs relative locator. No metric, count, prediction or source filename changed."
+}

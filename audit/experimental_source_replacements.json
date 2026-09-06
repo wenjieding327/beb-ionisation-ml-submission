@@ -1,0 +1,96 @@
+{
+  "derived_from": "audit/late_source_corrections.json",
+  "stage": "six original-table experimental peak replacements, applied after metadata corrections",
+  "patches": [
+    {
+      "original_csv_line": 864,
+      "original_row_sha256": "ecf183ac4be974e8f27f249cbd4b467076681f4f5c5acebf064d301d61de9800",
+      "identity_key": "c2h2cl4-1-1-1-2",
+      "before": {
+        "experimental_sigma_A2": "21.24",
+        "experimental_uncertainty_A2": "0.82836"
+      },
+      "after": {
+        "experimental_sigma_A2": 21.1,
+        "experimental_uncertainty_A2": 0.8229
+      },
+      "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+      "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+    },
+    {
+      "original_csv_line": 866,
+      "original_row_sha256": "943c3a9b2d4675d6f21a2355dc25db40f8510ba0ecb6151dbaa7ddf4339d42a8",
+      "identity_key": "c2h2cl4-1-1-2-2",
+      "before": {
+        "experimental_sigma_A2": "19.66",
+        "experimental_uncertainty_A2": "0.76674"
+      },
+      "after": {
+        "experimental_sigma_A2": 19.8,
+        "experimental_uncertainty_A2": 0.7722
+      },
+      "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+      "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+    },
+    {
+      "original_csv_line": 868,
+      "original_row_sha256": "10086efa2ec8872ce224668151697901e52775b8d323bed6634004d6112b4c14",
+      "identity_key": "c2h3cl3-1-1-1",
+      "before": {
+        "experimental_sigma_A2": "17.25",
+        "experimental_uncertainty_A2": "0.67275"
+      },
+      "after": {
+        "experimental_sigma_A2": 17.6,
+        "experimental_uncertainty_A2": 0.6864
+      },
+      "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+      "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+    },
+    {
+      "original_csv_line": 870,
+      "original_row_sha256": "1129bbeffbc309bdfc890343a9713402e0cb6170d8339e6d432ecbf577337b64",
+      "identity_key": "c2h3cl3-1-1-2",
+      "before": {
+        "experimental_sigma_A2": "17.13",
+        "experimental_uncertainty_A2": "0.66807"
+      },
+      "after": {
+        "experimental_sigma_A2": 17.1,
+        "experimental_uncertainty_A2": 0.6669
+      },
+      "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+      "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+    },
+    {
+      "original_csv_line": 872,
+      "original_row_sha256": "315e6f93eb01438440aba2c73d228bd237ea6281e511dec7d16b8ec88d5ec1d8",
+      "identity_key": "c2h4cl2-1-1",
+      "before": {
+        "experimental_sigma_A2": "13.8",
+        "experimental_uncertainty_A2": "0.5382"
+      },
+      "after": {
+        "experimental_sigma_A2": 14.1,
+        "experimental_uncertainty_A2": 0.5499
+      },
+      "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+      "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+    },
+    {
+      "original_csv_line": 880,
+      "original_row_sha256": "57fb67925ddff0ec27c5523c56d313e6aa983b601e82e167578d5917ac60f8b2",
+      "identity_key": "c3h7cl-1",
+      "before": {
+        "experimental_sigma_A2": "14.1",
+        "experimental_uncertainty_A2": "0.5499"
+      },
+      "after": {
+        "experimental_sigma_A2": 14.2,
+        "experimental_uncertainty_A2": 0.5538
+      },
+      "reason": "The finite energy in this peak-amplitude record originated from a calculated BEB peak, not a verified common-energy experimental/BEB observation. Keep the independently recorded peak amplitudes; do not expose theoretical peak energy as experimental energy. Conservative model-input policy: the retained peak-amplitude pair has no assigned energy. Legacy expansion subsequently marked those backfilled values as reported. This correction does not assert that the original experimental paper never reported a peak energy. Additional source correction, authorized after uniform inspection of all 15 related retained peaks: the legacy amplitude could not be reproduced from its vaguely cited compilation. Replace it with the explicitly measured experimental maximum in Bart Table 3.4. Keep the same molecule, isomer, total observable and unchanged BEB amplitude. Rescale absolute uncertainty using the original documented 3.9% maximum instrumental bound (not an assumed 5% or a standard deviation). This source-based replacement is independent of model performance.",
+      "source": "${ARCHIVE_ROOT}\\outputs\\no_qec_priority_2026_07_31\\agent_no_qec_immediate_numeric_peak_labels_50.csv; source column experimental_energy_eV=NA; tools/train_final_beb_residual_model.py load_peak_labels lines 245-263 explicitly substitutes curve_peak energy for missing experimental energy; Replacement experimental numerical carrier: [59] M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, Christchurch, New Zealand, 2003. https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content; Table 3.4 PDF page 62 / printed 43; Table 3.2 PDF page 56 / printed 37"
+    }
+  ]
+}

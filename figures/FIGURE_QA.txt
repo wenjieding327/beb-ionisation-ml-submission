@@ -1,42 +1,83 @@
-Corrected report figure rebuild, 6 September 2026
+Final V3 report figure QA, 6 September 2026
 
-Inputs: only outputs below this corrected release root, as individually SHA-256
-recorded in figure_summary.json. The generator does not read historical OOF files.
-Command: python tools/build_verified_paper_figures.py
-Environment: same Python 3.12.14 scientific environment used for final training.
+STATUS: PASS for all 14 final PNG figures. All were opened and visually inspected
+individually in the final V3 release. No figure, script, model or numeric output
+was changed during this QA. This document supersedes the earlier V2 QA record.
 
-All 14 PNG figures were opened and visually inspected. The source-batch legend
-was moved away from the final numerical label; case-panel energy ticks were
-expanded from a single 100-eV label to readable multiple log-spaced values.
-Titles, axes, bar labels and main legends are readable, with no detected overlaps
-or clipped text. General text is 11--12 pt at the design size; paired-plot source
-legend is 8.8 pt to distinguish the two ozone measurements. Preserve aspect ratio
-on insertion into the DOCX (approximately 6.5--6.7 inches wide). Final document
-pagination and image scaling still require the main agent's DOCX render check.
+Input provenance: all eight SHA-256 checks in figure_summary.json were independently
+recomputed against this release and matched. Figures use the final V3 OOF,
+metrics and validity outputs, including the final peak-source corrections.
+Reproduction command: python tools/build_verified_paper_figures.py
+Recorded environment: Python 3.12.14, matplotlib 3.11.1, numpy 2.5.1, pandas 3.0.1.
 
-Fig. 1: checked 194 identities, 3533 observations; curve 3316/74,
-fixed-sparse 149/143, peak 68/68. Groups overlap by molecular identity.
-Fig. 2: checked 49 features, separate heads, matched-grid wording.
-Fig. 3: checked 15.28% raw, 16.06% constant and 14.17% ML;
-conditional difference CI [-0.61, 2.69] pp visibly crosses zero.
-Fig. 4: all points retained on log-log axes, R2 labels from corrected metrics.
-Fig. 5: replaced clipped histograms/boxplots by a complete empirical CDF;
-the caption and surrounding discussion must describe a CDF, not a histogram.
-Fig. 6: curve-only and mixed-evidence scopes explicitly separated.
-Fig. 7: all eight methods are rebuilt from corrected ablation CSV values.
-Fig. 8: descriptive aggregated feature weights, explicitly not SHAP or causal.
-Fig. 9: 73 stress-test molecules, weighted 15.38% -> 17.38%; batch/source
-confounding explicitly noted, labels checked after legend repositioning.
-Fig. 10: 42 curve molecules improve and 32 worsen; both tails are shown.
-Fig. 11: methane and ethene retained as benchmarks, no claim of no change.
-Fig. 12: automatic new-OOF top two are propyl acetate and methyl formate;
-the quarantined sec-butyl acetate is not shown as a curve success case.
-Fig. 13: carbon monosulfide and ozone. Ozone maps exact original CSV lines
-to Newson et al. (1995) circles and Siegel (1982) triangles. All 13 renormalised
-variant points are absent. The two remaining series are fairly close; the major
-remaining discrepancy is model overprediction, not the old large double branch.
-Fig. 14: dichlorodifluoromethane remains the worst per-molecule deterioration.
+Titles, axes, numeric labels and legends are readable, with no detected text
+overlap or clipping. Scientific curves and statistical charts were not retouched.
+Preserve the image aspect ratios in the report. DOCX pagination and scaling are
+separate checks; a regenerated report requires its own page-render inspection.
 
-Per-molecule case values and selection reasons are in figure_summary.json,
-representative_case_metrics.csv and per_molecule_curve_metrics.csv.
-Ready-to-adapt English captions are in figure_summary.json/caption_templates.
+Fig. 1: 194 identities, 3,533 observations; 3,316 curve rows / 74 molecules,
+150 fixed-sparse rows / 144 molecules, and 67 peak rows / 67 molecules.
+The identity groups overlap; the three row counts sum to 3,533.
+
+Fig. 2: 49 features, separate task heads and matched-grid wording checked.
+The diagram does not claim that the BEB shape features use a uniformly dense,
+independent full theoretical grid.
+
+Fig. 3: primary curve NMAE 15.28% raw, 16.06% constant scale and 14.02% ML.
+The exact raw-to-ML difference is 1.2534687 percentage points (8.2052452% relative).
+The conditional paired-molecule bootstrap interval [-0.42, 2.82] pp visibly
+crosses zero; the figure does not label this result statistically significant.
+
+Fig. 4: all 3,533 observations shown on log-log parity axes; R2 labels 0.905 and
+0.950 agree with final metrics. No deliberate outlier clipping was identified.
+
+Fig. 5: complete empirical CDF, not a histogram or boxplot. The axis is linear
+below 1% and logarithmic above. Median absolute percentage errors are 11.53%,
+10.59% and 8.42% for raw, constant scale and residual ML. The full error range
+is retained. These are medians, not mean percentage errors.
+
+Fig. 6: curve and mixed-evidence scopes are clearly separated. All-evidence
+primary NMAE is 19.74% raw to 12.66% ML; it is not a 194-molecule curve result.
+Fixed/sparse and peak panels show the final 144 and 67 molecular counts.
+
+Fig. 7: all eight methods shown from the final ablation outputs. Full routed
+curve result is 14.02%; pooled is 12.52%; no-shape is 13.98%. These observed
+differences alone do not establish superiority; paired intervals are reported
+separately. Bar labels, method labels and legend are unobstructed.
+
+Fig. 8: descriptive aggregate feature weights, explicitly labelled not causal
+evidence or SHAP. Groups read composition 53.9%, interactions 27.5%, BEB shape
+13.8%, energy 3.0% and BEB magnitude 1.8%. The nine feature names are legible.
+
+Fig. 9: source-ingestion batch stress test covers 73 curve molecules; weighted
+aggregate is 15.38% raw to 17.38% ML. All seven batch counts sum to 73. Only
+Heavy ECP improves in this displayed test. The chart explicitly warns that
+batches are not independent papers and source/family effects may be confounded.
+
+Fig. 10: 43 curve molecules improve and 31 worsen, totalling 74. Both tails
+are visible; the largest improvement is methyl formate (+16.84 pp) and the
+largest deterioration is dichlorodifluoromethane (-28.99 pp).
+
+Fig. 11: classic benchmarks methane 6.14% to 7.33% and ethene 5.59% to 8.01%.
+The title does not incorrectly claim that their predictions are unchanged.
+
+Fig. 12: two largest observed retained-curve improvements are methyl formate
+(21.14% to 4.30%) and propyl acetate (18.42% to 1.77%). No quarantined ambiguous
+ester trace is presented as a successful curve example. Selection is explicitly
+post-result and these examples do not substitute for aggregate validation.
+
+Fig. 13: carbon monosulfide 25.09% to 25.16%; ozone 54.26% to 41.73%.
+Ozone retains 19 original measurements, distinguished as Newson et al. (1995)
+circles and Siegel (1982) triangles. All 13 duplicate renormalised-series rows
+are absent. The remaining original series are relatively close; substantial
+model overprediction persists. The figure does not label the source difference
+as a digitisation error. The source legend is clear and does not hide points.
+
+Fig. 14: dichlorodifluoromethane 26.77% to 55.75%, explicitly described as the
+largest observed deterioration in the retained curve set. Full curves and
+experimental points, including the low-energy region, are visible.
+
+Exact values, source hashes and case-selection reasons are recorded in
+figure_summary.json, representative_case_metrics.csv and
+per_molecule_curve_metrics.csv. English caption templates in figure_summary.json
+must be read together with the final report's statistical and source limitations.

@@ -210,7 +210,7 @@
         "molecule_name": "sec-Butanol",
         "formula": "C4H10O",
         "held_out_batch": "Other/single source",
-        "source_locator": "C:\\Users\\DWJ\\Documents\\网络\\outputs\\no_qec_priority_2026_07_31\\agent_2butanol_hudson2003_strict_numeric_pairs.csv"
+        "source_locator": "${ARCHIVE_ROOT}/outputs/no_qec_priority_2026_07_31/agent_2butanol_hudson2003_strict_numeric_pairs.csv"
       }
     ],
     "weighted_raw_primary_macro_NMAE": 0.15422989322951638,

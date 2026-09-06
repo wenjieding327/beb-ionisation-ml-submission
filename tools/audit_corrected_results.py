@@ -58,7 +58,10 @@ def main():
         writer=csv.DictWriter(stream,fieldnames=list(cases[0]));writer.writeheader();writer.writerows(cases)
     legacy=load(ROOT/"audit/legacy_r2/expanded_194_oof_predictions.csv")
     legacy_by_line={str(n):r for n,r in enumerate(legacy,2)}
-    old_survivors=[dict(legacy_by_line[r["original_csv_line"]],primary_low_energy=r["primary_low_energy"]) for r in rows]
+    old_survivors=[dict(legacy_by_line[r["original_csv_line"]],
+                        primary_low_energy=r["primary_low_energy"],
+                        experimental_sigma_A2=r["experimental_sigma_A2"],
+                        label_type=r["label_type"]) for r in rows]
     old_curve=[r for r in old_survivors if family(r["label_type"])=="curve"]
     comparison={"old_model_on_same_surviving_all_rows":macro(old_survivors,"prediction_expanded_ml_A2"),"old_model_on_same_surviving_curve_rows":macro(old_curve,"prediction_expanded_ml_A2"),"new_model_on_same_surviving_all_rows":values["all"]["ml"],"new_model_on_same_surviving_curve_rows":values["curve"]["ml"],"note":"Old models were trained on legacy labels and are shown for audit only. These values are not a corrected clean benchmark."}
     result={"verified_from_csv":values,"comparison_with_legacy_predictions":comparison,"observations":len(rows),"molecules":len({r["identity_key"] for r in rows}),"curve_molecules":len(groups),"features":49,"runtime":summary["runtime"],"input_sha256":hashlib.sha256((ROOT/"outputs/expanded_194_training_2026_08_02/expanded_194_training_points.csv").read_bytes()).hexdigest()}

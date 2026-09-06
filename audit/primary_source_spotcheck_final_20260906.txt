@@ -1,0 +1,117 @@
+FINAL BOUNDED PRIMARY-SOURCE / NUMERICAL-CARRIER AUDIT
+2026-09-06 — read-only audit of the retained 194-identity study, not an expansion of the dataset.
+
+WHAT THIS AUDIT DOES AND DOES NOT CERTIFY
+
+1. Bibliographic existence: an article/book/thesis and its identifier are real. This alone does NOT establish that it supports a particular claim or number.
+2. Claim support: the inspected abstract/text/table/legend supports the statement attached to that citation, within its stated scope.
+3. Numerical-carrier verification: the actual table/author database/figure-series from which the adopted number was recovered is identified and checked. This can be a later comparison paper or a standardized compilation.
+4. Original-measurement reconstruction: each original experiment, calibration, digitization and uncertainty is independently reproduced. This has NOT been done for every row/source in the study. Do not claim that it has.
+
+The revised paper should describe sources with these distinctions. A numerical value explicitly quoted in a later published comparison may be used with that comparison identified as the carrier and the earlier experiment identified as the original source. It must not be presented as an independent extraction from an unread original experimental paper.
+
+COMPLETED HIGH-PRIORITY CHECKS
+
+A. BOSE STANDARDIZED FIXED-ENERGY EXPERIMENTAL LABELS — 125/125 CURRENT ROWS
+
+Actual carrier: Arnab Bose, Polysaccharide and Heat-Transfer-Fluid Pyrolysis Mechanisms Developed Using Data, Theory, and Machine Learning, dissertation (2021), Appendix A, Table A.7, PDF pp.329–355 / printed pp.287–313.
+Public original university repository:
+https://repository.lib.ncsu.edu/bitstreams/e76df401-02d2-4db1-903b-dad1b9e89fe0/download
+Associated article, not the thesis page locator: https://doi.org/10.1021/acs.jpca.0c06308
+
+The heading and columns explicitly identify cross-section population means, interlab counts, and a 95% confidence-interval column. Section 2.3.1 (PDF pp.58–59 / printed pp.16–17) describes laboratory experimental values standardized to a common reference. Table A.2 (PDF pp.316–318 / printed pp.274–276) supplies dataset scaling factors. These are experimental-derived standardized means, NOT BEB/ML prediction columns.
+
+The actual PDF mean column was replayed for 396 rows. The 125 retained training rows from ready100 (96), ALeCS approved manifests (23), and Zhong-Bose (6) were then checked by explicit source name/alias, molecular composition and table-record ID. All 125 experimental labels exactly equal the corresponding PDF Mean cross section values; zero value mismatches. None of these 125 mean entries has the original table's italic nonlinearity flag. This 125-row grouping does not claim to exhaust all other retained rows whose distant provenance includes Bose.
+
+Machine-readable evidence: bose125_numeric_carrier_column_audit.json.
+Method limitation: the existing PDF coordinate extractor was replayed; this is not an independently designed second digitization algorithm, nor a reconstruction of every source laboratory's raw data, standardization factor, mean or confidence interval.
+
+Additional primary checks:
+- Acetaldehyde: Table A.7 PDF p.337 / printed p.295, 8.3 A^2 and CI-column 3.6, N=4. Own-lab calibration is documented in Table B.2 PDF p.371 / printed p.329. All four original contributing measurements have NOT been independently reconstructed. Do not replace the four-source mean by one guessed original DOI.
+- Acetic acid: Table A.7 PDF p.339 / printed p.297 explicitly says one source “our lab”, 10.3 A^2 and CI-column 1.6. The 70 eV measurement/calibration report is in Sections 2.2.1/B.3 and Table B.2. The original source here includes Bose's own measurement, not an absent earlier external paper. Raw chromatograms and uncertainty propagation were not independently recalculated.
+- Propylcyanide/butyronitrile and isopropylcyanide: Table A.7 PDF p.347 / printed p.305, 16.3 and 15.3 A^2. The table prints “Zhu”, while the reference/scaling table resolves this to Zhou et al. 2019, https://doi.org/10.1080/00268976.2019.1583389. Original paper Table 2 and Figure 3 distinguish the two structures and measured curves. Bose applies factor 1.40 to the 70 eV dataset; the adopted values remain Bose-standardized, not this project's freshly digitized original ordinates.
+
+Required wording boundary: “source-harmonized 70–75 eV experimental population mean”, not “an experimental average of measured values at exactly 70 and 75 eV for each molecule”. The model's BEB endpoint-mean approximation is a separate modelling choice.
+
+B. SCOTT–IRIKURA HEAVY-MOLECULE PEAKS — FIVE CARRIER VALUES
+
+Actual numerical carrier: Scott and Irikura (2005), https://doi.org/10.1002/sia.2091.
+Author manuscript inspected: source_cache/scott_irikura_2005/scott_irikura_2005_sia_preprint.pdf, Table 2, PDF p.11, including reference footnotes.
+- CBr4: adopted experimental maximum 19.0 ± 0.76 A^2; ECP-BEB maximum 19.7 A^2; experiment attributed to Bart et al. (2001), DOI 10.1039/B009243F.
+- GaCl: 9.25 ± 0.93 vs 8.3 A^2; Shul et al. (1990), Physical Review A 41, 5856, DOI 10.1103/PhysRevA.41.5856.
+- CH3I: 10.3 ± 0.3 vs 8.7 A^2; Rejoub et al. (2002), DOI 10.1063/1.1506152. Table 2 also lists another experimental value; the adopted 10.3 entry must be identified, not all entries merged.
+- TiCl4: 16.45 ± 2.47 vs 17.5 A^2; Basner et al. (2000), DOI 10.1016/S0040-6090(00)01143-3.
+- Trichloroacetonitrile: 14.11 ± 0.56 vs 15.0 A^2; Bart et al. (2001), DOI 10.1039/B009243F.
+
+Table 2 supplies maxima, not a common collision-energy pair, and has no peak-energy column. These carrier values were directly checked; not all earlier experimental full papers were independently read. Do not say they were directly transcribed from all primary experimental tables. Different later compilations/experimental reports may quote different values; their numerical carrier must remain explicit.
+
+C. RAW ECP-BEB VERSUS EXPERIMENTALLY SCALED THEORY
+
+Original numerical/figure carrier read: Graves et al. (2021), https://doi.org/10.1063/5.0039465, UCL manuscript:
+https://discovery.ucl.ac.uk/id/eprint/10125185/1/5.0039465.pdf
+PDF p.8 / printed 114104-7: Figure 9 PH3, Figure 12 SiCl4; PDF p.9 / printed 114104-8: Figure 13 CH3Br.
+Legends explicitly distinguish experimental symbols from all-electron BEB, raw ECP-BEB, and alpha-BEB. The corrected source route must continue to identify raw ECP-BEB. An alpha-BEB curve fitted/scaled with experimental information is not an independent raw baseline.
+Primary experimental references identified through the actual legend/citation chain:
+- PH3: Mark and Egger (1977), JCP 67, 2629–2635, DOI 10.1063/1.435174. The later Graves reference list has a year typo; do not copy 2015 for this 1977 paper.
+- SiCl4: Basner et al. (2005), JCP 123, 054313, DOI 10.1063/1.1995697.
+- CH3Br: Rejoub et al. (2002), DOI 10.1063/1.1506152.
+Full carrier legends were inspected; this does not independently reproduce all three earlier experimental measurements or every graph ordinate.
+
+D. SiCl, SiCl2, SiCl3 CARRIER LEGENDS
+
+Original carrier read: Kaur et al. (2025), https://doi.org/10.3390/atoms13070064.
+Open PDF used:
+https://mdpi-res.com/d_attachment/atoms/atoms-13-00064/article_deploy/atoms-13-00064.pdf
+PDF p.5 Figure 1(a): SiCl experimental circles attributed to Mahoney et al.; p.6 Figure 2: SiCl2 raw and renormalized BEB shown separately; p.7 Figure 4: SiCl3 experimental circles attributed to Gutkin et al., distinct from BEB and summed model PICS.
+Original source chain:
+- Mahoney et al. (2008), Electron impact ionization of SiCl2 and SiCl, DOI 10.1140/epjd/e2007-00324-1.
+- Gutkin et al. (2009), Electron-impact ionization of the SiCl3 radical, DOI 10.1016/j.ijms.2008.07.032.
+These full carrier figures/legends were read. Original experimental abstract/identity checks do not amount to full remeasurement or a fresh complete per-point digitization.
+
+E. NITROMETHANE — NECESSARY INPUT TASK CORRECTION
+
+Open numerical carrier: Luthra et al. (2022), https://doi.org/10.3390/atoms10030074; local source_cache/atoms-10-00074-v2.pdf, PDF p.10 explicit discussion and PDF p.11 Figure 11.
+The text distinguishes:
+- Experimental maximum 6.8 A^2 at 60 eV (15% estimated uncertainty).
+- BEB value at the same 60 eV: 5.95 A^2.
+- Independent BEB maximum: 6.6 A^2 at 110 eV.
+Thus the stored 6.8/5.95 at 60 eV is a legitimate SAME-ENERGY fixed point, not a peak-to-peak height label. late_source_corrections.json changes only its task label, preserving the amplitudes and uncertainty. Original experiment: Jiao et al., DOI 10.1021/jp022031h; abstract checked, not the whole paywalled primary paper.
+
+F. ALL RETAINED PEAK-AMPLITUDE ENERGY INPUTS AND BART SOURCE REPLACEMENTS
+
+All 68 original peak rows were examined by source route. Apart from the nitromethane fixed-energy correction, peak-to-peak amplitude pairs do not carry a verified common collision energy. The final patch clears 51 finite model energies and preserves 27 separately verified experimental peak energies as metadata excluded from the features. Previously missing energies stay missing. Missing model energy does NOT mean the original paper never reported experimental peak energy.
+
+Examples proving the distinction:
+- Methylcyclohexane experimental maximum at 65 eV versus BEB maximum at 70 eV, DOI 10.1016/j.ijms.2010.11.005, Tables 2–3/Summary.
+- Uracil experiment maximum at 95 eV, DOI 10.1063/1.4765307, versus BEB maximum at 85 eV in Mozejko and Sanche Table 5, DOI 10.1007/s00411-003-0206-7.
+- Three xylene experimental maxima at 80 eV, DOI 10.1016/j.cplett.2013.04.051; adopted theoretical values are independently tabulated maxima in Gupta et al. Table II, DOI 10.1063/1.5081841, not demonstrated to be BEB(80 eV).
+
+Uniform 15-row Bart-related peak comparison:
+M. Bart. Electron Impact Ionization: Measurements of Absolute Cross-Sections and Cross-Beam Studies. PhD thesis, University of Canterbury, 2003.
+https://ir.canterbury.ac.nz/server/api/core/bitstreams/7106f9ca-1e1a-47c9-8224-7886f52b012e/content
+Table 3.4, PDF p.62 / printed p.43: maximum EXPERIMENTAL total ionization cross sections and experimental peak energies, with exact positional-isomer labels.
+Table 3.2, PDF p.56 / printed p.37: maximum instrumental uncertainty totals 3.9%; this is not a standard deviation.
+The whole 15-row group was compared, not just cases that would change a score: nine retained peak heights match; six older vaguely sourced values do not. Parent-authorized correction replaces all six by the directly verified thesis experimental table values and updates their 3.9% absolute uncertainty, leaving BEB unchanged:
+- 1,1,1,2-tetrachloroethane: 21.24 -> 21.10 A^2.
+- 1,1,1-trichloroethane: 17.25 -> 17.60 A^2.
+- 1,1,2,2-tetrachloroethane: 19.66 -> 19.80 A^2.
+- 1,1,2-trichloroethane: 17.13 -> 17.10 A^2.
+- 1,1-dichloroethane: 13.80 -> 14.10 A^2.
+- 1-chloropropane: 14.10 -> 14.20 A^2.
+Related Hudson journal DOI 10.1088/0953-4075/34/15/309 remains a real related study, but must not be described as an independently checked exact numerical table for the replaced legacy values. Cite the actual thesis numerical carrier as reference [59]. Full 15-row exact-key audit and all replacement patches are inside late_source_corrections.json.
+
+REMAINING LIMITATIONS / NON-BLOCKING SOURCE STATUS
+
+- NIST series provenance has been restored to the actual experimental series used, but not every older original experimental paper has been independently read in full. Carbonyl sulfide includes a private-communication source carried by NIST; there is no original public paper to pretend to have verified for that series.
+- The 125-row Bose table transfer is verified; source-specific means/scaling/CI calculations are adopted from Bose, not independently reconstructed. The multi-laboratory source trail for every mean is not complete at the raw-data level.
+- Later theoretical comparisons sometimes carry the only accessible numerical experimental maxima/curves. References to original experiments establish provenance, not a false claim that every primary full text or every ordinate was independently re-extracted.
+- Nine retained ester curves are graph-marker extractions anchored to Table 1, not independent author-supplied numerical experimental tables. The six ambiguous ester curves and the identified NIST theory/renormalized duplicates remain excluded by the earlier 350-row source audit.
+- No outcome-based exclusions or baseline changes are authorized by this note. Source/data semantics, not better ML scores, motivated the listed corrections.
+
+DELIVERY FILES
+late_source_corrections.json — exact original CSV line/hash, before/after fields, source locators; 51 energy changes, 1 task relabel, 6 experimental amplitude/uncertainty source replacements; no row removal and no BEB amplitude change.
+late_source_ledger_overrides.json — 137 source-text-only identity updates (including six exact carrier-to-original-experiment citation chains), not replacement model metrics.
+bose125_numeric_carrier_column_audit.json — all 125 named rows and exact PDF mean-column transfer checks.
+bose_primary_spotcheck_20260906.txt — bounded primary details for selected Bose source chains.
+
+No frozen training CSV, DOCX, repository manifest or submitted paper was edited by this audit. Candidate changes were passed to the code/report agents to rebuild and verify in a new release. No AI-use declaration was added or proposed.
